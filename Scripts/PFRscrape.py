@@ -26,12 +26,15 @@ def over(game_log, threshold, column_name):
 
 def dyn_stat(new_stat, stat1, stat2, func):
     if func == 'add':
-        game_log[new_stat] = game_log[stat1] + game_log[stat2]
-        return game_log[new_stat]
+        if stat1 in game_log.columns and stat2 in game_log.columns:
+            game_log[new_stat] = game_log[stat1] + game_log[stat2]
+        elif stat1 in game_log.columns:
+            game_log[new_stat] = game_log[stat1]
+        elif stat2 in game_log.columns:
+            game_log[new_stat] = game_log[stat2]
 
     if func == 'percentage':
         game_log[new_stat] = (game_log[stat1] / game_log[stat2]) * 100
-        return game_log[new_stat]
 
 requests_per_minute_limit = 12
 time_limit_seconds = 60
@@ -52,12 +55,13 @@ stat_mapping = {
     'Pass+Rush Yds': 'pass_rush_yds',
     'Rush Attempts': 'rush_att',
     'Rec Targets': 'tgt',
-    'Completion Percentage': 'cmp_per'
+    'Completion Percentage': 'cmp_per',
+    'Rush+Rec Yds': 'rush_rec_yds'
 }
 
 output_data_list = []
 
-for index, row in input_data.iloc[124:125].iterrows():
+for index, row in input_data.iloc[236:237].iterrows():
     player = str(row.iloc[0])
     position = str(row.iloc[1])
     threshold = row.iloc[3]
@@ -75,26 +79,20 @@ for index, row in input_data.iloc[124:125].iterrows():
     if game_log is None:
         print(f"Error fetching game log for {player}. Skipping.")
         continue
-    
-    game_log = game_log.map(lambda x: 0 if x == '' else x)
 
     print(f"Input Stat: {input_stat}, Mapped Stat: {stat}")
     
-    # Need to change this to the dyn_stat
-    if stat == 'rush_rec_td' and 'rush_td' in game_log.columns and 'rec_td' in game_log.columns:
-        game_log['rush_rec_td'] = game_log['rush_td'] + game_log['rec_td']
-    elif stat == 'rush_rec_td' and 'rush_td' in game_log.columns:
-        game_log['rush_rec_td'] = game_log['rush_td']
-    elif stat == 'rush_rec_td' and 'rec_td' in game_log.columns:
-        game_log['rush_rec_td'] = game_log['rec_td']
+    # Add rush+rec yds
+    if stat == 'rush_rec_td':
+        dyn_stat(stat, 'rush_td', 'rec_td', 'add')
+    elif stat == 'pass_rush_yds':
+        dyn_stat(stat, 'pass_yds', 'rush_yds', 'add')
+    elif stat == 'rush_rec_yds':
+        dyn_stat(stat, 'rush_yds', 'rec_yds', 'add')
+    elif stat == 'cmp_per':
+        dyn_stat(stat, 'cmp', 'att', 'percentage')
     else:
-        print("Error: Columns 'rush_td' and 'rec_td' not found. Skipping 'Rush+Rec TDs' calculation.")
-    
-    if stat == 'pass_rush_yds':
-        game_log['pass_rush_yds'] = game_log['pass_yds'] + game_log['rush_yds']
-
-    if stat == 'cmp_per':
-        game_log['cmp_per'] = (game_log['cmp'] / game_log['att']) * 100
+        print(f"Error: Unsupported stat '{stat}'. Skipping calculation.")
     
     per_over = over(game_log, threshold, stat)
     output_data = output_data_list.append({'Player': player, 'Stat': stat, 'Threshold': threshold, 'Percentage': per_over})
