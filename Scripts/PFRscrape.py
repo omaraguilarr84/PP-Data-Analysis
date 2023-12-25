@@ -1,5 +1,6 @@
 from pro_football_reference_web_scraper import player_game_log as p
 import pandas as pd
+import time
 
 def get_pdata(player, position, year):
     try:
@@ -23,6 +24,18 @@ def over(game_log, threshold, column_name):
     percentage_over_threshold = (games_over_threshold / total_games) * 100
     return percentage_over_threshold
 
+def dyn_stat(new_stat, stat1, stat2, func):
+    if func == 'add':
+        game_log[new_stat] = game_log[stat1] + game_log[stat2]
+        return game_log[new_stat]
+
+    if func == 'percentage':
+        game_log[new_stat] = (game_log[stat1] / game_log[stat2]) * 100
+        return game_log[new_stat]
+
+requests_per_minute_limit = 19
+time_limit_seconds = 60
+
 input_file_path = '/Users/omaraguilarjr/PP-Data-Analysis/Data/122223.csv'
 input_data = pd.read_csv(input_file_path, skiprows=0)
 
@@ -40,12 +53,11 @@ stat_mapping = {
     'Rush Attempts': 'rush_att',
     'Rec Targets': 'tgt',
     'Completion Percentage': 'cmp_per'
-    # Add more mappings as needed
 }
 
 output_data_list = []
 
-for index, row in input_data.iterrows():
+for index, row in input_data.iloc[:5].iterrows():
     player = str(row.iloc[0])
     position = str(row.iloc[1])
     threshold = row.iloc[3]
@@ -59,6 +71,11 @@ for index, row in input_data.iterrows():
         continue
     
     game_log = get_pdata(player, position, 2023)
+    
+    if game_log is None:
+        print(f"Error fetching game log for {player}. Skipping.")
+        continue
+    
     print(f"Input Stat: {input_stat}, Mapped Stat: {stat}")
     
     if stat == 'rush_rec_td':
@@ -72,6 +89,8 @@ for index, row in input_data.iterrows():
     
     per_over = over(game_log, threshold, stat)
     output_data = output_data_list.append({'Player': player, 'Stat': stat, 'Percentage': per_over})
+
+    time.sleep(time_limit_seconds / requests_per_minute_limit)
 
 output_data = pd.DataFrame(output_data_list)
 
