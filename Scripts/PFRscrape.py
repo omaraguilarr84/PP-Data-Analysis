@@ -33,10 +33,10 @@ def dyn_stat(new_stat, stat1, stat2, func):
         game_log[new_stat] = (game_log[stat1] / game_log[stat2]) * 100
         return game_log[new_stat]
 
-requests_per_minute_limit = 19
+requests_per_minute_limit = 12
 time_limit_seconds = 60
 
-input_file_path = '/Users/omaraguilarjr/PP-Data-Analysis/Data/122223.csv'
+input_file_path = '/Users/omaraguilarjr/PP-Data-Analysis/Data/ppData.csv'
 input_data = pd.read_csv(input_file_path, skiprows=0)
 
 stat_mapping = {
@@ -57,7 +57,7 @@ stat_mapping = {
 
 output_data_list = []
 
-for index, row in input_data.iloc[:5].iterrows():
+for index, row in input_data.iloc[124:125].iterrows():
     player = str(row.iloc[0])
     position = str(row.iloc[1])
     threshold = row.iloc[3]
@@ -76,10 +76,19 @@ for index, row in input_data.iloc[:5].iterrows():
         print(f"Error fetching game log for {player}. Skipping.")
         continue
     
+    game_log = game_log.map(lambda x: 0 if x == '' else x)
+
     print(f"Input Stat: {input_stat}, Mapped Stat: {stat}")
     
-    if stat == 'rush_rec_td':
+    # Need to change this to the dyn_stat
+    if stat == 'rush_rec_td' and 'rush_td' in game_log.columns and 'rec_td' in game_log.columns:
         game_log['rush_rec_td'] = game_log['rush_td'] + game_log['rec_td']
+    elif stat == 'rush_rec_td' and 'rush_td' in game_log.columns:
+        game_log['rush_rec_td'] = game_log['rush_td']
+    elif stat == 'rush_rec_td' and 'rec_td' in game_log.columns:
+        game_log['rush_rec_td'] = game_log['rec_td']
+    else:
+        print("Error: Columns 'rush_td' and 'rec_td' not found. Skipping 'Rush+Rec TDs' calculation.")
     
     if stat == 'pass_rush_yds':
         game_log['pass_rush_yds'] = game_log['pass_yds'] + game_log['rush_yds']
@@ -88,13 +97,13 @@ for index, row in input_data.iloc[:5].iterrows():
         game_log['cmp_per'] = (game_log['cmp'] / game_log['att']) * 100
     
     per_over = over(game_log, threshold, stat)
-    output_data = output_data_list.append({'Player': player, 'Stat': stat, 'Percentage': per_over})
+    output_data = output_data_list.append({'Player': player, 'Stat': stat, 'Threshold': threshold, 'Percentage': per_over})
 
     time.sleep(time_limit_seconds / requests_per_minute_limit)
 
 output_data = pd.DataFrame(output_data_list)
 
-output_file_name = '122223_output.csv'
+output_file_name = 'pfrData.csv'
 output_file_path = '/Users/omaraguilarjr/PP-Data-Analysis/Data'
 output_full_path = f'{output_file_path}/{output_file_name}'
 output_data.to_csv(output_full_path, index=False)
