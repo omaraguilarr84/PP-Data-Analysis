@@ -1,4 +1,4 @@
-from pro_football_reference_web_scraper import player_game_log as p
+from sports_reference_scrapers import nfl_player_game_log as p
 import pandas as pd
 import time
 
@@ -39,7 +39,7 @@ def dyn_stat(new_stat, stat1, stat2, func):
 requests_per_minute_limit = 12
 time_limit_seconds = 60
 
-input_file_path = '/Users/omaraguilarjr/PP-Data-Analysis/Data/ppData.csv'
+input_file_path = '/Users/omaraguilarjr/PP-Data-Analysis/Data/NFL_ppData.csv'
 input_data = pd.read_csv(input_file_path, skiprows=0)
 
 stat_mapping = {
@@ -61,7 +61,7 @@ stat_mapping = {
 
 output_data_list = []
 
-for index, row in input_data.iloc[236:237].iterrows():
+for index, row in input_data.iloc[:1].iterrows():
     player = str(row.iloc[0])
     position = str(row.iloc[1])
     threshold = row.iloc[3]
@@ -91,8 +91,6 @@ for index, row in input_data.iloc[236:237].iterrows():
         dyn_stat(stat, 'rush_yds', 'rec_yds', 'add')
     elif stat == 'cmp_per':
         dyn_stat(stat, 'cmp', 'att', 'percentage')
-    else:
-        print(f"Error: Unsupported stat '{stat}'. Skipping calculation.")
     
     per_over = over(game_log, threshold, stat)
     output_data = output_data_list.append({'Player': player, 'Stat': stat, 'Threshold': threshold, 'Percentage': per_over})
@@ -101,7 +99,7 @@ for index, row in input_data.iloc[236:237].iterrows():
 
 output_data = pd.DataFrame(output_data_list)
 
-output_file_name = 'pfrData.csv'
+output_file_name = 'NFL_pfrData.csv'
 output_file_path = '/Users/omaraguilarjr/PP-Data-Analysis/Data'
 output_full_path = f'{output_file_path}/{output_file_name}'
 output_data.to_csv(output_full_path, index=False)

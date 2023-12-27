@@ -1,0 +1,144 @@
+Name,Position,Opposing Team,Threshold,Type
+Brock Purdy,QB,BAL,299.5,Pass Yards
+Lamar Jackson,QB,SF,220.5,Pass Yards
+Lamar Jackson,QB,SF,249.5,Pass Yards
+Brock Purdy,QB,BAL,254.5,Pass Yards
+Brock Purdy,QB,BAL,224.5,Pass Yards
+Lamar Jackson,QB,SF,199.5,Pass Yards
+Jared Goff,QB,DAL,261.5,Pass Yards
+Dak Prescott,QB,DET,278.5,Pass Yards
+Josh Allen,QB,NE,246.5,Pass Yards
+Matthew Stafford,QB,NYG,252.5,Pass Yards
+Kyler Murray,QB,PHI,223.5,Pass Yards
+Baker Mayfield,QB,NO,235.5,Pass Yards
+Geno Smith,QB,PIT,230.5,Pass Yards
+Jordan Love,QB,MIN,227.5,Pass Yards
+Brandon Aiyuk,WR,BAL,89.5,Receiving Yards
+Deebo Samuel,WR,BAL,89.5,Receiving Yards
+George Kittle,TE,BAL,69.5,Receiving Yards
+Zay Flowers,WR,SF,69.5,Receiving Yards
+Christian McCaffrey,RB,BAL,31.5,Receiving Yards
+Christian McCaffrey,RB,BAL,24.5,Receiving Yards
+Christian McCaffrey,RB,BAL,49.5,Receiving Yards
+Deebo Samuel,WR,BAL,49.5,Receiving Yards
+Isaiah Likely,TE,SF,49.5,Receiving Yards
+Isaiah Likely,TE,SF,24.5,Receiving Yards
+Odell Beckham Jr,WR,SF,59.5,Receiving Yards
+Zay Flowers,WR,SF,47.5,Receiving Yards
+Deebo Samuel,WR,BAL,39.5,Receiving Yards
+Brandon Aiyuk,WR,BAL,64.5,Receiving Yards
+Brandon Aiyuk,WR,BAL,39.5,Receiving Yards
+Nelson Agholor,WR,SF,11.5,Receiving Yards
+Deebo Samuel,WR,BAL,61.5,Receiving Yards
+Odell Beckham Jr,WR,SF,24.5,Receiving Yards
+Odell Beckham Jr,WR,SF,33.5,Receiving Yards
+Rashod Bateman,WR,SF,29.5,Receiving Yards
+Isaiah Likely,TE,SF,39.5,Receiving Yards
+George Kittle,TE,BAL,50.5,Receiving Yards
+Gus Edwards,RB,SF,5.5,Receiving Yards
+Kyle Juszczyk,FB,BAL,0.5,Receiving Yards
+Justice Hill,RB,SF,8.5,Receiving Yards
+Amari Cooper,WR,NYJ,64.5,Receiving Yards
+Amon-Ra St. Brown,WR,DAL,85.5,Receiving Yards
+CeeDee Lamb,WR,DET,90.5,Receiving Yards
+D.J. Moore,WR,ATL,66.5,Receiving Yards
+DeAndre Hopkins,WR,HOU,54.5,Receiving Yards
+Puka Nacua,WR,NYG,68.5,Receiving Yards
+Cooper Kupp,WR,NYG,68.5,Receiving Yards
+Trey McBride,TE,PHI,61.5,Receiving Yards
+Mike Evans,WR,NO,68.5,Receiving Yards
+Chris Godwin,WR,NO,61.5,Receiving Yards
+George Pickens,WR,SEA,52.5,Receiving Yards
+D.K. Metcalf,WR,PIT,58.5,Receiving Yards
+Justin Jefferson,WR,GB,88.5,Receiving Yards
+Christian McCaffrey,RB,BAL,0.5,Rush+Rec TDs
+Christian McCaffrey,RB,BAL,1.5,Rush+Rec TDs
+Brandon Aiyuk,WR,BAL,0.5,Rush+Rec TDs
+Deebo Samuel,WR,BAL,0.5,Rush+Rec TDs
+George Kittle,TE,BAL,0.5,Rush+Rec TDs
+Gus Edwards,RB,SF,0.5,Rush+Rec TDs
+Isaiah Likely,TE,SF,0.5,Rush+Rec TDs
+Lamar Jackson,QB,SF,0.5,Rush+Rec TDs
+Odell Beckham Jr,WR,SF,0.5,Rush+Rec TDs
+Zay Flowers,WR,SF,0.5,Rush+Rec TDs
+Lamar Jackson,QB,SF,55.5,Rush Yards
+Christian McCaffrey,RB,BAL,99.5,Rush Yards
+Lamar Jackson,QB,SF,79.5,Rush Yards
+Christian McCaffrey,RB,BAL,59.5,Rush Yards
+Christian McCaffrey,RB,BAL,84.5,Rush Yards
+Gus Edwards,RB,SF,44.5,Rush Yards
+Lamar Jackson,QB,SF,39.5,Rush Yards
+Deebo Samuel,WR,BAL,11.5,Rush Yards
+Brock Purdy,QB,BAL,6.5,Rush Yards
+James Cook,RB,NE,65.5,Rush Yards
+Jonathan Taylor,RB,LV,72.5,Rush Yards
+Kyren Williams,RB,NYG,97.5,Rush Yards
+Rachaad White,RB,NO,69.5,Rush Yards
+Lamar Jackson,QB,SF,22.0,Fantasy Score
+Brock Purdy,QB,BAL,18.0,Fantasy Score
+Gus Edwards,RB,SF,7.5,Fantasy Score
+Christian McCaffrey,RB,BAL,21.5,Fantasy Score
+Zay Flowers,WR,SF,10.5,Fantasy Score
+Brandon Aiyuk,WR,BAL,13.5,Fantasy Score
+Odell Beckham Jr,WR,SF,7.0,Fantasy Score
+Deebo Samuel,WR,BAL,15.5,Fantasy Score
+George Kittle,TE,BAL,11.0,Fantasy Score
+Isaiah Likely,TE,SF,9.0,Fantasy Score
+Jake Moody, K,BAL,8.5,Fantasy Score
+Justin Tucker, K,SF,7.5,Fantasy Score
+Brock Purdy,QB,BAL,1.5,Pass TDs
+Brock Purdy,QB,BAL,2.5,Pass TDs
+Lamar Jackson,QB,SF,1.5,Pass TDs
+Justin Tucker, K,SF,1.5,FG Made
+Jake Moody, K,BAL,1.5,FG Made
+Jordan Stout, P,SF,1.5,Punts Inside 20
+Mitch Wishnowsky, P,BAL,1.5,Punts Inside 20
+Christian McCaffrey,RB,BAL,120.5,Rush+Rec Yds
+Gus Edwards,RB,SF,53.5,Rush+Rec Yds
+Deebo Samuel,WR,BAL,75.5,Rush+Rec Yds
+Christian McCaffrey,RB,BAL,4.0,Receptions
+Brandon Aiyuk,WR,BAL,4.5,Receptions
+Isaiah Likely,TE,SF,4.0,Receptions
+Deebo Samuel,WR,BAL,5.0,Receptions
+Lamar Jackson,QB,SF,1.5,Pass+Rush+Rec TDs
+Brandon Aiyuk + Lamar Jackson,QB,/SF,0.5,Rush+Rec TDs (Combo)
+Isaiah Likely + George Kittle,TE,BAL,0.5,Rush+Rec TDs (Combo)
+George Kittle + Zay Flowers,WR,/SF,0.5,Rush+Rec TDs (Combo)
+Lamar Jackson,QB,SF,30.5,Pass Attempts
+Brock Purdy,QB,BAL,30.5,Pass Attempts
+Nick Bosa,DE,BAL,0.25,Sacks
+Chase Young,DE,BAL,0.25,Sacks
+Fred Warner,LB,BAL,0.25,Sacks
+Jadeveon Clowney,DE,SF,0.25,Sacks
+Justin Madubuike,DT,SF,0.25,Sacks
+Lamar Jackson,QB,SF,20.0,Pass Completions
+Brock Purdy,QB,BAL,21.0,Pass Completions
+Brock Purdy,QB,BAL,0.5,INT
+Lamar Jackson,QB,SF,0.5,INT
+Lamar Jackson,QB,SF,276.5,Pass+Rush Yds
+Brock Purdy,QB,BAL,266.5,Pass+Rush Yds
+Christian McCaffrey,RB,BAL,18.5,Rush Attempts
+Gus Edwards,RB,SF,11.5,Rush Attempts
+Justin Tucker, K,SF,6.5,Kicking Points
+Jake Moody, K,BAL,7.5,Kicking Points
+Zay Flowers,WR,SF,6.0,Rec Targets
+Isaiah Likely,TE,SF,6.0,Rec Targets
+Brandon Aiyuk,WR,BAL,6.5,Rec Targets
+George Kittle,TE,BAL,5.0,Rec Targets
+Deebo Samuel,WR,BAL,6.5,Rec Targets
+Lamar Jackson + Brock Purdy,QB,BAL,472.5,Pass Yards (Combo)
+Lamar Jackson + Christian McCaffrey,RB,BAL,139.5,Rush Yards (Combo)
+Zay Flowers + Brandon Aiyuk,WR,BAL,112.5,Receiving Yards (Combo)
+Isaiah Likely + George Kittle,TE,BAL,87.5,Receiving Yards (Combo)
+Kyle Hamilton,SS,SF,6.0,Tackles+Ast
+Fred Warner,LB,BAL,9.0,Tackles+Ast
+Roquan Smith,LB,SF,9.0,Tackles+Ast
+Dre Greenlaw,LB,BAL,7.5,Tackles+Ast
+Ji'Ayir Brown,SS,BAL,5.0,Tackles+Ast
+Tashaun Gipson,SS,BAL,4.5,Tackles+Ast
+Zay Flowers,WR,SF,19.5,Receiving Yards in First 2 Receptions
+Deebo Samuel,WR,BAL,20.5,Receiving Yards in First 2 Receptions
+George Kittle,TE,BAL,21.5,Receiving Yards in First 2 Receptions
+Brandon Aiyuk,WR,BAL,24.5,Receiving Yards in First 2 Receptions
+Christian McCaffrey,RB,BAL,20.5,Rush Yards in First 5 Attempts
+Gus Edwards,RB,SF,18.5,Rush Yards in First 5 Attempts

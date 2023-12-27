@@ -58,7 +58,7 @@ for category in categories:
 
 dfProps = pd.DataFrame(ppPlayers)
 
-file_name = 'ppData.csv'
+file_name = 'NBA_ppData.csv'
 file_path = '/Users/omaraguilarjr/PP-Data-Analysis/Data'
 full_path = f'{file_path}/{file_name}'
 
