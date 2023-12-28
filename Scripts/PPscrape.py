@@ -6,12 +6,13 @@ import os
 import time
 import pandas as pd
 
+league = input("What league would you like PP data from? ")
+
 ############################################################################
 
 driver = uc.Chrome()
 
 ###########################################################################
-
 
 driver.get("https://app.prizepicks.com/")
 time.sleep(3)
@@ -24,7 +25,7 @@ time.sleep(3)
 ppPlayers = []
 
 # CHANGE MLB TO ANY SPORT THAT YOU LIKE!!!!! IF THE SPORT IS NOT OFFERED ON PP THEN THE PROGRAM WILL RUN AN ERROR AND EXIT.
-driver.find_element(By.XPATH, "//div[@class='name'][normalize-space()='NFL']").click()
+driver.find_element(By.XPATH, f"//div[@class='name'][normalize-space()='{league}']").click()
 time.sleep(5)
 
 stat_container = WebDriverWait(driver, 1).until(EC.visibility_of_element_located((By.CLASS_NAME, "stat-container")))
@@ -58,7 +59,7 @@ for category in categories:
 
 dfProps = pd.DataFrame(ppPlayers)
 
-file_name = 'NBA_ppData.csv'
+file_name = f'{league}_ppData.csv'
 file_path = '/Users/omaraguilarjr/PP-Data-Analysis/Data'
 full_path = f'{file_path}/{file_name}'
 

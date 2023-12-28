@@ -1,0 +1,332 @@
+Name,Position,Opposing Team,Threshold,Type
+Bojan Bogdanovic,#NAME?,BOS,23.5,Pts+Rebs+Asts
+Cade Cunningham, G,BOS,34.5,Pts+Rebs+Asts
+Brandon Ingram, F,UTA,34.5,Pts+Rebs+Asts
+Lauri Markkanen,-C,NOP,33.5,Pts+Rebs+Asts
+CJ McCollum, G,UTA,26.5,Pts+Rebs+Asts
+Jonas Valanciunas, C,UTA,29,Pts+Rebs+Asts
+Zion Williamson, F,UTA,35.5,Pts+Rebs+Asts
+Karl-Anthony Towns,#NAME?,DAL,35.5,Pts+Rebs+Asts
+Luka Doncic,#NAME?,MIN,56,Pts+Rebs+Asts
+Alex Caruso, G,IND,20.5,Pts+Rebs+Asts
+Myles Turner,#NAME?,CHI,25.5,Pts+Rebs+Asts
+Coby White, G,IND,36.5,Pts+Rebs+Asts
+Tyrese Haliburton, G,CHI,42.5,Pts+Rebs+Asts
+DeMar DeRozan,#NAME?,IND,38.5,Pts+Rebs+Asts
+Patrick Williams, F,IND,21.5,Pts+Rebs+Asts
+Jamal Murray, G,MEM,34.5,Pts+Rebs+Asts
+Ja Morant, G,DEN,40.5,Pts+Rebs+Asts
+Michael Porter Jr., F,MEM,27.5,Pts+Rebs+Asts
+Nikola Jokic, C,MEM,49.5,Pts+Rebs+Asts
+Jonathan Kuminga, F,MIA,18.5,Pts+Rebs+Asts
+Bam Adebayo,#NAME?,GSW,37.5,Pts+Rebs+Asts
+Klay Thompson, G,MIA,24,Pts+Rebs+Asts
+Tyler Herro, G,GSW,33.5,Pts+Rebs+Asts
+Stephen Curry, G,MIA,37.5,Pts+Rebs+Asts
+Brandin Podziemski, G,MIA,20.5,Pts+Rebs+Asts
+Anfernee Simons, G,SAS,36.5,Pts+Rebs+Asts
+Devin Vassell, G,POR,27.5,Pts+Rebs+Asts
+Jerami Grant, F,SAS,28.5,Pts+Rebs+Asts
+Jeremy Sochan, F,POR,23.5,Pts+Rebs+Asts
+Malcolm Brogdon, G,SAS,28.5,Pts+Rebs+Asts
+Anthony Davis,-C,CHA,45.5,Pts+Rebs+Asts
+Miles Bridges, F,LAL,31.5,Pts+Rebs+Asts
+LeBron James, F,CHA,44.5,Pts+Rebs+Asts
+Terry Rozier, G,LAL,35.5,Pts+Rebs+Asts
+Bojan Bogdanovic,#NAME?,BOS,17.5,Points
+Cade Cunningham, G,BOS,23.5,Points
+Brandon Ingram, F,UTA,23.5,Points
+Lauri Markkanen,-C,NOP,24.5,Points
+CJ McCollum, G,UTA,17.5,Points
+Herbert Jones,#NAME?,UTA,8.5,Points
+Jonas Valanciunas, C,UTA,15.5,Points
+Zion Williamson, F,UTA,24.5,Points
+Karl-Anthony Towns,#NAME?,DAL,21.5,Points
+Luka Doncic,#NAME?,MIN,36.5,Points
+Alex Caruso, G,IND,12.5,Points
+Myles Turner,#NAME?,CHI,17,Points
+Coby White, G,IND,24.5,Points
+Tyrese Haliburton, G,CHI,25.5,Points
+DeMar DeRozan,#NAME?,IND,27.5,Points
+Patrick Williams, F,IND,14.5,Points
+Jamal Murray, G,MEM,23.5,Points
+Ja Morant, G,DEN,27,Points
+Kentavious Caldwell-Pope, G,MEM,10,Points
+Michael Porter Jr., F,MEM,17.5,Points
+Nikola Jokic, C,MEM,27,Points
+Jonathan Kuminga, F,MIA,12.5,Points
+Bam Adebayo,#NAME?,GSW,22.5,Points
+Klay Thompson, G,MIA,18.5,Points
+Tyler Herro, G,GSW,24.5,Points
+Stephen Curry, G,MIA,27.5,Points
+Brandin Podziemski, G,MIA,10.5,Points
+Anfernee Simons, G,SAS,27.5,Points
+Devin Vassell, G,POR,20.5,Points
+Jerami Grant, F,SAS,21,Points
+Jeremy Sochan, F,POR,12,Points
+Malcolm Brogdon, G,SAS,16.5,Points
+Anthony Davis,-C,CHA,29,Points
+Miles Bridges, F,LAL,21.5,Points
+LeBron James, F,CHA,27.5,Points
+Terry Rozier, G,LAL,24.5,Points
+Cade Cunningham, G,BOS,4,Rebounds
+Brandon Ingram, F,UTA,5,Rebounds
+Lauri Markkanen,-C,NOP,8,Rebounds
+CJ McCollum, G,UTA,3.5,Rebounds
+Herbert Jones,#NAME?,UTA,3.5,Rebounds
+Jonas Valanciunas, C,UTA,10.5,Rebounds
+Zion Williamson, F,UTA,6.5,Rebounds
+Karl-Anthony Towns,#NAME?,DAL,10,Rebounds
+Luka Doncic,#NAME?,MIN,9,Rebounds
+Alex Caruso, G,IND,4,Rebounds
+Myles Turner,#NAME?,CHI,7.5,Rebounds
+Coby White, G,IND,5,Rebounds
+Tyrese Haliburton, G,CHI,4,Rebounds
+DeMar DeRozan,#NAME?,IND,5,Rebounds
+Patrick Williams, F,IND,5,Rebounds
+Jamal Murray, G,MEM,4.5,Rebounds
+Ja Morant, G,DEN,6,Rebounds
+Kentavious Caldwell-Pope, G,MEM,2.5,Rebounds
+Michael Porter Jr., F,MEM,7.5,Rebounds
+Nikola Jokic, C,MEM,13,Rebounds
+Jonathan Kuminga, F,MIA,4,Rebounds
+Bam Adebayo,#NAME?,GSW,10,Rebounds
+Klay Thompson, G,MIA,3.5,Rebounds
+Tyler Herro, G,GSW,5,Rebounds
+Stephen Curry, G,MIA,4,Rebounds
+Kevon Looney,#NAME?,MIA,6.5,Rebounds
+Brandin Podziemski, G,MIA,6,Rebounds
+Anfernee Simons, G,SAS,3.5,Rebounds
+Devin Vassell, G,POR,4,Rebounds
+Jerami Grant, F,SAS,4.5,Rebounds
+Jeremy Sochan, F,POR,6.5,Rebounds
+Malcolm Brogdon, G,SAS,5,Rebounds
+Anthony Davis,-C,CHA,13.5,Rebounds
+Miles Bridges, F,LAL,7,Rebounds
+LeBron James, F,CHA,8.5,Rebounds
+Terry Rozier, G,LAL,3.5,Rebounds
+Cade Cunningham, G,BOS,6.5,Assists
+Brandon Ingram, F,UTA,6,Assists
+CJ McCollum, G,UTA,5,Assists
+Herbert Jones,#NAME?,UTA,2.5,Assists
+Zion Williamson, F,UTA,4.5,Assists
+Karl-Anthony Towns,#NAME?,DAL,3,Assists
+Luka Doncic,#NAME?,MIN,9.5,Assists
+Coby White, G,IND,5.5,Assists
+Tyrese Haliburton, G,CHI,12,Assists
+DeMar DeRozan,#NAME?,IND,6.5,Assists
+Jamal Murray, G,MEM,6,Assists
+Ja Morant, G,DEN,7.5,Assists
+Nikola Jokic, C,MEM,9,Assists
+Bam Adebayo,#NAME?,GSW,4,Assists
+Tyler Herro, G,GSW,4.5,Assists
+Stephen Curry, G,MIA,5,Assists
+Brandin Podziemski, G,MIA,4,Assists
+Anfernee Simons, G,SAS,5,Assists
+Devin Vassell, G,POR,3.5,Assists
+Jerami Grant, F,SAS,2.5,Assists
+Jeremy Sochan, F,POR,4,Assists
+Malcolm Brogdon, G,SAS,7,Assists
+LeBron James, F,CHA,9,Assists
+Terry Rozier, G,LAL,7,Assists
+Brandon Ingram, F,UTA,40,Fantasy Score
+Lauri Markkanen,-C,NOP,39.5,Fantasy Score
+Luka Doncic,#NAME?,MIN,63,Fantasy Score
+CJ McCollum, G,UTA,34,Fantasy Score
+Herbert Jones,#NAME?,UTA,22,Fantasy Score
+Jonas Valanciunas, C,UTA,35.5,Fantasy Score
+Zion Williamson, F,UTA,41,Fantasy Score
+Alex Caruso, G,IND,26.5,Fantasy Score
+Myles Turner,#NAME?,CHI,34.5,Fantasy Score
+Coby White, G,IND,39.5,Fantasy Score
+Tyrese Haliburton, G,CHI,49.5,Fantasy Score
+DeMar DeRozan,#NAME?,IND,45.5,Fantasy Score
+Patrick Williams, F,IND,26.5,Fantasy Score
+Jonas Valanciunas, C,UTA,8,Defensive Rebounds
+Myles Turner,#NAME?,CHI,6,Defensive Rebounds
+Brandon Ingram, F,UTA,0.5,Offensive Rebounds
+Lauri Markkanen,-C,NOP,1.5,Offensive Rebounds
+CJ McCollum, G,UTA,0.5,Offensive Rebounds
+Jonas Valanciunas, C,UTA,2.5,Offensive Rebounds
+Myles Turner,#NAME?,CHI,1.5,Offensive Rebounds
+Tyrese Haliburton, G,CHI,0.5,Offensive Rebounds
+DeMar DeRozan,#NAME?,IND,0.5,Offensive Rebounds
+Lauri Markkanen,-C,NOP,8,3-PT Attempted
+Luka Doncic,#NAME?,MIN,10.5,3-PT Attempted
+CJ McCollum, G,UTA,7.5,3-PT Attempted
+Coby White, G,IND,8.5,3-PT Attempted
+Tyrese Haliburton, G,CHI,8.5,3-PT Attempted
+Brandon Ingram + Lauri Markkanen, F,NOP,48.5,Points (Combo)
+Tyrese Haliburton + DeMar DeRozan, G,IND,53.5,Points (Combo)
+Tyrese Haliburton + DeMar DeRozan, G,IND,18.5,Assists (Combo)
+CJ McCollum + Lauri Markkanen,-C,NOP,6,3-PT Made (Combo)
+Tyrese Haliburton + Coby White, G,IND,7,3-PT Made (Combo)
+Brandon Ingram, F,UTA,4,Free Throws Made
+Lauri Markkanen,-C,NOP,4.5,Free Throws Made
+Luka Doncic,#NAME?,MIN,7,Free Throws Made
+Jonas Valanciunas, C,UTA,2.5,Free Throws Made
+Zion Williamson, F,UTA,5,Free Throws Made
+Myles Turner,#NAME?,CHI,4,Free Throws Made
+Tyrese Haliburton, G,CHI,3.5,Free Throws Made
+DeMar DeRozan,#NAME?,IND,5.5,Free Throws Made
+Brandon Ingram, F,UTA,18,FG Attempted
+Lauri Markkanen,-C,NOP,17.5,FG Attempted
+Luka Doncic,#NAME?,MIN,26,FG Attempted
+CJ McCollum, G,UTA,15,FG Attempted
+Zion Williamson, F,UTA,16,FG Attempted
+Coby White, G,IND,18,FG Attempted
+Tyrese Haliburton, G,CHI,18,FG Attempted
+DeMar DeRozan,#NAME?,IND,16.5,FG Attempted
+Bojan Bogdanovic,#NAME?,BOS,20.5,Pts+Rebs
+Cade Cunningham, G,BOS,27.5,Pts+Rebs
+Brandon Ingram, F,UTA,28.5,Pts+Rebs
+Lauri Markkanen,-C,NOP,32.5,Pts+Rebs
+CJ McCollum, G,UTA,20.5,Pts+Rebs
+Herbert Jones,#NAME?,UTA,12.5,Pts+Rebs
+Jonas Valanciunas, C,UTA,26.5,Pts+Rebs
+Zion Williamson, F,UTA,31.5,Pts+Rebs
+Karl-Anthony Towns,#NAME?,DAL,31.5,Pts+Rebs
+Luka Doncic,#NAME?,MIN,46.5,Pts+Rebs
+Alex Caruso, G,IND,16.5,Pts+Rebs
+Myles Turner,#NAME?,CHI,24.5,Pts+Rebs
+Coby White, G,IND,30.5,Pts+Rebs
+Tyrese Haliburton, G,CHI,30.5,Pts+Rebs
+DeMar DeRozan,#NAME?,IND,32,Pts+Rebs
+Patrick Williams, F,IND,19.5,Pts+Rebs
+Jamal Murray, G,MEM,27.5,Pts+Rebs
+Ja Morant, G,DEN,33,Pts+Rebs
+Kentavious Caldwell-Pope, G,MEM,12.5,Pts+Rebs
+Michael Porter Jr., F,MEM,25.5,Pts+Rebs
+Nikola Jokic, C,MEM,39.5,Pts+Rebs
+Jonathan Kuminga, F,MIA,16.5,Pts+Rebs
+Bam Adebayo,#NAME?,GSW,32.5,Pts+Rebs
+Klay Thompson, G,MIA,22,Pts+Rebs
+Tyler Herro, G,GSW,29,Pts+Rebs
+Stephen Curry, G,MIA,31.5,Pts+Rebs
+Kevon Looney,#NAME?,MIA,10.5,Pts+Rebs
+Brandin Podziemski, G,MIA,16.5,Pts+Rebs
+Anfernee Simons, G,SAS,30.5,Pts+Rebs
+Devin Vassell, G,POR,24.5,Pts+Rebs
+Jerami Grant, F,SAS,25.5,Pts+Rebs
+Jeremy Sochan, F,POR,18.5,Pts+Rebs
+Malcolm Brogdon, G,SAS,21.5,Pts+Rebs
+Anthony Davis,-C,CHA,42.5,Pts+Rebs
+Miles Bridges, F,LAL,28.5,Pts+Rebs
+LeBron James, F,CHA,36,Pts+Rebs
+Terry Rozier, G,LAL,28.5,Pts+Rebs
+Brandon Ingram, F,UTA,0.5,Dunks
+Lauri Markkanen,-C,NOP,1.5,Dunks
+Zion Williamson, F,UTA,1.5,Dunks
+Karl-Anthony Towns,#NAME?,DAL,0.5,Dunks
+Patrick Williams, F,IND,0.5,Dunks
+Michael Porter Jr., F,MEM,0.5,Dunks
+Bam Adebayo,#NAME?,GSW,1.5,Dunks
+Anthony Davis,-C,CHA,2.5,Dunks
+LeBron James, F,CHA,1.5,Dunks
+Bojan Bogdanovic,#NAME?,BOS,20.5,Pts+Asts
+Cade Cunningham, G,BOS,30.5,Pts+Asts
+Brandon Ingram, F,UTA,29.5,Pts+Asts
+Lauri Markkanen,-C,NOP,25.5,Pts+Asts
+CJ McCollum, G,UTA,22.5,Pts+Asts
+Herbert Jones,#NAME?,UTA,11.5,Pts+Asts
+Jonas Valanciunas, C,UTA,17.5,Pts+Asts
+Zion Williamson, F,UTA,28.5,Pts+Asts
+Karl-Anthony Towns,#NAME?,DAL,25.5,Pts+Asts
+Luka Doncic,#NAME?,MIN,46.5,Pts+Asts
+Alex Caruso, G,IND,16.5,Pts+Asts
+Myles Turner,#NAME?,CHI,18,Pts+Asts
+Coby White, G,IND,30.5,Pts+Asts
+Tyrese Haliburton, G,CHI,38.5,Pts+Asts
+DeMar DeRozan,#NAME?,IND,33.5,Pts+Asts
+Patrick Williams, F,IND,16.5,Pts+Asts
+Jamal Murray, G,MEM,29.5,Pts+Asts
+Ja Morant, G,DEN,34.5,Pts+Asts
+Kentavious Caldwell-Pope, G,MEM,12.5,Pts+Asts
+Michael Porter Jr., F,MEM,18.5,Pts+Asts
+Nikola Jokic, C,MEM,36.5,Pts+Asts
+Jonathan Kuminga, F,MIA,14.5,Pts+Asts
+Bam Adebayo,#NAME?,GSW,26.5,Pts+Asts
+Klay Thompson, G,MIA,20.5,Pts+Asts
+Tyler Herro, G,GSW,28.5,Pts+Asts
+Stephen Curry, G,MIA,32.5,Pts+Asts
+Brandin Podziemski, G,MIA,14.5,Pts+Asts
+Anfernee Simons, G,SAS,32.5,Pts+Asts
+Devin Vassell, G,POR,23.5,Pts+Asts
+Jerami Grant, F,SAS,23.5,Pts+Asts
+Jeremy Sochan, F,POR,16.5,Pts+Asts
+Malcolm Brogdon, G,SAS,23.5,Pts+Asts
+Anthony Davis,-C,CHA,32.5,Pts+Asts
+Miles Bridges, F,LAL,24.5,Pts+Asts
+LeBron James, F,CHA,36.5,Pts+Asts
+Terry Rozier, G,LAL,31.5,Pts+Asts
+Bojan Bogdanovic,#NAME?,BOS,2.5,3-PT Made
+Jonas Valanciunas, C,UTA,0.5,3-PT Made
+Karl-Anthony Towns,#NAME?,DAL,1.5,3-PT Made
+Patrick Williams, F,IND,1.5,3-PT Made
+Jamal Murray, G,MEM,2.5,3-PT Made
+Kentavious Caldwell-Pope, G,MEM,1.5,3-PT Made
+Stephen Curry, G,MIA,4.5,3-PT Made
+Brandin Podziemski, G,MIA,1.5,3-PT Made
+Terry Rozier, G,LAL,2.5,3-PT Made
+Brandon Ingram, F,UTA,0.5,Blocked Shots
+Lauri Markkanen,-C,NOP,0.5,Blocked Shots
+CJ McCollum, G,UTA,0.5,Blocked Shots
+DeMar DeRozan,#NAME?,IND,0.5,Blocked Shots
+LeBron James, F,CHA,0.5,Blocked Shots
+Bojan Bogdanovic,#NAME?,BOS,0.5,Steals
+Myles Turner,#NAME?,CHI,0.5,Steals
+Kentavious Caldwell-Pope, G,MEM,1.5,Steals
+Michael Porter Jr., F,MEM,0.5,Steals
+Jonathan Kuminga, F,MIA,0.5,Steals
+Klay Thompson, G,MIA,0.5,Steals
+Jeremy Sochan, F,POR,0.5,Steals
+Cade Cunningham, G,BOS,10.5,Rebs+Asts
+Brandon Ingram, F,UTA,11,Rebs+Asts
+Lauri Markkanen,-C,NOP,9,Rebs+Asts
+CJ McCollum, G,UTA,9,Rebs+Asts
+Jonas Valanciunas, C,UTA,13.5,Rebs+Asts
+Zion Williamson, F,UTA,11.5,Rebs+Asts
+Karl-Anthony Towns,#NAME?,DAL,13.5,Rebs+Asts
+Luka Doncic,#NAME?,MIN,19,Rebs+Asts
+Alex Caruso, G,IND,7.5,Rebs+Asts
+Myles Turner,#NAME?,CHI,9,Rebs+Asts
+Coby White, G,IND,11,Rebs+Asts
+Tyrese Haliburton, G,CHI,16,Rebs+Asts
+DeMar DeRozan,#NAME?,IND,11.5,Rebs+Asts
+Jamal Murray, G,MEM,10.5,Rebs+Asts
+Ja Morant, G,DEN,13.5,Rebs+Asts
+Michael Porter Jr., F,MEM,9,Rebs+Asts
+Nikola Jokic, C,MEM,22.5,Rebs+Asts
+Bam Adebayo,#NAME?,GSW,14.5,Rebs+Asts
+Tyler Herro, G,GSW,9.5,Rebs+Asts
+Stephen Curry, G,MIA,9.5,Rebs+Asts
+Kevon Looney,#NAME?,MIA,8.5,Rebs+Asts
+Brandin Podziemski, G,MIA,10,Rebs+Asts
+Anfernee Simons, G,SAS,8.5,Rebs+Asts
+Devin Vassell, G,POR,7.5,Rebs+Asts
+Jerami Grant, F,SAS,7.5,Rebs+Asts
+Jeremy Sochan, F,POR,11.5,Rebs+Asts
+Malcolm Brogdon, G,SAS,12,Rebs+Asts
+Anthony Davis,-C,CHA,16.5,Rebs+Asts
+Miles Bridges, F,LAL,10,Rebs+Asts
+LeBron James, F,CHA,17.5,Rebs+Asts
+Terry Rozier, G,LAL,11,Rebs+Asts
+Brandon Ingram, F,UTA,1.5,Blks+Stls
+Lauri Markkanen,-C,NOP,1.5,Blks+Stls
+Zion Williamson, F,UTA,1.5,Blks+Stls
+Michael Porter Jr., F,MEM,1.5,Blks+Stls
+Nikola Jokic, C,MEM,2.5,Blks+Stls
+Brandin Podziemski, G,MIA,1.5,Blks+Stls
+Jerami Grant, F,SAS,1.5,Blks+Stls
+Terry Rozier, G,LAL,1.5,Blks+Stls
+Lauri Markkanen,-C,NOP,1.5,Turnovers
+CJ McCollum, G,UTA,1.5,Turnovers
+Jonas Valanciunas, C,UTA,1.5,Turnovers
+Zion Williamson, F,UTA,2.5,Turnovers
+Luka Doncic,#NAME?,MIN,4.5,Turnovers
+Alex Caruso, G,IND,1.5,Turnovers
+Tyrese Haliburton, G,CHI,3.5,Turnovers
+Ja Morant, G,DEN,3.5,Turnovers
+Kevon Looney,#NAME?,MIA,0.5,Turnovers
+Brandin Podziemski, G,MIA,1.5,Turnovers
+Devin Vassell, G,POR,1.5,Turnovers

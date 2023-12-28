@@ -247,7 +247,6 @@ def rb_game_log(soup: BeautifulSoup) -> pd.DataFrame:
     for i in range(len(table_rows)):
         elements = table_rows[i].find_all('td')
         x = elements[len(elements) - 1].text
-        print(x)
         if x == 'Inactive' or x == 'Did Not Play' or x == 'Injured Reserve':
             to_ignore.append(i)
 

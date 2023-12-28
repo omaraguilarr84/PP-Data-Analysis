@@ -1,10 +1,10 @@
-from sports_reference_scrapers import nfl_player_game_log as p
+from sports_reference_scrapers import nba_player_game_log as p
 import pandas as pd
 import time
 
-def get_pdata(player, position, year):
+def get_pdata(player, year):
     try:
-        game_log = p.get_player_game_log(player, position, season=year)
+        game_log = p.get_player_game_log(player, season=year)
         return game_log
     except Exception as e:
         print(f"Error fetching game log for {player}: {e}")
@@ -36,45 +36,52 @@ def dyn_stat(new_stat, stat1, stat2, func):
     if func == 'percentage':
         game_log[new_stat] = (game_log[stat1] / game_log[stat2]) * 100
 
+def dyn_stat3(new_stat, stat1, stat2, stat3, func):
+    if func == 'add':
+        game_log[new_stat] = game_log[stat1] + game_log[stat2] + game_log[stat3]
+
 requests_per_minute_limit = 12
 time_limit_seconds = 60
 
-input_file_path = '/Users/omaraguilarjr/PP-Data-Analysis/Data/NFL_ppData.csv'
+input_file_path = '/Users/omaraguilarjr/PP-Data-Analysis/Data/NBA_ppData.csv'
 input_data = pd.read_csv(input_file_path, skiprows=0)
 
+# Need to fix stat map according to NBA stats
 stat_mapping = {
-    'Pass Yards': 'pass_yds',
-    'Receiving Yards': 'rec_yds',
-    'Rush Yards': 'rush_yds',
-    'Pass TDs': 'pass_td',
-    'Receptions': 'rec',
-    'Rush+Rec TDs': 'rush_rec_td',
-    'Pass Attempts': 'att',
-    'Pass Completions': 'cmp',
-    'INT': 'int',
-    'Pass+Rush Yds': 'pass_rush_yds',
-    'Rush Attempts': 'rush_att',
-    'Rec Targets': 'tgt',
-    'Completion Percentage': 'cmp_per',
-    'Rush+Rec Yds': 'rush_rec_yds'
+    'Pts+Rebs+Asts': 'pts_reb_ast',
+    'Points': 'pts',
+    'Rebounds': 'reb',
+    'Assists': 'ast',
+    'Defensive Rebounds': 'drb',
+    'Offensive Rebounds': 'orb',
+    '3-PT Attempted': 'fg3a',
+    'Free Throws Made': 'ft',
+    'FG Attempted': 'fga',
+    'Pts+Rebs': 'pts_reb',
+    'Pts+Asts': 'pts_ast',
+    '3-PT Made': 'fg3',
+    'Blocked Shots': 'blk',
+    'Steals': 'stl',
+    'Rebs+Asts': 'reb_ast',
+    'Blks+Stls': 'blk_stl',
+    'Turnovers': 'tov'
 }
 
 output_data_list = []
 
-for index, row in input_data.iloc[:1].iterrows():
+for index, row in input_data.iterrows():
     player = str(row.iloc[0])
-    position = str(row.iloc[1])
     threshold = row.iloc[3]
     input_stat = str(row.iloc[4])
     stat = stat_mapping.get(input_stat)
 
-    print(f"Fetching data for {player} ({position}), Year 2023...")
+    print(f"Fetching data for {player}, Year 2024...")
     
     if stat is None:
         print(f"Error: Input stat '{input_stat}' not found in stat mapping. Skipping.")
         continue
     
-    game_log = get_pdata(player, position, 2023)
+    game_log = get_pdata(player, 2024)
     
     if game_log is None:
         print(f"Error fetching game log for {player}. Skipping.")
@@ -82,15 +89,17 @@ for index, row in input_data.iloc[:1].iterrows():
 
     print(f"Input Stat: {input_stat}, Mapped Stat: {stat}")
     
-    # Add rush+rec yds
-    if stat == 'rush_rec_td':
-        dyn_stat(stat, 'rush_td', 'rec_td', 'add')
-    elif stat == 'pass_rush_yds':
-        dyn_stat(stat, 'pass_yds', 'rush_yds', 'add')
-    elif stat == 'rush_rec_yds':
-        dyn_stat(stat, 'rush_yds', 'rec_yds', 'add')
-    elif stat == 'cmp_per':
-        dyn_stat(stat, 'cmp', 'att', 'percentage')
+    # Fix for new stat dict
+    if stat == 'pts_reb_ast':
+        dyn_stat3(stat, 'pts', 'reb', 'ast','add')
+    elif stat == 'pts_reb':
+        dyn_stat(stat, 'pts', 'reb', 'add')
+    elif stat == 'pts_ast':
+        dyn_stat(stat, 'pts', 'ast', 'add')
+    elif stat == 'reb_ast':
+        dyn_stat(stat, 'reb', 'ast', 'add')
+    elif stat == 'blk_stl':
+        dyn_stat(stat, 'blk', 'stl', 'add')
     
     per_over = over(game_log, threshold, stat)
     output_data = output_data_list.append({'Player': player, 'Stat': input_stat, 'Threshold': threshold, 'Percentage': per_over})
@@ -99,7 +108,7 @@ for index, row in input_data.iloc[:1].iterrows():
 
 output_data = pd.DataFrame(output_data_list)
 
-output_file_name = 'NFL_pfrData.csv'
+output_file_name = 'NBA_pfrData.csv'
 output_file_path = '/Users/omaraguilarjr/PP-Data-Analysis/Data'
 output_full_path = f'{output_file_path}/{output_file_name}'
 output_data.to_csv(output_full_path, index=False)

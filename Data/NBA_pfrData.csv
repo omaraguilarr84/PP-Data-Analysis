@@ -1,0 +1,297 @@
+Player,Stat,Threshold,Percentage
+Bojan Bogdanovic,Pts+Rebs+Asts,23.5,63.63636363636363
+Cade Cunningham,Pts+Rebs+Asts,34.5,50.0
+Brandon Ingram,Pts+Rebs+Asts,34.5,42.857142857142854
+Lauri Markkanen,Pts+Rebs+Asts,33.5,42.857142857142854
+CJ McCollum,Pts+Rebs+Asts,26.5,66.66666666666666
+Jonas Valanciunas,Pts+Rebs+Asts,29.0,38.70967741935484
+Zion Williamson,Pts+Rebs+Asts,35.5,40.0
+Karl-Anthony Towns,Pts+Rebs+Asts,35.5,42.857142857142854
+Luka Doncic,Pts+Rebs+Asts,56.0,34.48275862068966
+Alex Caruso,Pts+Rebs+Asts,20.5,19.230769230769234
+Myles Turner,Pts+Rebs+Asts,25.5,50.0
+Coby White,Pts+Rebs+Asts,36.5,15.625
+Tyrese Haliburton,Pts+Rebs+Asts,42.5,46.15384615384615
+DeMar DeRozan,Pts+Rebs+Asts,38.5,16.666666666666664
+Patrick Williams,Pts+Rebs+Asts,21.5,18.75
+Jamal Murray,Pts+Rebs+Asts,34.5,27.77777777777778
+Michael Porter Jr.,Pts+Rebs+Asts,27.5,40.625
+Nikola Jokic,Pts+Rebs+Asts,49.5,48.38709677419355
+Jonathan Kuminga,Pts+Rebs+Asts,18.5,41.37931034482759
+Bam Adebayo,Pts+Rebs+Asts,37.5,45.0
+Klay Thompson,Pts+Rebs+Asts,24.0,48.275862068965516
+Tyler Herro,Pts+Rebs+Asts,33.5,50.0
+Stephen Curry,Pts+Rebs+Asts,37.5,46.42857142857143
+Brandin Podziemski,Pts+Rebs+Asts,20.5,41.66666666666667
+Anfernee Simons,Pts+Rebs+Asts,36.5,36.36363636363637
+Devin Vassell,Pts+Rebs+Asts,27.5,33.33333333333333
+Jerami Grant,Pts+Rebs+Asts,28.5,44.0
+Jeremy Sochan,Pts+Rebs+Asts,23.5,37.93103448275862
+Malcolm Brogdon,Pts+Rebs+Asts,28.5,40.909090909090914
+Anthony Davis,Pts+Rebs+Asts,45.5,37.93103448275862
+Miles Bridges,Pts+Rebs+Asts,31.5,35.294117647058826
+LeBron James,Pts+Rebs+Asts,44.5,35.714285714285715
+Terry Rozier,Pts+Rebs+Asts,35.5,44.44444444444444
+Bojan Bogdanovic,Points,17.5,63.63636363636363
+Cade Cunningham,Points,23.5,43.333333333333336
+Brandon Ingram,Points,23.5,50.0
+Lauri Markkanen,Points,24.5,38.095238095238095
+CJ McCollum,Points,17.5,66.66666666666666
+Herbert Jones,Points,8.5,53.57142857142857
+Jonas Valanciunas,Points,15.5,35.483870967741936
+Zion Williamson,Points,24.5,40.0
+Karl-Anthony Towns,Points,21.5,46.42857142857143
+Luka Doncic,Points,36.5,34.48275862068966
+Alex Caruso,Points,12.5,23.076923076923077
+Myles Turner,Points,17.0,46.42857142857143
+Coby White,Points,24.5,12.5
+Tyrese Haliburton,Points,25.5,46.15384615384615
+DeMar DeRozan,Points,27.5,13.333333333333334
+Patrick Williams,Points,14.5,18.75
+Jamal Murray,Points,23.5,16.666666666666664
+Kentavious Caldwell-Pope,Points,10.0,30.0
+Michael Porter Jr.,Points,17.5,50.0
+Nikola Jokic,Points,27.0,48.38709677419355
+Jonathan Kuminga,Points,12.5,41.37931034482759
+Bam Adebayo,Points,22.5,40.0
+Klay Thompson,Points,18.5,41.37931034482759
+Tyler Herro,Points,24.5,50.0
+Stephen Curry,Points,27.5,53.57142857142857
+Brandin Podziemski,Points,10.5,37.5
+Anfernee Simons,Points,27.5,54.54545454545454
+Devin Vassell,Points,20.5,37.5
+Jerami Grant,Points,21.0,60.0
+Jeremy Sochan,Points,12.0,41.37931034482759
+Malcolm Brogdon,Points,16.5,59.09090909090909
+Anthony Davis,Points,29.0,34.48275862068966
+Miles Bridges,Points,21.5,41.17647058823529
+LeBron James,Points,27.5,35.714285714285715
+Terry Rozier,Points,24.5,33.33333333333333
+Cade Cunningham,Rebounds,4.0,36.666666666666664
+Brandon Ingram,Rebounds,5.0,39.285714285714285
+Lauri Markkanen,Rebounds,8.0,52.38095238095239
+CJ McCollum,Rebounds,3.5,55.55555555555556
+Herbert Jones,Rebounds,3.5,53.57142857142857
+Jonas Valanciunas,Rebounds,10.5,51.61290322580645
+Zion Williamson,Rebounds,6.5,40.0
+Karl-Anthony Towns,Rebounds,10.0,35.714285714285715
+Luka Doncic,Rebounds,9.0,41.37931034482759
+Alex Caruso,Rebounds,4.0,26.923076923076923
+Myles Turner,Rebounds,7.5,53.57142857142857
+Coby White,Rebounds,5.0,31.25
+Tyrese Haliburton,Rebounds,4.0,42.30769230769231
+DeMar DeRozan,Rebounds,5.0,13.333333333333334
+Patrick Williams,Rebounds,5.0,25.0
+Jamal Murray,Rebounds,4.5,44.44444444444444
+Kentavious Caldwell-Pope,Rebounds,2.5,43.333333333333336
+Michael Porter Jr.,Rebounds,7.5,53.125
+Nikola Jokic,Rebounds,13.0,41.935483870967744
+Jonathan Kuminga,Rebounds,4.0,37.93103448275862
+Bam Adebayo,Rebounds,10.0,50.0
+Klay Thompson,Rebounds,3.5,51.724137931034484
+Tyler Herro,Rebounds,5.0,50.0
+Stephen Curry,Rebounds,4.0,50.0
+Kevon Looney,Rebounds,6.5,56.666666666666664
+Brandin Podziemski,Rebounds,6.0,37.5
+Anfernee Simons,Rebounds,3.5,36.36363636363637
+Devin Vassell,Rebounds,4.0,25.0
+Jerami Grant,Rebounds,4.5,32.0
+Jeremy Sochan,Rebounds,6.5,37.93103448275862
+Malcolm Brogdon,Rebounds,5.0,27.27272727272727
+Anthony Davis,Rebounds,13.5,37.93103448275862
+Miles Bridges,Rebounds,7.0,47.05882352941176
+LeBron James,Rebounds,8.5,39.285714285714285
+Terry Rozier,Rebounds,3.5,44.44444444444444
+Cade Cunningham,Assists,6.5,53.333333333333336
+Brandon Ingram,Assists,6.0,25.0
+CJ McCollum,Assists,5.0,38.88888888888889
+Herbert Jones,Assists,2.5,53.57142857142857
+Zion Williamson,Assists,4.5,44.0
+Karl-Anthony Towns,Assists,3.0,32.142857142857146
+Luka Doncic,Assists,9.5,44.827586206896555
+Coby White,Assists,5.5,34.375
+Tyrese Haliburton,Assists,12.0,53.84615384615385
+DeMar DeRozan,Assists,6.5,26.666666666666668
+Jamal Murray,Assists,6.0,22.22222222222222
+Nikola Jokic,Assists,9.0,38.70967741935484
+Bam Adebayo,Assists,4.0,40.0
+Tyler Herro,Assists,4.5,50.0
+Stephen Curry,Assists,5.0,35.714285714285715
+Brandin Podziemski,Assists,4.0,29.166666666666668
+Anfernee Simons,Assists,5.0,54.54545454545454
+Devin Vassell,Assists,3.5,37.5
+Jerami Grant,Assists,2.5,52.0
+Jeremy Sochan,Assists,4.0,41.37931034482759
+Malcolm Brogdon,Assists,7.0,22.727272727272727
+LeBron James,Assists,9.0,14.285714285714285
+Terry Rozier,Assists,7.0,27.77777777777778
+Jonas Valanciunas,Defensive Rebounds,8.0,38.70967741935484
+Myles Turner,Defensive Rebounds,6.0,39.285714285714285
+Brandon Ingram,Offensive Rebounds,0.5,50.0
+Lauri Markkanen,Offensive Rebounds,1.5,47.61904761904761
+CJ McCollum,Offensive Rebounds,0.5,50.0
+Jonas Valanciunas,Offensive Rebounds,2.5,48.38709677419355
+Myles Turner,Offensive Rebounds,1.5,46.42857142857143
+Tyrese Haliburton,Offensive Rebounds,0.5,50.0
+DeMar DeRozan,Offensive Rebounds,0.5,50.0
+Lauri Markkanen,3-PT Attempted,8.0,52.38095238095239
+Luka Doncic,3-PT Attempted,10.5,44.827586206896555
+CJ McCollum,3-PT Attempted,7.5,55.55555555555556
+Coby White,3-PT Attempted,8.5,31.25
+Tyrese Haliburton,3-PT Attempted,8.5,46.15384615384615
+Brandon Ingram,Free Throws Made,4.0,39.285714285714285
+Lauri Markkanen,Free Throws Made,4.5,52.38095238095239
+Luka Doncic,Free Throws Made,7.0,34.48275862068966
+Jonas Valanciunas,Free Throws Made,2.5,41.935483870967744
+Zion Williamson,Free Throws Made,5.0,36.0
+Myles Turner,Free Throws Made,4.0,39.285714285714285
+Tyrese Haliburton,Free Throws Made,3.5,46.15384615384615
+DeMar DeRozan,Free Throws Made,5.5,50.0
+Brandon Ingram,FG Attempted,18.0,42.857142857142854
+Lauri Markkanen,FG Attempted,17.5,38.095238095238095
+Luka Doncic,FG Attempted,26.0,27.586206896551722
+CJ McCollum,FG Attempted,15.0,38.88888888888889
+Zion Williamson,FG Attempted,16.0,32.0
+Coby White,FG Attempted,18.0,15.625
+Tyrese Haliburton,FG Attempted,18.0,34.61538461538461
+DeMar DeRozan,FG Attempted,16.5,46.666666666666664
+Bojan Bogdanovic,Pts+Rebs,20.5,63.63636363636363
+Cade Cunningham,Pts+Rebs,27.5,46.666666666666664
+Brandon Ingram,Pts+Rebs,28.5,50.0
+Lauri Markkanen,Pts+Rebs,32.5,42.857142857142854
+CJ McCollum,Pts+Rebs,20.5,66.66666666666666
+Herbert Jones,Pts+Rebs,12.5,57.14285714285714
+Jonas Valanciunas,Pts+Rebs,26.5,41.935483870967744
+Zion Williamson,Pts+Rebs,31.5,32.0
+Karl-Anthony Towns,Pts+Rebs,31.5,46.42857142857143
+Luka Doncic,Pts+Rebs,46.5,34.48275862068966
+Alex Caruso,Pts+Rebs,16.5,30.76923076923077
+Myles Turner,Pts+Rebs,24.5,53.57142857142857
+Coby White,Pts+Rebs,30.5,15.625
+Tyrese Haliburton,Pts+Rebs,30.5,42.30769230769231
+DeMar DeRozan,Pts+Rebs,32.0,16.666666666666664
+Patrick Williams,Pts+Rebs,19.5,18.75
+Jamal Murray,Pts+Rebs,27.5,22.22222222222222
+Kentavious Caldwell-Pope,Pts+Rebs,12.5,40.0
+Michael Porter Jr.,Pts+Rebs,25.5,50.0
+Nikola Jokic,Pts+Rebs,39.5,58.06451612903226
+Jonathan Kuminga,Pts+Rebs,16.5,48.275862068965516
+Bam Adebayo,Pts+Rebs,32.5,55.00000000000001
+Klay Thompson,Pts+Rebs,22.0,44.827586206896555
+Tyler Herro,Pts+Rebs,29.0,50.0
+Stephen Curry,Pts+Rebs,31.5,60.71428571428571
+Kevon Looney,Pts+Rebs,10.5,66.66666666666666
+Brandin Podziemski,Pts+Rebs,16.5,41.66666666666667
+Anfernee Simons,Pts+Rebs,30.5,45.45454545454545
+Devin Vassell,Pts+Rebs,24.5,37.5
+Jerami Grant,Pts+Rebs,25.5,48.0
+Jeremy Sochan,Pts+Rebs,18.5,44.827586206896555
+Malcolm Brogdon,Pts+Rebs,21.5,54.54545454545454
+Anthony Davis,Pts+Rebs,42.5,34.48275862068966
+Miles Bridges,Pts+Rebs,28.5,41.17647058823529
+LeBron James,Pts+Rebs,36.0,32.142857142857146
+Terry Rozier,Pts+Rebs,28.5,44.44444444444444
+Bojan Bogdanovic,Pts+Asts,20.5,63.63636363636363
+Cade Cunningham,Pts+Asts,30.5,50.0
+Brandon Ingram,Pts+Asts,29.5,46.42857142857143
+Lauri Markkanen,Pts+Asts,25.5,38.095238095238095
+CJ McCollum,Pts+Asts,22.5,66.66666666666666
+Herbert Jones,Pts+Asts,11.5,53.57142857142857
+Jonas Valanciunas,Pts+Asts,17.5,45.16129032258064
+Zion Williamson,Pts+Asts,28.5,40.0
+Karl-Anthony Towns,Pts+Asts,25.5,39.285714285714285
+Luka Doncic,Pts+Asts,46.5,37.93103448275862
+Alex Caruso,Pts+Asts,16.5,15.384615384615385
+Myles Turner,Pts+Asts,18.0,42.857142857142854
+Coby White,Pts+Asts,30.5,15.625
+Tyrese Haliburton,Pts+Asts,38.5,46.15384615384615
+DeMar DeRozan,Pts+Asts,33.5,13.333333333333334
+Patrick Williams,Pts+Asts,16.5,18.75
+Jamal Murray,Pts+Asts,29.5,27.77777777777778
+Kentavious Caldwell-Pope,Pts+Asts,12.5,43.333333333333336
+Michael Porter Jr.,Pts+Asts,18.5,46.875
+Nikola Jokic,Pts+Asts,36.5,54.83870967741935
+Jonathan Kuminga,Pts+Asts,14.5,41.37931034482759
+Bam Adebayo,Pts+Asts,26.5,50.0
+Klay Thompson,Pts+Asts,20.5,44.827586206896555
+Tyler Herro,Pts+Asts,28.5,50.0
+Stephen Curry,Pts+Asts,32.5,50.0
+Brandin Podziemski,Pts+Asts,14.5,45.83333333333333
+Anfernee Simons,Pts+Asts,32.5,36.36363636363637
+Devin Vassell,Pts+Asts,23.5,33.33333333333333
+Jerami Grant,Pts+Asts,23.5,60.0
+Jeremy Sochan,Pts+Asts,16.5,44.827586206896555
+Malcolm Brogdon,Pts+Asts,23.5,50.0
+Anthony Davis,Pts+Asts,32.5,31.03448275862069
+Miles Bridges,Pts+Asts,24.5,41.17647058823529
+LeBron James,Pts+Asts,36.5,35.714285714285715
+Terry Rozier,Pts+Asts,31.5,44.44444444444444
+Bojan Bogdanovic,3-PT Made,2.5,54.54545454545454
+Jonas Valanciunas,3-PT Made,0.5,48.38709677419355
+Karl-Anthony Towns,3-PT Made,1.5,53.57142857142857
+Patrick Williams,3-PT Made,1.5,43.75
+Jamal Murray,3-PT Made,2.5,50.0
+Kentavious Caldwell-Pope,3-PT Made,1.5,53.333333333333336
+Stephen Curry,3-PT Made,4.5,57.14285714285714
+Brandin Podziemski,3-PT Made,1.5,37.5
+Terry Rozier,3-PT Made,2.5,33.33333333333333
+Brandon Ingram,Blocked Shots,0.5,25.0
+Lauri Markkanen,Blocked Shots,0.5,47.61904761904761
+CJ McCollum,Blocked Shots,0.5,66.66666666666666
+DeMar DeRozan,Blocked Shots,0.5,53.333333333333336
+LeBron James,Blocked Shots,0.5,46.42857142857143
+Bojan Bogdanovic,Steals,0.5,54.54545454545454
+Myles Turner,Steals,0.5,53.57142857142857
+Kentavious Caldwell-Pope,Steals,1.5,40.0
+Michael Porter Jr.,Steals,0.5,40.625
+Jonathan Kuminga,Steals,0.5,48.275862068965516
+Klay Thompson,Steals,0.5,44.827586206896555
+Jeremy Sochan,Steals,0.5,44.827586206896555
+Cade Cunningham,Rebs+Asts,10.5,53.333333333333336
+Brandon Ingram,Rebs+Asts,11.0,28.57142857142857
+Lauri Markkanen,Rebs+Asts,9.0,42.857142857142854
+CJ McCollum,Rebs+Asts,9.0,33.33333333333333
+Jonas Valanciunas,Rebs+Asts,13.5,32.25806451612903
+Zion Williamson,Rebs+Asts,11.5,32.0
+Karl-Anthony Towns,Rebs+Asts,13.5,32.142857142857146
+Luka Doncic,Rebs+Asts,19.0,34.48275862068966
+Alex Caruso,Rebs+Asts,7.5,26.923076923076923
+Myles Turner,Rebs+Asts,9.0,35.714285714285715
+Coby White,Rebs+Asts,11.0,28.125
+Tyrese Haliburton,Rebs+Asts,16.0,46.15384615384615
+DeMar DeRozan,Rebs+Asts,11.5,20.0
+Jamal Murray,Rebs+Asts,10.5,44.44444444444444
+Michael Porter Jr.,Rebs+Asts,9.0,50.0
+Nikola Jokic,Rebs+Asts,22.5,41.935483870967744
+Bam Adebayo,Rebs+Asts,14.5,50.0
+Tyler Herro,Rebs+Asts,9.5,50.0
+Stephen Curry,Rebs+Asts,9.5,32.142857142857146
+Kevon Looney,Rebs+Asts,8.5,50.0
+Brandin Podziemski,Rebs+Asts,10.0,25.0
+Anfernee Simons,Rebs+Asts,8.5,45.45454545454545
+Devin Vassell,Rebs+Asts,7.5,33.33333333333333
+Jerami Grant,Rebs+Asts,7.5,20.0
+Jeremy Sochan,Rebs+Asts,11.5,34.48275862068966
+Malcolm Brogdon,Rebs+Asts,12.0,18.181818181818183
+Anthony Davis,Rebs+Asts,16.5,37.93103448275862
+Miles Bridges,Rebs+Asts,10.0,29.411764705882355
+LeBron James,Rebs+Asts,17.5,28.57142857142857
+Terry Rozier,Rebs+Asts,11.0,38.88888888888889
+Brandon Ingram,Blks+Stls,1.5,28.57142857142857
+Lauri Markkanen,Blks+Stls,1.5,47.61904761904761
+Zion Williamson,Blks+Stls,1.5,44.0
+Michael Porter Jr.,Blks+Stls,1.5,37.5
+Nikola Jokic,Blks+Stls,2.5,25.806451612903224
+Brandin Podziemski,Blks+Stls,1.5,25.0
+Jerami Grant,Blks+Stls,1.5,44.0
+Terry Rozier,Blks+Stls,1.5,44.44444444444444
+Lauri Markkanen,Turnovers,1.5,38.095238095238095
+CJ McCollum,Turnovers,1.5,44.44444444444444
+Jonas Valanciunas,Turnovers,1.5,45.16129032258064
+Zion Williamson,Turnovers,2.5,48.0
+Luka Doncic,Turnovers,4.5,34.48275862068966
+Alex Caruso,Turnovers,1.5,38.46153846153847
+Tyrese Haliburton,Turnovers,3.5,34.61538461538461
+Kevon Looney,Turnovers,0.5,60.0
+Brandin Podziemski,Turnovers,1.5,37.5
+Devin Vassell,Turnovers,1.5,41.66666666666667

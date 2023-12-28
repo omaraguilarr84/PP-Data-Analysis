@@ -1,6 +1,7 @@
 import pandas as pd  # type: ignore
 from bs4 import BeautifulSoup
 import requests
+from unidecode import unidecode
 
 # function that returns a player's game log in a given season
 # player: player's full name (e.g. Stephen Curry)
@@ -42,9 +43,10 @@ def get_href(player: str, season: int, player_list: BeautifulSoup) -> str:
         year_max = p.find('td', {'data-stat': 'year_max'}).text
         seasons = [year_min, year_max]
         players = p.find('th', {'data-stat': 'player'}).text
+        players = unidecode(players)
         if season >= int(seasons[0]) and season <= int(seasons[1]) and player in players:
             return p.find('a').get('href').replace('.html', '')
-    raise Exception('Cannot find ' + player + ' from ' + str(season))
+    raise Exception(f'Cannot find {player} from {str(season)}')
 
 
 # helper function that makes a HTTP request over a list of players with a given last initial
@@ -82,6 +84,8 @@ def p_game_log(soup: BeautifulSoup) -> pd.DataFrame:
         'fg3a': [],
         'ft': [],
         'fta': [],
+        'orb': [],
+        'drb': [],
         'reb': [],
         'ast': [],
         'stl': [],
@@ -99,7 +103,7 @@ def p_game_log(soup: BeautifulSoup) -> pd.DataFrame:
     for i in range(len(table_rows)):
         elements = table_rows[i].find_all('td')
         x = elements[len(elements) - 1].text
-        if x == 'Inactive' or x == 'Did Not Play' or x == 'Injured Reserve' or x == 'Did Not Dress':
+        if x == 'Inactive' or x == 'Did Not Play' or x == 'Injured Reserve' or x == 'Did Not Dress' or x == 'Not With Team':
             to_ignore.append(i)
 
     # adding data to data dictionary
@@ -118,6 +122,8 @@ def p_game_log(soup: BeautifulSoup) -> pd.DataFrame:
             data['fg3a'].append(int(table_rows[i].find('td', {'data-stat': 'fg3a'}).text)) if table_rows[i].find('td', {'data-stat': 'fg3a'}).text != '' else data['fg3a'].append(0)
             data['ft'].append(int(table_rows[i].find('td', {'data-stat': 'ft'}).text)) if table_rows[i].find('td', {'data-stat': 'ft'}).text != '' else data['ft'].append(0)
             data['fta'].append(int(table_rows[i].find('td', {'data-stat': 'fta'}).text)) if table_rows[i].find('td', {'data-stat': 'fta'}).text != '' else data['fta'].append(0)
+            data['orb'].append(int(table_rows[i].find('td', {'data-stat': 'orb'}).text)) if table_rows[i].find('td', {'data-stat': 'orb'}).text != '' else data['orb'].append(0)
+            data['drb'].append(int(table_rows[i].find('td', {'data-stat': 'drb'}).text)) if table_rows[i].find('td', {'data-stat': 'drb'}).text != '' else data['drb'].append(0)
             data['reb'].append(int(table_rows[i].find('td', {'data-stat': 'trb'}).text)) if table_rows[i].find('td', {'data-stat': 'trb'}).text != '' else data['trb'].append(0)
             data['ast'].append(int(table_rows[i].find('td', {'data-stat': 'ast'}).text)) if table_rows[i].find('td', {'data-stat': 'ast'}).text != '' else data['ast'].append(0)
             data['stl'].append(int(table_rows[i].find('td', {'data-stat': 'stl'}).text)) if table_rows[i].find('td', {'data-stat': 'stl'}).text != '' else data['stl'].append(0)
@@ -129,7 +135,7 @@ def p_game_log(soup: BeautifulSoup) -> pd.DataFrame:
     return pd.DataFrame(data=data)
 
 def main():
-    print(get_player_game_log('Stephen Curry', 2023))
+    print(get_player_game_log('Zion Williamson', 2024))
 
 
 if __name__ == '__main__':
