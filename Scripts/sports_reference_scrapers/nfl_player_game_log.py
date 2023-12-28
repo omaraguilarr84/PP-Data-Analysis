@@ -29,7 +29,6 @@ def get_player_game_log(player: str, position: str, season: int) -> pd.DataFrame
 
     # make request to find proper href
     r1 = make_request_list(player, position, season)
-    print(r1)
     player_list = get_soup(r1)
 
     # find href
@@ -248,6 +247,7 @@ def rb_game_log(soup: BeautifulSoup) -> pd.DataFrame:
     for i in range(len(table_rows)):
         elements = table_rows[i].find_all('td')
         x = elements[len(elements) - 1].text
+        print(x)
         if x == 'Inactive' or x == 'Did Not Play' or x == 'Injured Reserve':
             to_ignore.append(i)
 
@@ -292,7 +292,7 @@ def rb_game_log(soup: BeautifulSoup) -> pd.DataFrame:
 
 
 def main():
-    print(get_player_game_log('Jonathan Taylor', 'RB', 2021))
+    print(get_player_game_log('Jonathan Taylor', 'RB', 2023))
 
 
 if __name__ == '__main__':

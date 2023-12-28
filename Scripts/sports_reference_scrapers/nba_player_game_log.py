@@ -35,19 +35,22 @@ def get_player_game_log(player: str, season: int) -> pd.DataFrame:
 
 # helper function that gets the player's href
 def get_href(player: str, season: int, player_list: BeautifulSoup) -> str:
-    players = player_list.find('div', id='div_players').find_all('p')
-    for p in players:
-        seasons = p.text.split(' ')
-        seasons = seasons[len(seasons) - 1].split('-')
-        if season >= int(seasons[0]) and season <= int(seasons[1]) and player in p.text:
-            return p.find('a').get('href').replace('.htm', '')
+    players_table = player_list.find('table', id = 'players')
+    players_rows = players_table.find('tbody').find_all('tr')
+    for p in players_rows:
+        year_min = p.find('td', {'data-stat': 'year_min'}).text
+        year_max = p.find('td', {'data-stat': 'year_max'}).text
+        seasons = [year_min, year_max]
+        players = p.find('th', {'data-stat': 'player'}).text
+        if season >= int(seasons[0]) and season <= int(seasons[1]) and player in players:
+            return p.find('a').get('href').replace('.html', '')
     raise Exception('Cannot find ' + player + ' from ' + str(season))
 
 
 # helper function that makes a HTTP request over a list of players with a given last initial
 def make_request_list(player: str, season: int):
     name_split = player.split(' ')
-    last_initial = name_split[1][0]
+    last_initial = name_split[1][0].lower()
     url = 'https://www.basketball-reference.com/players/%s/' % (last_initial)
     return requests.get(url)
 
@@ -88,7 +91,8 @@ def p_game_log(soup: BeautifulSoup) -> pd.DataFrame:
         'pts': [],
     }  # type: dict
 
-    table_rows = soup.find('tbody').find_all('tr')
+    # find table rows excluding those with class 'thead'
+    table_rows = soup.find('tbody').find_all('tr', class_=lambda x: x != 'thead')
 
     # ignore inactive or DNP games
     to_ignore = []
@@ -125,7 +129,7 @@ def p_game_log(soup: BeautifulSoup) -> pd.DataFrame:
     return pd.DataFrame(data=data)
 
 def main():
-    print(get_player_game_log('Stephen Curry', 2021))
+    print(get_player_game_log('Stephen Curry', 2023))
 
 
 if __name__ == '__main__':
