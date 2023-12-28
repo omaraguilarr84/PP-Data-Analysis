@@ -29,6 +29,7 @@ def get_player_game_log(player: str, position: str, season: int) -> pd.DataFrame
 
     # make request to find proper href
     r1 = make_request_list(player, position, season)
+    print(r1)
     player_list = get_soup(r1)
 
     # find href
