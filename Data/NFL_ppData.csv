@@ -1,144 +1,688 @@
 Name,Position,Opposing Team,Threshold,Type
-Brock Purdy,QB,BAL,299.5,Pass Yards
-Lamar Jackson,QB,SF,220.5,Pass Yards
-Lamar Jackson,QB,SF,249.5,Pass Yards
-Brock Purdy,QB,BAL,254.5,Pass Yards
-Brock Purdy,QB,BAL,224.5,Pass Yards
-Lamar Jackson,QB,SF,199.5,Pass Yards
-Jared Goff,QB,DAL,261.5,Pass Yards
-Dak Prescott,QB,DET,278.5,Pass Yards
-Josh Allen,QB,NE,246.5,Pass Yards
-Matthew Stafford,QB,NYG,252.5,Pass Yards
+Dak Prescott,QB,DET,324.5,Pass Yards
+Jared Goff,QB,DAL,263.5,Pass Yards
+Jared Goff,QB,DAL,299.5,Pass Yards
+Dak Prescott,QB,DET,285.5,Pass Yards
+Dak Prescott,QB,DET,249.5,Pass Yards
+Jared Goff,QB,DAL,224.5,Pass Yards
+Bailey Zappe,QB,BUF,204.5,Pass Yards
+Lamar Jackson,QB,MIA,274.5,Pass Yards
+Tua Tagovailoa,QB,BAL,299.5,Pass Yards
+Josh Allen,QB,NE,240.5,Pass Yards
+Tua Tagovailoa,QB,BAL,224.5,Pass Yards
+Lamar Jackson,QB,MIA,199.5,Pass Yards
+Bailey Zappe,QB,BUF,249.5,Pass Yards
+Josh Allen,QB,NE,274.5,Pass Yards
+Taylor Heinicke,QB,CHI,201.5,Pass Yards
+Bailey Zappe,QB,BUF,199.5,Pass Yards
+Josh Allen,QB,NE,199.5,Pass Yards
+Justin Fields,QB,ATL,189.5,Pass Yards
+Justin Fields,QB,ATL,224.5,Pass Yards
+Taylor Heinicke,QB,CHI,224.5,Pass Yards
+Taylor Heinicke,QB,CHI,174.5,Pass Yards
+Matthew Stafford,QB,NYG,257.5,Pass Yards
+C.J. Stroud,QB,TEN,299.5,Pass Yards
+Will Levis,QB,HOU,249.5,Pass Yards
+Tyrod Taylor,QB,LAR,202.5,Pass Yards
+C.J. Stroud,QB,TEN,224.5,Pass Yards
+Will Levis,QB,HOU,199.5,Pass Yards
+Gardner Minshew,QB,LV,274.5,Pass Yards
 Kyler Murray,QB,PHI,223.5,Pass Yards
-Baker Mayfield,QB,NO,235.5,Pass Yards
-Geno Smith,QB,PIT,230.5,Pass Yards
-Jordan Love,QB,MIN,227.5,Pass Yards
-Brandon Aiyuk,WR,BAL,89.5,Receiving Yards
-Deebo Samuel,WR,BAL,89.5,Receiving Yards
-George Kittle,TE,BAL,69.5,Receiving Yards
-Zay Flowers,WR,SF,69.5,Receiving Yards
-Christian McCaffrey,RB,BAL,31.5,Receiving Yards
-Christian McCaffrey,RB,BAL,24.5,Receiving Yards
-Christian McCaffrey,RB,BAL,49.5,Receiving Yards
-Deebo Samuel,WR,BAL,49.5,Receiving Yards
-Isaiah Likely,TE,SF,49.5,Receiving Yards
-Isaiah Likely,TE,SF,24.5,Receiving Yards
-Odell Beckham Jr,WR,SF,59.5,Receiving Yards
-Zay Flowers,WR,SF,47.5,Receiving Yards
-Deebo Samuel,WR,BAL,39.5,Receiving Yards
-Brandon Aiyuk,WR,BAL,64.5,Receiving Yards
-Brandon Aiyuk,WR,BAL,39.5,Receiving Yards
-Nelson Agholor,WR,SF,11.5,Receiving Yards
-Deebo Samuel,WR,BAL,61.5,Receiving Yards
-Odell Beckham Jr,WR,SF,24.5,Receiving Yards
-Odell Beckham Jr,WR,SF,33.5,Receiving Yards
-Rashod Bateman,WR,SF,29.5,Receiving Yards
-Isaiah Likely,TE,SF,39.5,Receiving Yards
-George Kittle,TE,BAL,50.5,Receiving Yards
-Gus Edwards,RB,SF,5.5,Receiving Yards
-Kyle Juszczyk,FB,BAL,0.5,Receiving Yards
-Justice Hill,RB,SF,8.5,Receiving Yards
-Amari Cooper,WR,NYJ,64.5,Receiving Yards
-Amon-Ra St. Brown,WR,DAL,85.5,Receiving Yards
-CeeDee Lamb,WR,DET,90.5,Receiving Yards
+Aidan O'Connell,QB,IND,249.5,Pass Yards
+Gardner Minshew,QB,LV,199.5,Pass Yards
+Jalen Hurts,QB,ARI,249.5,Pass Yards
+Aidan O'Connell,QB,IND,174.5,Pass Yards
+Derek Carr,QB,TB,244.5,Pass Yards
+Bryce Young,QB,JAC,224.5,Pass Yards
+Baker Mayfield,QB,NO,236.5,Pass Yards
+Bryce Young,QB,JAC,149.5,Pass Yards
+Brock Purdy,QB,WAS,267.5,Pass Yards
+Jacoby Brissett,QB,SF,230.5,Pass Yards
+Bryce Young,QB,JAC,173.5,Pass Yards
+C.J. Beathard,QB,CAR,224.5,Pass Yards
+Tua Tagovailoa,QB,BAL,245.5,Pass Yards
+Lamar Jackson,QB,MIA,231.5,Pass Yards
+Will Levis,QB,HOU,217.5,Pass Yards
+C.J. Stroud,QB,TEN,259.5,Pass Yards
+Mason Rudolph,QB,SEA,206.5,Pass Yards
+Geno Smith,QB,PIT,249.5,Pass Yards
+Easton Stick,QB,DEN,210.5,Pass Yards
+Jarrett Stidham,QB,LAC,195.5,Pass Yards
+Jake Browning,QB,KC,235.5,Pass Yards
+Patrick Mahomes,QB,CIN,271.5,Pass Yards
+Jordan Love,QB,MIN,236.5,Pass Yards
+Jaren Hall,QB,GB,222.5,Pass Yards
+Aidan O'Connell,QB,IND,215.5,Pass Yards
+Gardner Minshew,QB,LV,236.5,Pass Yards
+Amon-Ra St. Brown,WR,DAL,109.5,Receiving Yards
+Tony Pollard,RB,DET,15.5,Receiving Yards
+Jahmyr Gibbs,RB,DAL,25.5,Receiving Yards
+Sam LaPorta,TE,DAL,79.5,Receiving Yards
+CeeDee Lamb,WR,DET,69.5,Receiving Yards
+Amon-Ra St. Brown,WR,DAL,59.5,Receiving Yards
+Jake Ferguson,TE,DET,69.5,Receiving Yards
+Brandin Cooks,WR,DET,59.5,Receiving Yards
+Amon-Ra St. Brown,WR,DAL,84.5,Receiving Yards
+Jahmyr Gibbs,RB,DAL,39.5,Receiving Yards
+CeeDee Lamb,WR,DET,101.5,Receiving Yards
+Jameson Williams,WR,DAL,32.5,Receiving Yards
+Brandin Cooks,WR,DET,39.5,Receiving Yards
+Brandin Cooks,WR,DET,24.5,Receiving Yards
+Kalif Raymond,WR,DAL,14.5,Receiving Yards
+Michael Gallup,WR,DET,19.5,Receiving Yards
+Jameson Williams,WR,DAL,59.5,Receiving Yards
+Josh Reynolds,WR,DAL,16.5,Receiving Yards
+Jalen Tolbert,WR,DET,18.5,Receiving Yards
+Jake Ferguson,TE,DET,49.5,Receiving Yards
+Sam LaPorta,TE,DAL,52.5,Receiving Yards
+David Montgomery,RB,DAL,7.5,Receiving Yards
+Tyreek Hill,WR,BAL,124.5,Receiving Yards
+Zay Flowers,WR,MIA,89.5,Receiving Yards
+Tyreek Hill,WR,BAL,69.5,Receiving Yards
+Isaiah Likely,TE,MIA,59.5,Receiving Yards
+Odell Beckham Jr,WR,MIA,59.5,Receiving Yards
+Zay Flowers,WR,MIA,39.5,Receiving Yards
+Isaiah Likely,TE,MIA,24.5,Receiving Yards
+Odell Beckham Jr,WR,MIA,24.5,Receiving Yards
+Dalton Kincaid,TE,NE,24.5,Receiving Yards
+Demario Douglas,WR,BUF,47.5,Receiving Yards
+DeVante Parker,WR,BUF,36.5,Receiving Yards
+Ezekiel Elliott,RB,BUF,28.5,Receiving Yards
+Gabriel Davis,WR,NE,34.5,Receiving Yards
+James Cook,RB,NE,23.5,Receiving Yards
+Khalil Shakir,WR,NE,22.5,Receiving Yards
+Stefon Diggs,WR,NE,67.5,Receiving Yards
+Stefon Diggs,WR,NE,99.5,Receiving Yards
+Bijan Robinson,RB,CHI,22.5,Receiving Yards
+Drake London,WR,CHI,42.5,Receiving Yards
+Kyle Pitts,TE,CHI,37.5,Receiving Yards
+Stefon Diggs,WR,NE,49.5,Receiving Yards
+Gabriel Davis,WR,NE,59.5,Receiving Yards
+DeVante Parker,WR,BUF,49.5,Receiving Yards
+Hunter Henry,TE,BUF,49.5,Receiving Yards
+Dalton Kincaid,TE,NE,39.5,Receiving Yards
+Ezekiel Elliott,RB,BUF,49.5,Receiving Yards
+James Cook,RB,NE,39.5,Receiving Yards
+Jonnu Smith,TE,CHI,24.5,Receiving Yards
 D.J. Moore,WR,ATL,66.5,Receiving Yards
-DeAndre Hopkins,WR,HOU,54.5,Receiving Yards
-Puka Nacua,WR,NYG,68.5,Receiving Yards
-Cooper Kupp,WR,NYG,68.5,Receiving Yards
-Trey McBride,TE,PHI,61.5,Receiving Yards
-Mike Evans,WR,NO,68.5,Receiving Yards
-Chris Godwin,WR,NO,61.5,Receiving Yards
-George Pickens,WR,SEA,52.5,Receiving Yards
-D.K. Metcalf,WR,PIT,58.5,Receiving Yards
-Justin Jefferson,WR,GB,88.5,Receiving Yards
-Christian McCaffrey,RB,BAL,0.5,Rush+Rec TDs
-Christian McCaffrey,RB,BAL,1.5,Rush+Rec TDs
-Brandon Aiyuk,WR,BAL,0.5,Rush+Rec TDs
-Deebo Samuel,WR,BAL,0.5,Rush+Rec TDs
-George Kittle,TE,BAL,0.5,Rush+Rec TDs
-Gus Edwards,RB,SF,0.5,Rush+Rec TDs
-Isaiah Likely,TE,SF,0.5,Rush+Rec TDs
-Lamar Jackson,QB,SF,0.5,Rush+Rec TDs
-Odell Beckham Jr,WR,SF,0.5,Rush+Rec TDs
-Zay Flowers,WR,SF,0.5,Rush+Rec TDs
-Lamar Jackson,QB,SF,55.5,Rush Yards
-Christian McCaffrey,RB,BAL,99.5,Rush Yards
-Lamar Jackson,QB,SF,79.5,Rush Yards
-Christian McCaffrey,RB,BAL,59.5,Rush Yards
-Christian McCaffrey,RB,BAL,84.5,Rush Yards
-Gus Edwards,RB,SF,44.5,Rush Yards
-Lamar Jackson,QB,SF,39.5,Rush Yards
-Deebo Samuel,WR,BAL,11.5,Rush Yards
-Brock Purdy,QB,BAL,6.5,Rush Yards
-James Cook,RB,NE,65.5,Rush Yards
-Jonathan Taylor,RB,LV,72.5,Rush Yards
-Kyren Williams,RB,NYG,97.5,Rush Yards
-Rachaad White,RB,NO,69.5,Rush Yards
-Lamar Jackson,QB,SF,22.0,Fantasy Score
-Brock Purdy,QB,BAL,18.0,Fantasy Score
-Gus Edwards,RB,SF,7.5,Fantasy Score
-Christian McCaffrey,RB,BAL,21.5,Fantasy Score
-Zay Flowers,WR,SF,10.5,Fantasy Score
-Brandon Aiyuk,WR,BAL,13.5,Fantasy Score
-Odell Beckham Jr,WR,SF,7.0,Fantasy Score
-Deebo Samuel,WR,BAL,15.5,Fantasy Score
-George Kittle,TE,BAL,11.0,Fantasy Score
-Isaiah Likely,TE,SF,9.0,Fantasy Score
-Jake Moody, K,BAL,8.5,Fantasy Score
-Justin Tucker, K,SF,7.5,Fantasy Score
-Brock Purdy,QB,BAL,1.5,Pass TDs
-Brock Purdy,QB,BAL,2.5,Pass TDs
-Lamar Jackson,QB,SF,1.5,Pass TDs
-Justin Tucker, K,SF,1.5,FG Made
-Jake Moody, K,BAL,1.5,FG Made
-Jordan Stout, P,SF,1.5,Punts Inside 20
-Mitch Wishnowsky, P,BAL,1.5,Punts Inside 20
-Christian McCaffrey,RB,BAL,120.5,Rush+Rec Yds
-Gus Edwards,RB,SF,53.5,Rush+Rec Yds
-Deebo Samuel,WR,BAL,75.5,Rush+Rec Yds
-Christian McCaffrey,RB,BAL,4.0,Receptions
-Brandon Aiyuk,WR,BAL,4.5,Receptions
-Isaiah Likely,TE,SF,4.0,Receptions
-Deebo Samuel,WR,BAL,5.0,Receptions
-Lamar Jackson,QB,SF,1.5,Pass+Rush+Rec TDs
-Brandon Aiyuk + Lamar Jackson,QB,/SF,0.5,Rush+Rec TDs (Combo)
-Isaiah Likely + George Kittle,TE,BAL,0.5,Rush+Rec TDs (Combo)
-George Kittle + Zay Flowers,WR,/SF,0.5,Rush+Rec TDs (Combo)
-Lamar Jackson,QB,SF,30.5,Pass Attempts
-Brock Purdy,QB,BAL,30.5,Pass Attempts
-Nick Bosa,DE,BAL,0.25,Sacks
-Chase Young,DE,BAL,0.25,Sacks
-Fred Warner,LB,BAL,0.25,Sacks
-Jadeveon Clowney,DE,SF,0.25,Sacks
-Justin Madubuike,DT,SF,0.25,Sacks
-Lamar Jackson,QB,SF,20.0,Pass Completions
-Brock Purdy,QB,BAL,21.0,Pass Completions
-Brock Purdy,QB,BAL,0.5,INT
-Lamar Jackson,QB,SF,0.5,INT
-Lamar Jackson,QB,SF,276.5,Pass+Rush Yds
-Brock Purdy,QB,BAL,266.5,Pass+Rush Yds
-Christian McCaffrey,RB,BAL,18.5,Rush Attempts
-Gus Edwards,RB,SF,11.5,Rush Attempts
-Justin Tucker, K,SF,6.5,Kicking Points
-Jake Moody, K,BAL,7.5,Kicking Points
-Zay Flowers,WR,SF,6.0,Rec Targets
-Isaiah Likely,TE,SF,6.0,Rec Targets
-Brandon Aiyuk,WR,BAL,6.5,Rec Targets
-George Kittle,TE,BAL,5.0,Rec Targets
-Deebo Samuel,WR,BAL,6.5,Rec Targets
-Lamar Jackson + Brock Purdy,QB,BAL,472.5,Pass Yards (Combo)
-Lamar Jackson + Christian McCaffrey,RB,BAL,139.5,Rush Yards (Combo)
-Zay Flowers + Brandon Aiyuk,WR,BAL,112.5,Receiving Yards (Combo)
-Isaiah Likely + George Kittle,TE,BAL,87.5,Receiving Yards (Combo)
-Kyle Hamilton,SS,SF,6.0,Tackles+Ast
-Fred Warner,LB,BAL,9.0,Tackles+Ast
-Roquan Smith,LB,SF,9.0,Tackles+Ast
-Dre Greenlaw,LB,BAL,7.5,Tackles+Ast
-Ji'Ayir Brown,SS,BAL,5.0,Tackles+Ast
-Tashaun Gipson,SS,BAL,4.5,Tackles+Ast
-Zay Flowers,WR,SF,19.5,Receiving Yards in First 2 Receptions
-Deebo Samuel,WR,BAL,20.5,Receiving Yards in First 2 Receptions
-George Kittle,TE,BAL,21.5,Receiving Yards in First 2 Receptions
-Brandon Aiyuk,WR,BAL,24.5,Receiving Yards in First 2 Receptions
-Christian McCaffrey,RB,BAL,20.5,Rush Yards in First 5 Attempts
-Gus Edwards,RB,SF,18.5,Rush Yards in First 5 Attempts
+Van Jefferson,WR,CHI,12.5,Receiving Yards
+DeVante Parker,WR,BUF,24.5,Receiving Yards
+Gabriel Davis,WR,NE,24.5,Receiving Yards
+D.J. Moore,WR,ATL,99.5,Receiving Yards
+Kyle Pitts,TE,CHI,59.5,Receiving Yards
+D.J. Moore,WR,ATL,49.5,Receiving Yards
+Bijan Robinson,RB,CHI,39.5,Receiving Yards
+Kyle Pitts,TE,CHI,24.5,Receiving Yards
+Drake London,WR,CHI,69.5,Receiving Yards
+Hunter Renfrow,WR,IND,18.5,Receiving Yards
+Austin Hooper,TE,IND,17.5,Receiving Yards
+Jonathan Taylor,RB,LV,11.5,Receiving Yards
+Kyren Williams,RB,NYG,16.5,Receiving Yards
+Saquon Barkley,RB,LAR,16.5,Receiving Yards
+Chigoziem Okonkwo,TE,HOU,49.5,Receiving Yards
+Chigoziem Okonkwo,TE,HOU,24.5,Receiving Yards
+Dalton Schultz,TE,TEN,24.5,Receiving Yards
+Puka Nacua,WR,NYG,70.5,Receiving Yards
+Darius Slayton,WR,LAR,33.5,Receiving Yards
+DeAndre Hopkins,WR,HOU,49.5,Receiving Yards
+Cooper Kupp,WR,NYG,70.5,Receiving Yards
+Jalin Hyatt,WR,LAR,22.5,Receiving Yards
+Demarcus Robinson,WR,NYG,31.5,Receiving Yards
+Wan'Dale Robinson,WR,LAR,33.5,Receiving Yards
+Daniel Bellinger,TE,LAR,10.5,Receiving Yards
+Tyler Higbee,TE,NYG,24.5,Receiving Yards
+Darren Waller,TE,LAR,37.5,Receiving Yards
+Davante Adams,WR,IND,99.5,Receiving Yards
+Michael Pittman Jr.,WR,LV,99.5,Receiving Yards
+Josh Downs,WR,LV,59.5,Receiving Yards
+Jakobi Meyers,WR,IND,59.5,Receiving Yards
+Davante Adams,WR,IND,49.5,Receiving Yards
+Michael Pittman Jr.,WR,LV,49.5,Receiving Yards
+Jakobi Meyers,WR,IND,24.5,Receiving Yards
+Greg Dortch,WR,PHI,30.5,Receiving Yards
+A.J. Brown,WR,ARI,85.5,Receiving Yards
+Alec Pierce,WR,LV,49.5,Receiving Yards
+Michael Wilson,WR,PHI,30.5,Receiving Yards
+DeVonta Smith,WR,ARI,56.5,Receiving Yards
+Josh Downs,WR,LV,24.5,Receiving Yards
+Rondale Moore,WR,PHI,22.5,Receiving Yards
+Dallas Goedert,TE,ARI,44.5,Receiving Yards
+Trey McBride,TE,PHI,66.5,Receiving Yards
+James Conner,RB,PHI,13.5,Receiving Yards
+Kenny Gainwell,RB,ARI,7.5,Receiving Yards
+D'Andre Swift,RB,ARI,10.5,Receiving Yards
+Adam Thielen,WR,JAC,69.5,Receiving Yards
+Rachaad White,RB,NO,22.5,Receiving Yards
+Alvin Kamara,RB,TB,32.5,Receiving Yards
+Jonathan Mingo,WR,JAC,49.5,Receiving Yards
+Chris Olave,WR,TB,70.5,Receiving Yards
+Mike Evans,WR,NO,64.5,Receiving Yards
+Rashid Shaheed,WR,TB,32.5,Receiving Yards
+Chris Godwin,WR,NO,55.5,Receiving Yards
+A.T. Perry,WR,TB,15.5,Receiving Yards
+Trey Palmer,WR,NO,19.5,Receiving Yards
+David Moore,WR,NO,5.5,Receiving Yards
+Foster Moreau,TE,TB,9.5,Receiving Yards
+Cade Otton,TE,NO,25.5,Receiving Yards
+Juwan Johnson,TE,TB,19.5,Receiving Yards
+Christian McCaffrey,RB,WAS,30.5,Receiving Yards
+Brandon Aiyuk,WR,WAS,69.5,Receiving Yards
+Terry McLaurin,WR,SF,52.5,Receiving Yards
+Deebo Samuel,WR,WAS,57.5,Receiving Yards
+Jahan Dotson,WR,SF,30.5,Receiving Yards
+Curtis Samuel,WR,SF,37.5,Receiving Yards
+George Kittle,TE,WAS,51.5,Receiving Yards
+Logan Thomas,TE,SF,29.5,Receiving Yards
+Adam Thielen,WR,JAC,42.5,Receiving Yards
+Calvin Ridley,WR,CAR,58.5,Receiving Yards
+Jonathan Mingo,WR,JAC,29.5,Receiving Yards
+Evan Engram,TE,CAR,55.5,Receiving Yards
+D.J. Chark,WR,JAC,25.5,Receiving Yards
+Stephen Sullivan,TE,JAC,6.5,Receiving Yards
+Tommy Tremble,TE,JAC,11.5,Receiving Yards
+Travis Etienne,RB,CAR,20.5,Receiving Yards
+Tyreek Hill,WR,BAL,94.5,Receiving Yards
+Zay Flowers,WR,MIA,56.5,Receiving Yards
+Cedrick Wilson Jr.,WR,BAL,35.5,Receiving Yards
+Nelson Agholor,WR,MIA,14.5,Receiving Yards
+Odell Beckham Jr,WR,MIA,32.5,Receiving Yards
+Rashod Bateman,WR,MIA,26.5,Receiving Yards
+Durham Smythe,TE,BAL,18.5,Receiving Yards
+Isaiah Likely,TE,MIA,42.5,Receiving Yards
+DeAndre Hopkins,WR,HOU,59.5,Receiving Yards
+Nico Collins,WR,TEN,59.5,Receiving Yards
+Chigoziem Okonkwo,TE,HOU,38.5,Receiving Yards
+Noah Brown,WR,TEN,43.5,Receiving Yards
+Dalton Schultz,TE,TEN,40.5,Receiving Yards
+Derrick Henry,RB,HOU,7.5,Receiving Yards
+Devin Singletary,RB,TEN,13.5,Receiving Yards
+Tyjae Spears,RB,HOU,14.5,Receiving Yards
+George Pickens,WR,SEA,47.5,Receiving Yards
+D.K. Metcalf,WR,PIT,63.5,Receiving Yards
+Diontae Johnson,WR,SEA,42.5,Receiving Yards
+Tyler Lockett,WR,PIT,55.5,Receiving Yards
+Allen Robinson,WR,SEA,18.5,Receiving Yards
+Pat Freiermuth,TE,SEA,22.5,Receiving Yards
+Noah Fant,TE,PIT,18.5,Receiving Yards
+Najee Harris,RB,SEA,6.5,Receiving Yards
+Kenneth Walker III,RB,PIT,12.5,Receiving Yards
+Jaylen Warren,RB,SEA,24.5,Receiving Yards
+Zach Charbonnet,RB,PIT,9.5,Receiving Yards
+Austin Ekeler,RB,DEN,31.5,Receiving Yards
+Javonte Williams,RB,LAC,12.5,Receiving Yards
+Gerald Everett,TE,DEN,39.5,Receiving Yards
+Lucas Krull,TE,LAC,14.5,Receiving Yards
+Rashee Rice,WR,CIN,63.5,Receiving Yards
+Justin Watson,WR,CIN,21.5,Receiving Yards
+Marquez Valdes-Scantling,WR,CIN,14.5,Receiving Yards
+Travis Kelce,TE,CIN,65.5,Receiving Yards
+Noah Gray,TE,CIN,11.5,Receiving Yards
+Joe Mixon,RB,KC,17.5,Receiving Yards
+Chase Brown,RB,KC,11.5,Receiving Yards
+Aaron Jones,RB,MIN,16.5,Receiving Yards
+Ty Chandler,RB,GB,12.5,Receiving Yards
+Romeo Doubs,WR,MIN,41.5,Receiving Yards
+Justin Jefferson,WR,GB,78.5,Receiving Yards
+Tucker Kraft,TE,MIN,39.5,Receiving Yards
+Hunter Henry,TE,BUF,29.5,Receiving Yards
+Alec Pierce,WR,LV,26.5,Receiving Yards
+Davante Adams,WR,IND,65.5,Receiving Yards
+Josh Downs,WR,LV,36.5,Receiving Yards
+Kylen Granson,TE,LV,19.5,Receiving Yards
+Michael Pittman Jr.,WR,LV,78.5,Receiving Yards
+Jakobi Meyers,WR,IND,39.5,Receiving Yards
+David Montgomery,RB,DAL,79.5,Rush Yards
+Dak Prescott,QB,DET,17.5,Rush Yards
+Jahmyr Gibbs,RB,DAL,79.5,Rush Yards
+Tony Pollard,RB,DET,79.5,Rush Yards
+David Montgomery,RB,DAL,55.5,Rush Yards
+Tony Pollard,RB,DET,58.5,Rush Yards
+Jahmyr Gibbs,RB,DAL,52.5,Rush Yards
+Tony Pollard,RB,DET,39.5,Rush Yards
+David Montgomery,RB,DAL,39.5,Rush Yards
+Josh Allen,QB,NE,28.5,Rush Yards
+Ezekiel Elliott,RB,BUF,41.5,Rush Yards
+Lamar Jackson,QB,MIA,79.5,Rush Yards
+James Cook,RB,NE,66.5,Rush Yards
+Gus Edwards,RB,MIA,69.5,Rush Yards
+Bailey Zappe,QB,BUF,5.5,Rush Yards
+Lamar Jackson,QB,MIA,39.5,Rush Yards
+Gus Edwards,RB,MIA,49.5,Rush Yards
+James Cook,RB,NE,99.5,Rush Yards
+Bijan Robinson,RB,CHI,49.5,Rush Yards
+Taylor Heinicke,QB,CHI,11.5,Rush Yards
+Josh Allen,QB,NE,49.5,Rush Yards
+D'Onta Foreman,RB,ATL,34.5,Rush Yards
+Justin Fields,QB,ATL,54.5,Rush Yards
+James Cook,RB,NE,49.5,Rush Yards
+Josh Allen,QB,NE,24.5,Rush Yards
+Khalil Herbert,RB,ATL,26.5,Rush Yards
+Roschon Johnson,RB,ATL,18.5,Rush Yards
+Tyler Allgeier,RB,CHI,28.5,Rush Yards
+Bijan Robinson,RB,CHI,69.5,Rush Yards
+Zamir White,RB,IND,70.5,Rush Yards
+Jonathan Taylor,RB,LV,74.5,Rush Yards
+Tyler Allgeier,RB,CHI,49.5,Rush Yards
+Gardner Minshew,QB,LV,3.5,Rush Yards
+Bijan Robinson,RB,CHI,39.5,Rush Yards
+Tyrod Taylor,QB,LAR,23.5,Rush Yards
+Kyren Williams,RB,NYG,94.5,Rush Yards
+Saquon Barkley,RB,LAR,64.5,Rush Yards
+Derrick Henry,RB,HOU,49.5,Rush Yards
+Jonathan Taylor,RB,LV,99.5,Rush Yards
+Zamir White,RB,IND,99.5,Rush Yards
+James Conner,RB,PHI,55.5,Rush Yards
+D'Andre Swift,RB,ARI,69.5,Rush Yards
+Kenny Gainwell,RB,ARI,21.5,Rush Yards
+Kyler Murray,QB,PHI,28.5,Rush Yards
+Jonathan Taylor,RB,LV,59.5,Rush Yards
+Jalen Hurts,QB,ARI,44.5,Rush Yards
+Chuba Hubbard,RB,JAC,99.5,Rush Yards
+Taysom Hill,QB,TB,15.5,Rush Yards
+Rachaad White,RB,NO,64.5,Rush Yards
+Alvin Kamara,RB,TB,45.5,Rush Yards
+Chase Edmonds,RB,NO,15.5,Rush Yards
+Derek Carr,QB,TB,1.5,Rush Yards
+Jamaal Williams,RB,TB,17.5,Rush Yards
+Chuba Hubbard,RB,JAC,49.5,Rush Yards
+Baker Mayfield,QB,NO,5.5,Rush Yards
+Miles Sanders,RB,JAC,49.5,Rush Yards
+Christian McCaffrey,RB,WAS,90.5,Rush Yards
+Brian Robinson Jr.,RB,SF,36.5,Rush Yards
+Brock Purdy,QB,WAS,7.5,Rush Yards
+Deebo Samuel,WR,WAS,10.5,Rush Yards
+Chuba Hubbard,RB,JAC,64.5,Rush Yards
+Travis Etienne,RB,CAR,60.5,Rush Yards
+Miles Sanders,RB,JAC,29.5,Rush Yards
+Bryce Young,QB,JAC,13.5,Rush Yards
+C.J. Beathard,QB,CAR,9.5,Rush Yards
+Lamar Jackson,QB,MIA,53.5,Rush Yards
+Raheem Mostert,RB,BAL,45.5,Rush Yards
+Gus Edwards,RB,MIA,40.5,Rush Yards
+Justice Hill,RB,MIA,29.5,Rush Yards
+Justice Hill,RB,MIA,49.5,Rush Yards
+Tua Tagovailoa,QB,BAL,4.5,Rush Yards
+Derrick Henry,RB,HOU,57.5,Rush Yards
+Devin Singletary,RB,TEN,57.5,Rush Yards
+Tyjae Spears,RB,HOU,28.5,Rush Yards
+C.J. Stroud,QB,TEN,6.5,Rush Yards
+Najee Harris,RB,SEA,53.5,Rush Yards
+Kenneth Walker III,RB,PIT,62.5,Rush Yards
+Jaylen Warren,RB,SEA,35.5,Rush Yards
+Zach Charbonnet,RB,PIT,24.5,Rush Yards
+Mason Rudolph,QB,SEA,7.5,Rush Yards
+Geno Smith,QB,PIT,4.5,Rush Yards
+Austin Ekeler,RB,DEN,46.5,Rush Yards
+Javonte Williams,RB,LAC,58.5,Rush Yards
+Easton Stick,QB,DEN,19.5,Rush Yards
+Jarrett Stidham,QB,LAC,25.5,Rush Yards
+Patrick Mahomes,QB,CIN,21.5,Rush Yards
+Joe Mixon,RB,KC,44.5,Rush Yards
+Chase Brown,RB,KC,18.5,Rush Yards
+Jake Browning,QB,KC,6.5,Rush Yards
+Jordan Love,QB,MIN,8.5,Rush Yards
+Jaren Hall,QB,GB,26.5,Rush Yards
+Aaron Jones,RB,MIN,51.5,Rush Yards
+Ty Chandler,RB,GB,61.5,Rush Yards
+CeeDee Lamb,WR,DET,0.5,Rush+Rec TDs
+Amon-Ra St. Brown,WR,DAL,0.5,Rush+Rec TDs
+David Montgomery,RB,DAL,0.5,Rush+Rec TDs
+Jahmyr Gibbs,RB,DAL,0.5,Rush+Rec TDs
+Brandin Cooks,WR,DET,0.5,Rush+Rec TDs
+Jake Ferguson,TE,DET,0.5,Rush+Rec TDs
+Sam LaPorta,TE,DAL,0.5,Rush+Rec TDs
+CeeDee Lamb,WR,DET,1.5,Rush+Rec TDs
+Brandon Aiyuk,WR,WAS,0.5,Rush+Rec TDs
+Christian McCaffrey,RB,WAS,0.5,Rush+Rec TDs
+Curtis Samuel,WR,SF,0.5,Rush+Rec TDs
+Deebo Samuel,WR,WAS,0.5,Rush+Rec TDs
+George Kittle,TE,WAS,0.5,Rush+Rec TDs
+Terry McLaurin,WR,SF,0.5,Rush+Rec TDs
+Demario Douglas,WR,BUF,0.5,Rush+Rec TDs
+Alvin Kamara,RB,TB,0.5,Rush+Rec TDs
+Chris Godwin,WR,NO,0.5,Rush+Rec TDs
+Chris Olave,WR,TB,0.5,Rush+Rec TDs
+Taysom Hill,QB,TB,0.5,Rush+Rec TDs
+Justice Hill,RB,MIA,0.5,Rush+Rec TDs
+Cooper Kupp,WR,NYG,0.5,Rush+Rec TDs
+Derrick Henry,RB,HOU,0.5,Rush+Rec TDs
+Darius Slayton,WR,LAR,0.5,Rush+Rec TDs
+Darren Waller,TE,LAR,0.5,Rush+Rec TDs
+Kyren Williams,RB,NYG,0.5,Rush+Rec TDs
+Kyren Williams,RB,NYG,1.5,Rush+Rec TDs
+Puka Nacua,WR,NYG,0.5,Rush+Rec TDs
+Tyler Higbee,TE,NYG,0.5,Rush+Rec TDs
+Wan'Dale Robinson,WR,LAR,0.5,Rush+Rec TDs
+D.K. Metcalf,WR,PIT,0.5,Rush+Rec TDs
+Diontae Johnson,WR,SEA,0.5,Rush+Rec TDs
+George Pickens,WR,SEA,0.5,Rush+Rec TDs
+Jaxon Smith-Njigba,WR,PIT,0.5,Rush+Rec TDs
+Jaylen Warren,RB,SEA,0.5,Rush+Rec TDs
+Brandin Cooks,WR,DET,0.5,Rush+Rec TDs
+Kenneth Walker III,RB,PIT,0.5,Rush+Rec TDs
+Cooper Kupp,WR,NYG,0.5,Rush+Rec TDs
+Najee Harris,RB,SEA,0.5,Rush+Rec TDs
+Tony Pollard,RB,DET,0.5,Rush+Rec TDs
+Dalton Kincaid,TE,NE,0.5,Rush+Rec TDs
+Tyler Lockett,WR,PIT,0.5,Rush+Rec TDs
+Ezekiel Elliott,RB,BUF,0.5,Rush+Rec TDs
+Zach Charbonnet,RB,PIT,0.5,Rush+Rec TDs
+Gabriel Davis,WR,NE,0.5,Rush+Rec TDs
+Joe Mixon,RB,KC,0.5,Rush+Rec TDs
+James Cook,RB,NE,0.5,Rush+Rec TDs
+Rashee Rice,WR,CIN,0.5,Rush+Rec TDs
+Stefon Diggs,WR,NE,0.5,Rush+Rec TDs
+Devon Achane,RB,BAL,0.5,Rush+Rec TDs
+Isaiah Likely,TE,MIA,0.5,Rush+Rec TDs
+Lamar Jackson,QB,MIA,0.5,Rush+Rec TDs
+Odell Beckham Jr,WR,MIA,0.5,Rush+Rec TDs
+Raheem Mostert,RB,BAL,0.5,Rush+Rec TDs
+Tyreek Hill,WR,BAL,0.5,Rush+Rec TDs
+Zay Flowers,WR,MIA,0.5,Rush+Rec TDs
+Bijan Robinson,RB,CHI,0.5,Rush+Rec TDs
+Jameson Williams,WR,DAL,0.5,Rush+Rec TDs
+D'Onta Foreman,RB,ATL,0.5,Rush+Rec TDs
+D.J. Moore,WR,ATL,0.5,Rush+Rec TDs
+Drake London,WR,CHI,0.5,Rush+Rec TDs
+Justin Fields,QB,ATL,0.5,Rush+Rec TDs
+Khalil Herbert,RB,ATL,0.5,Rush+Rec TDs
+Tyler Allgeier,RB,CHI,0.5,Rush+Rec TDs
+Christian McCaffrey,RB,WAS,1.5,Rush+Rec TDs
+Mike Evans,WR,NO,0.5,Rush+Rec TDs
+Rachaad White,RB,NO,0.5,Rush+Rec TDs
+Adam Thielen,WR,JAC,0.5,Rush+Rec TDs
+Chigoziem Okonkwo,TE,HOU,0.5,Rush+Rec TDs
+Dalton Schultz,TE,TEN,0.5,Rush+Rec TDs
+DeAndre Hopkins,WR,HOU,0.5,Rush+Rec TDs
+Devin Singletary,RB,TEN,0.5,Rush+Rec TDs
+Nico Collins,WR,TEN,0.5,Rush+Rec TDs
+Noah Brown,WR,TEN,0.5,Rush+Rec TDs
+Kyle Pitts,TE,CHI,0.5,Rush+Rec TDs
+A.J. Brown,WR,ARI,0.5,Rush+Rec TDs
+D'Andre Swift,RB,ARI,0.5,Rush+Rec TDs
+Dallas Goedert,TE,ARI,0.5,Rush+Rec TDs
+DeVonta Smith,WR,ARI,0.5,Rush+Rec TDs
+Jalen Hurts,QB,ARI,0.5,Rush+Rec TDs
+Jalen Hurts,QB,ARI,1.5,Rush+Rec TDs
+James Conner,RB,PHI,0.5,Rush+Rec TDs
+Josh Allen,QB,NE,0.5,Rush+Rec TDs
+Kyler Murray,QB,PHI,0.5,Rush+Rec TDs
+Trey McBride,TE,PHI,0.5,Rush+Rec TDs
+Davante Adams,WR,IND,0.5,Rush+Rec TDs
+Jakobi Meyers,WR,IND,0.5,Rush+Rec TDs
+Jonathan Taylor,RB,LV,0.5,Rush+Rec TDs
+Josh Downs,WR,LV,0.5,Rush+Rec TDs
+Michael Pittman Jr.,WR,LV,0.5,Rush+Rec TDs
+Clyde Edwards-Helaire,RB,CIN,0.5,Rush+Rec TDs
+Ja'Marr Chase,WR,KC,0.5,Rush+Rec TDs
+Gus Edwards,RB,MIA,0.5,Rush+Rec TDs
+Tee Higgins,WR,KC,0.5,Rush+Rec TDs
+Tyler Boyd,WR,KC,0.5,Rush+Rec TDs
+Austin Ekeler,RB,DEN,0.5,Rush+Rec TDs
+Gerald Everett,TE,DEN,0.5,Rush+Rec TDs
+Javonte Williams,RB,LAC,0.5,Rush+Rec TDs
+Jerry Jeudy,WR,LAC,0.5,Rush+Rec TDs
+AJ Dillon,RB,MIN,0.5,Rush+Rec TDs
+Aaron Jones,RB,MIN,0.5,Rush+Rec TDs
+Dontayvion Wicks,WR,MIN,0.5,Rush+Rec TDs
+Justin Jefferson,WR,GB,0.5,Rush+Rec TDs
+Romeo Doubs,WR,MIN,0.5,Rush+Rec TDs
+Tucker Kraft,TE,MIN,0.5,Rush+Rec TDs
+Zamir White,RB,IND,0.5,Rush+Rec TDs
+Calvin Ridley,WR,CAR,0.5,Rush+Rec TDs
+Chuba Hubbard,RB,JAC,0.5,Rush+Rec TDs
+Evan Engram,TE,CAR,0.5,Rush+Rec TDs
+Jared Goff,QB,DAL,17.0,Fantasy Score
+Dak Prescott,QB,DET,23.0,Fantasy Score
+David Montgomery,RB,DAL,10.5,Fantasy Score
+Tony Pollard,RB,DET,14.5,Fantasy Score
+Jahmyr Gibbs,RB,DAL,14.0,Fantasy Score
+Amon-Ra St. Brown,WR,DAL,17.0,Fantasy Score
+Brandin Cooks,WR,DET,9.5,Fantasy Score
+Jameson Williams,WR,DAL,7.5,Fantasy Score
+Jake Ferguson,TE,DET,11.5,Fantasy Score
+Sam LaPorta,TE,DAL,12.0,Fantasy Score
+Michael Gallup,WR,DET,4.5,Fantasy Score
+Josh Reynolds,WR,DAL,4.0,Fantasy Score
+Brandon Aubrey,K,DET,9.5,Fantasy Score
+Michael Badgley,K,DAL,8.5,Fantasy Score
+Dak Prescott,QB,DET,2.5,Pass TDs
+Jared Goff,QB,DAL,2.5,Pass TDs
+Dak Prescott,QB,DET,1.5,Pass TDs
+Jared Goff,QB,DAL,1.5,Pass TDs
+Brock Purdy,QB,WAS,1.5,Pass TDs
+Brock Purdy,QB,WAS,2.5,Pass TDs
+Baker Mayfield,QB,NO,1.5,Pass TDs
+Derek Carr,QB,TB,1.5,Pass TDs
+Lamar Jackson,QB,MIA,1.5,Pass TDs
+Matthew Stafford,QB,NYG,1.5,Pass TDs
+Matthew Stafford,QB,NYG,2.5,Pass TDs
+Tyrod Taylor,QB,LAR,1.5,Pass TDs
+Jake Browning,QB,KC,1.5,Pass TDs
+Patrick Mahomes,QB,CIN,1.5,Pass TDs
+Patrick Mahomes,QB,CIN,2.5,Pass TDs
+Josh Allen,QB,NE,2.5,Pass TDs
+Jordan Love,QB,MIN,1.5,Pass TDs
+Brandon Aubrey,K,DET,1.5,FG Made
+Brandon Aubrey,K,DET,2.5,FG Made
+Michael Badgley,K,DAL,1.5,FG Made
+Michael Badgley,K,DAL,2.5,FG Made
+Blake Grupe,K,TB,1.5,FG Made
+Chase McLaughlin,K,NO,1.5,FG Made
+Chase McLaughlin,K,NO,2.5,FG Made
+Jason Sanders,K,BAL,1.5,FG Made
+Jason Sanders,K,BAL,2.5,FG Made
+Justin Tucker,K,MIA,2.5,FG Made
+Kaimi Fairbairn,K,TEN,1.5,FG Made
+Kaimi Fairbairn,K,TEN,2.5,FG Made
+Nick Folk,K,HOU,1.5,FG Made
+Nick Folk,K,HOU,2.5,FG Made
+Cairo Santos,K,ATL,1.5,FG Made
+Blake Grupe,K,TB,0.5,FG Made
+Cairo Santos,K,ATL,2.5,FG Made
+Younghoe Koo,K,CHI,1.5,FG Made
+Younghoe Koo,K,CHI,2.5,FG Made
+Jake Elliott,K,ARI,1.5,FG Made
+Jake Elliott,K,ARI,2.5,FG Made
+Lucas Havrisik,K,NYG,2.5,FG Made
+Matt Prater,K,PHI,1.5,FG Made
+Mason Crosby,K,LAR,1.5,FG Made
+Daniel Carlson,K,IND,2.5,FG Made
+Evan McPherson,K,KC,1.5,FG Made
+Harrison Butker,K,CIN,2.5,FG Made
+Anders Carlson,K,MIN,1.5,FG Made
+Cairo Santos,K,ATL,1.5,FG Made
+Lucas Havrisik,K,NYG,1.5,FG Made
+Jake Elliott,K,ARI,1.5,FG Made
+Jake Moody,K,WAS,1.5,FG Made
+Justin Tucker,K,MIA,1.5,FG Made
+Harrison Butker,K,CIN,1.5,FG Made
+Daniel Carlson,K,IND,1.5,FG Made
+Matt Gay,K,LV,1.5,FG Made
+Ezekiel Elliott,RB,BUF,72.5,Rush+Rec Yds
+James Cook,RB,NE,94.5,Rush+Rec Yds
+Bijan Robinson,RB,CHI,75.5,Rush+Rec Yds
+Kyren Williams,RB,NYG,115.5,Rush+Rec Yds
+Saquon Barkley,RB,LAR,90.5,Rush+Rec Yds
+Rachaad White,RB,NO,91.5,Rush+Rec Yds
+Alvin Kamara,RB,TB,89.5,Rush+Rec Yds
+Christian McCaffrey,RB,WAS,121.5,Rush+Rec Yds
+Deebo Samuel,WR,WAS,75.5,Rush+Rec Yds
+Aaron Jones,RB,MIN,72.5,Rush+Rec Yds
+Ty Chandler,RB,GB,79.5,Rush+Rec Yds
+David Montgomery,RB,DAL,65.5,Rush+Rec Yds
+Jahmyr Gibbs,RB,DAL,78.5,Rush+Rec Yds
+Tony Pollard,RB,DET,78.5,Rush+Rec Yds
+D'Onta Foreman,RB,ATL,41.5,Rush+Rec Yds
+Khalil Herbert,RB,ATL,33.5,Rush+Rec Yds
+Roschon Johnson,RB,ATL,31.5,Rush+Rec Yds
+Tyler Allgeier,RB,CHI,34.5,Rush+Rec Yds
+Amon-Ra St. Brown,WR,DAL,7.0,Receptions
+David Montgomery,RB,DAL,1.5,Receptions
+Brandin Cooks,WR,DET,3.0,Receptions
+CeeDee Lamb,WR,DET,7.5,Receptions
+Josh Reynolds,WR,DAL,1.5,Receptions
+Jake Ferguson,TE,DET,5.0,Receptions
+Kalif Raymond,WR,DAL,1.5,Receptions
+Michael Gallup,WR,DET,2.0,Receptions
+Tony Pollard,RB,DET,3.0,Receptions
+Gabriel Davis,WR,NE,2.5,Receptions
+Drake London,WR,CHI,3.5,Receptions
+Jonnu Smith,TE,CHI,2.5,Receptions
+Kyren Williams,RB,NYG,2.5,Receptions
+Puka Nacua,WR,NYG,5.5,Receptions
+Tyler Higbee,TE,NYG,2.5,Receptions
+Darren Waller,TE,LAR,3.5,Receptions
+Christian McCaffrey,RB,WAS,4.0,Receptions
+George Kittle,TE,WAS,4.0,Receptions
+Rashod Bateman,WR,MIA,2.5,Receptions
+Gerald Everett,TE,DEN,4.5,Receptions
+Noah Gray,TE,CIN,1.5,Receptions
+Romeo Doubs,WR,MIN,3.5,Receptions
+Ezekiel Elliott,RB,BUF,4.5,Receptions
+Josh Downs,WR,LV,3.5,Receptions
+Amon-Ra St. Brown + Jameson Williams,WR,DAL,0.5,Rush+Rec TDs (Combo)
+Brandin Cooks + Sam LaPorta,WR/TE,DAL,0.5,Rush+Rec TDs (Combo)
+Lamar Jackson + Odell Beckham Jr,QB/WR,MIA,0.5,Rush+Rec TDs (Combo)
+Ezekiel Elliott + Gabriel Davis,RB/WR,/NE,0.5,Rush+Rec TDs (Combo)
+Justin Fields + D.J. Moore,QB/WR,ATL,0.5,Rush+Rec TDs (Combo)
+Bijan Robinson + Justin Fields,RB/QB,ATL,0.5,Rush+Rec TDs (Combo)
+Dalton Schultz + DeAndre Hopkins,TE/WR,HOU,0.5,Rush+Rec TDs (Combo)
+Davante Adams + Josh Downs,WR,/LV,0.5,Rush+Rec TDs (Combo)
+James Conner + Dallas Goedert,RB/TE,ARI,0.5,Rush+Rec TDs (Combo)
+Chris Olave + Taysom Hill,WR/QB,TB,0.5,Rush+Rec TDs (Combo)
+George Kittle + Terry McLaurin,TE/WR,/SF,0.5,Rush+Rec TDs (Combo)
+D.K. Metcalf + Diontae Johnson,WR,SEA,0.5,Rush+Rec TDs (Combo)
+Tyler Lockett + Jaylen Warren,WR/RB,SEA,0.5,Rush+Rec TDs (Combo)
+Tee Higgins + Joe Mixon,WR/RB,KC,0.5,Rush+Rec TDs (Combo)
+Austin Ekeler + Jerry Jeudy,RB/WR,LAC,0.5,Rush+Rec TDs (Combo)
+Aaron Jones + Tucker Kraft,RB/TE,MIN,0.5,Rush+Rec TDs (Combo)
+Justin Jefferson + A.J. Dillon,WR/RB,MIN,0.5,Rush+Rec TDs (Combo)
+Dak Prescott,QB,DET,36.5,Pass Attempts
+Jared Goff,QB,DAL,36.5,Pass Attempts
+Josh Allen,QB,NE,30.5,Pass Attempts
+Justin Fields,QB,ATL,27.0,Pass Attempts
+Taylor Heinicke,QB,CHI,29.5,Pass Attempts
+Jalen Hurts,QB,ARI,30.5,Pass Attempts
+Kyler Murray,QB,PHI,34.5,Pass Attempts
+Brock Purdy,QB,WAS,30.5,Pass Attempts
+Lamar Jackson,QB,MIA,31.0,Pass Attempts
+Jake Browning,QB,KC,34.5,Pass Attempts
+Patrick Mahomes,QB,CIN,35.5,Pass Attempts
+Jordan Love,QB,MIN,33.5,Pass Attempts
+Aidan O'Connell,QB,IND,30.5,Pass Attempts
+Gardner Minshew,QB,LV,33.0,Pass Attempts
+Aidan Hutchinson,DE,DAL,0.25,Sacks
+DeMarcus Lawrence,DE,DET,0.25,Sacks
+Micah Parsons,LB,DET,0.75,Sacks
+Javon Hargrave,DT,WAS,0.5,Sacks
+Carl Granderson,DE,TB,0.5,Sacks
+Aaron Donald,DT,NYG,0.5,Sacks
+Brian Burns,LB,JAC,0.25,Sacks
+Byron Young,OL,NYG,0.25,Sacks
+Kayvon Thibodeaux,LB,LAR,0.25,Sacks
+Josh AlIen,LB,CAR,0.75,Sacks
+Michael Hoecht,DT,NYG,0.25,Sacks
+George Karlaftis,DE,CIN,0.25,Sacks
+Travon Walker,LB,CAR,0.25,Sacks
+Mike Danna,DE,CIN,0.25,Sacks
+Sam Hubbard,DE,KC,0.25,Sacks
+Trey Hendrickson,DE,KC,0.75,Sacks
+DeForest Buckner,DT,LV,0.25,Sacks
+Maxx Crosby,DE,IND,0.75,Sacks
+Chris Jones,DT,CIN,0.25,Sacks
+Khalil Mack,LB,DEN,0.75,Sacks
+Morgan Fox,DE,DEN,0.25,Sacks
+Nik Bonitto,LB,LAC,0.25,Sacks
+Tuli Tuipulotu,LB,DEN,0.5,Sacks
+Jared Goff,QB,DAL,23.5,Pass Completions
+Dak Prescott,QB,DET,24.5,Pass Completions
+Josh Allen,QB,NE,22.5,Pass Completions
+Justin Fields,QB,ATL,16.5,Pass Completions
+Taylor Heinicke,QB,CHI,18.5,Pass Completions
+Jalen Hurts,QB,ARI,21.5,Pass Completions
+Kyler Murray,QB,PHI,22.0,Pass Completions
+Brock Purdy,QB,WAS,20.5,Pass Completions
+Lamar Jackson,QB,MIA,20.5,Pass Completions
+Jake Browning,QB,KC,23.0,Pass Completions
+Patrick Mahomes,QB,CIN,25.5,Pass Completions
+Jordan Love,QB,MIN,22.5,Pass Completions
+Aidan O'Connell,QB,IND,19.5,Pass Completions
+Gardner Minshew,QB,LV,22.0,Pass Completions
+Brock Purdy,QB,WAS,0.5,INT
+Jared Goff,QB,DAL,0.5,INT
+Dak Prescott,QB,DET,0.5,INT
+Josh Allen,QB,NE,0.5,INT
+Justin Fields,QB,ATL,0.5,INT
+Matthew Stafford,QB,NYG,0.5,INT
+Tyrod Taylor,QB,LAR,0.5,INT
+Baker Mayfield,QB,NO,0.5,INT
+Patrick Mahomes,QB,CIN,0.5,INT
+Jordan Love,QB,MIN,0.5,INT
+Jaren Hall,QB,GB,0.5,INT
+Aidan O'Connell,QB,IND,0.5,INT
+Jared Goff,QB,DAL,267.5,Pass+Rush Yds
+Dak Prescott,QB,DET,304.5,Pass+Rush Yds
+Josh Allen,QB,NE,269.5,Pass+Rush Yds
+Taylor Heinicke,QB,CHI,215.5,Pass+Rush Yds
+Derek Carr,QB,TB,248.5,Pass+Rush Yds
+Baker Mayfield,QB,NO,246.5,Pass+Rush Yds
+Lamar Jackson,QB,MIA,288.5,Pass+Rush Yds
+Easton Stick,QB,DEN,233.5,Pass+Rush Yds
+Jarrett Stidham,QB,LAC,224.5,Pass+Rush Yds
+Jake Browning,QB,KC,244.5,Pass+Rush Yds
+Patrick Mahomes,QB,CIN,297.5,Pass+Rush Yds
+Jordan Love,QB,MIN,246.5,Pass+Rush Yds
+Jaren Hall,QB,GB,253.5,Pass+Rush Yds
+Justin Fields,QB,ATL,248.5,Pass+Rush Yds
+Aidan O'Connell,QB,IND,221.5,Pass+Rush Yds
+Gardner Minshew,QB,LV,238.5,Pass+Rush Yds
+Dak Prescott,QB,DET,3.5,Rush Attempts
+Jahmyr Gibbs,RB,DAL,10.0,Rush Attempts
+Tony Pollard,RB,DET,15.0,Rush Attempts
+Bijan Robinson,RB,CHI,12.0,Rush Attempts
+Justin Fields,QB,ATL,9.5,Rush Attempts
+Kyren Williams,RB,NYG,19.5,Rush Attempts
+Saquon Barkley,RB,LAR,16.5,Rush Attempts
+D'Andre Swift,RB,ARI,15.5,Rush Attempts
+Jalen Hurts,QB,ARI,9.5,Rush Attempts
+James Conner,RB,PHI,13.5,Rush Attempts
+Christian McCaffrey,RB,WAS,17.5,Rush Attempts
+Lamar Jackson,QB,MIA,9.5,Rush Attempts
+Gus Edwards,RB,MIA,10.5,Rush Attempts
+Justice Hill,RB,MIA,7.5,Rush Attempts
+Patrick Mahomes,QB,CIN,4.5,Rush Attempts
+Josh Allen,QB,NE,7.5,Rush Attempts
+Michael Badgley,K,DAL,7.0,Kicking Points
+Younghoe Koo,K,CHI,6.0,Kicking Points
+Cairo Santos,K,ATL,6.5,Kicking Points
+Lucas Havrisik,K,NYG,7.5,Kicking Points
+Mason Crosby,K,LAR,5.5,Kicking Points
+Jake Elliott,K,ARI,8.0,Kicking Points
+Matt Prater,K,PHI,6.0,Kicking Points
+Justin Tucker,K,MIA,7.5,Kicking Points
+Evan McPherson,K,KC,5.5,Kicking Points
+Harrison Butker,K,CIN,7.5,Kicking Points
+Anders Carlson,K,MIN,6.5,Kicking Points
+Greg Joseph,K,GB,6.5,Kicking Points
+Daniel Carlson,K,IND,6.5,Kicking Points
+Alex Anzalone,LB,DAL,7.5,Tackles+Ast
+Damone Clark,LB,DET,8.0,Tackles+Ast
+Kerby Joseph,SS,DAL,4.5,Tackles+Ast
+Micah Parsons,LB,DET,4.5,Tackles+Ast
+Bobby Okereke,LB,LAR,8.5,Tackles+Ast
+Jason Pinnock,FS,LAR,5.0,Tackles+Ast
+Micah McFadden,LB,LAR,5.5,Tackles+Ast
+Demario Davis,LB,TB,6.5,Tackles+Ast
+Jordan Howden,DB,TB,5.5,Tackles+Ast
+Paulson Adebo,CB,TB,4.5,Tackles+Ast
+Pete Werner,LB,TB,5.5,Tackles+Ast
+Dre Greenlaw,LB,WAS,7.5,Tackles+Ast
+Cody Barton,LB,SF,9.0,Tackles+Ast
+Jordan Battle,SS,KC,6.0,Tackles+Ast
+Mike Hilton,CB,KC,5.0,Tackles+Ast
+Derrick Barnes,LB,DAL,5.5,Tackles+Ast
+Donovan Wilson,SS,DET,6.5,Tackles+Ast
+Jack Campbell,LB,DAL,5.5,Tackles+Ast
+Malik Hooker,FS,DET,4.5,Tackles+Ast
+Stephon Gilmore,CB,DET,4.5,Tackles+Ast

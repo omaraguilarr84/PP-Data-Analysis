@@ -8,6 +8,7 @@ def get_pdata(player, position, year):
         return game_log
     except Exception as e:
         print(f"Error fetching game log for {player}: {e}")
+        time.sleep(time_limit_seconds/requests_per_minute_limit)
         return None
 
 def over(game_log, threshold, column_name):
@@ -32,8 +33,7 @@ def dyn_stat(new_stat, stat1, stat2, func):
             game_log[new_stat] = game_log[stat1]
         elif stat2 in game_log.columns:
             game_log[new_stat] = game_log[stat2]
-
-    if func == 'percentage':
+    elif func == 'percentage':
         game_log[new_stat] = (game_log[stat1] / game_log[stat2]) * 100
 
 requests_per_minute_limit = 12
@@ -56,12 +56,13 @@ stat_mapping = {
     'Rush Attempts': 'rush_att',
     'Rec Targets': 'tgt',
     'Completion Percentage': 'cmp_per',
-    'Rush+Rec Yds': 'rush_rec_yds'
+    'Rush+Rec Yds': 'rush_rec_yds',
+    'Kicking Points': 'kick_pts',
 }
 
 output_data_list = []
 
-for index, row in input_data.iloc[:1].iterrows():
+for index, row in input_data.iterrows():
     player = str(row.iloc[0])
     position = str(row.iloc[1])
     threshold = row.iloc[3]
@@ -82,7 +83,6 @@ for index, row in input_data.iloc[:1].iterrows():
 
     print(f"Input Stat: {input_stat}, Mapped Stat: {stat}")
     
-    # Add rush+rec yds
     if stat == 'rush_rec_td':
         dyn_stat(stat, 'rush_td', 'rec_td', 'add')
     elif stat == 'pass_rush_yds':
@@ -91,10 +91,13 @@ for index, row in input_data.iloc[:1].iterrows():
         dyn_stat(stat, 'rush_yds', 'rec_yds', 'add')
     elif stat == 'cmp_per':
         dyn_stat(stat, 'cmp', 'att', 'percentage')
+    elif stat == 'kick_pts':
+        game_log['kick_pts'] = game_log['xpm'] + (game_log['fgm'] * 3)
     
     per_over = over(game_log, threshold, stat)
     output_data = output_data_list.append({'Player': player, 'Stat': input_stat, 'Threshold': threshold, 'Percentage': per_over})
 
+    print(f'{index + 1}/{len(input_data)} ({(index + 1)/len(input_data)})')
     time.sleep(time_limit_seconds / requests_per_minute_limit)
 
 output_data = pd.DataFrame(output_data_list)

@@ -103,14 +103,14 @@ def p_game_log(soup: BeautifulSoup) -> pd.DataFrame:
     for i in range(len(table_rows)):
         elements = table_rows[i].find_all('td')
         x = elements[len(elements) - 1].text
-        if x == 'Inactive' or x == 'Did Not Play' or x == 'Injured Reserve' or x == 'Did Not Dress' or x == 'Not With Team':
+        if x == 'Inactive' or x == 'Did Not Play' or x == 'Injured Reserve' or x == 'Did Not Dress' or x == 'Not With Team' or x == 'Player Suspended':
             to_ignore.append(i)
 
     # adding data to data dictionary
     for i in range(len(table_rows)):
         if i not in to_ignore:
             # Need to fix logic within these to match data dict
-            data['game'].append(int(table_rows[i].find('td', {'data-stat': 'game_season'}).text))
+            data['game'].append(int(table_rows[i].find('td', {'data-stat': 'game_season'}).text)) if table_rows[i].find('td', {'data-stat': 'game_season'}).text != '' else data['game'].append(0)
             data['date'].append(table_rows[i].find('td', {'data-stat': 'date_game'}).text)
             data['team'].append(table_rows[i].find('td', {'data-stat': 'team_id'}).text)
             data['game_location'].append(table_rows[i].find('td', {'data-stat': 'game_location'}).text)
@@ -135,7 +135,7 @@ def p_game_log(soup: BeautifulSoup) -> pd.DataFrame:
     return pd.DataFrame(data=data)
 
 def main():
-    print(get_player_game_log('Zion Williamson', 2024))
+    print(get_player_game_log('Ja Morant', 2024))
 
 
 if __name__ == '__main__':

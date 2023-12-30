@@ -41,7 +41,8 @@ for category in categories:
     for projections in projectionsPP:
         names = projections.find_element(By.CLASS_NAME, "name").text
         team_position = projections.find_element(By.CLASS_NAME, "team-position").get_attribute('innerHTML')
-        position = team_position[-2:]
+        parts = team_position.split('-', 1)
+        position = parts[-1].strip()
         opp = projections.find_element(By.CLASS_NAME, "opponent").get_attribute('innerHTML')
         opp = opp[-3:]
         opp = opp.replace(" ",'')
