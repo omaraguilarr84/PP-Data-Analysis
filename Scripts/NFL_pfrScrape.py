@@ -97,7 +97,7 @@ for index, row in input_data.iterrows():
     per_over = over(game_log, threshold, stat)
     output_data = output_data_list.append({'Player': player, 'Stat': input_stat, 'Threshold': threshold, 'Percentage': per_over})
 
-    print(f'{index + 1}/{len(input_data)} ({(index + 1)/len(input_data)})')
+    print(f'{index + 1}/{len(input_data)} ({((index + 1)/len(input_stat)) * 100}%)')
     time.sleep(time_limit_seconds / requests_per_minute_limit)
 
 output_data = pd.DataFrame(output_data_list)

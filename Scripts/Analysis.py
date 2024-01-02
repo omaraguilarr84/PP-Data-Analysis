@@ -35,14 +35,21 @@ while resp not in valid_resp:
     resp = input("High, low, or both percentages? (high, low, or both) ")
 
 if resp == 'high':
-    top_n_percentages = high(num)
+    output = high(num)
     print(f"Top {num} Percentages:")
-    print(top_n_percentages[['Player', 'Stat', 'Threshold', 'Percentage']])
+    print(output[['Player', 'Stat', 'Threshold', 'Percentage']])
 elif resp == 'low':
-    bot_n_percentages = low(num)
+    output = low(num)
     print(f"Bottom {num} Percentages:")
-    print(bot_n_percentages[['Player', 'Stat', 'Threshold', 'Percentage']])
+    print(output[['Player', 'Stat', 'Threshold', 'Percentage']])
 elif resp == 'both':
-    combined_percentages = both(num)
+    output = both(num)
     print(f"Top {num} Combined Percentages:")
-    print(combined_percentages[['Player', 'Stat', 'Threshold', 'Percentage']])
+    print(output[['Player', 'Stat', 'Threshold', 'Percentage']])
+
+output_data = pd.DataFrame(output)
+
+output_file_name = f'{league}_Analysis.csv'
+output_file_path = '/Users/omaraguilarjr/PP-Data-Analysis/Data'
+output_full_path = f'{output_file_path}/{output_file_name}'
+output_data.to_csv(output_full_path)

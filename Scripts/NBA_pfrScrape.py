@@ -1,6 +1,7 @@
 from sports_reference_scrapers import nba_player_game_log as p
 import pandas as pd
 import time
+import numpy as np
 
 def get_pdata(player, year):
     try:
@@ -25,6 +26,15 @@ def over(game_log, threshold, column_name):
     percentage_over_threshold = (games_over_threshold / total_games) * 100
     return percentage_over_threshold
 
+def vs_opp(game_log, opp, stat):
+    games_vs_opp = game_log[game_log['opp'] == opp]
+
+    if games_vs_opp.empty:
+        return None
+
+    avg_vs_opp = np.mean(games_vs_opp[stat])
+    return avg_vs_opp
+
 def dyn_stat(new_stat, stat1, stat2, func):
     if func == 'add':
         if stat1 in game_log.columns and stat2 in game_log.columns:
@@ -41,13 +51,12 @@ def dyn_stat3(new_stat, stat1, stat2, stat3, func):
     if func == 'add':
         game_log[new_stat] = game_log[stat1] + game_log[stat2] + game_log[stat3]
 
-requests_per_minute_limit = 12
+requests_per_minute_limit = 15
 time_limit_seconds = 60
 
 input_file_path = '/Users/omaraguilarjr/PP-Data-Analysis/Data/NBA_ppData.csv'
 input_data = pd.read_csv(input_file_path, skiprows=0)
 
-# Need to fix stat map according to NBA stats
 stat_mapping = {
     'Pts+Rebs+Asts': 'pts_reb_ast',
     'Points': 'pts',
@@ -72,6 +81,7 @@ output_data_list = []
 
 for index, row in input_data.iterrows():
     player = str(row.iloc[0])
+    opp = str(row.iloc[2])
     threshold = row.iloc[3]
     input_stat = str(row.iloc[4])
     stat = stat_mapping.get(input_stat)
@@ -90,7 +100,6 @@ for index, row in input_data.iterrows():
 
     print(f"Input Stat: {input_stat}, Mapped Stat: {stat}")
     
-    # Fix for new stat dict
     if stat == 'pts_reb_ast':
         dyn_stat3(stat, 'pts', 'reb', 'ast','add')
     elif stat == 'pts_reb':
@@ -103,9 +112,11 @@ for index, row in input_data.iterrows():
         dyn_stat(stat, 'blk', 'stl', 'add')
     
     per_over = over(game_log, threshold, stat)
-    output_data = output_data_list.append({'Player': player, 'Stat': input_stat, 'Threshold': threshold, 'Percentage': per_over})
+    avg = np.mean(game_log[stat])
+    avg_vs_opp = vs_opp(game_log, opp, stat)
+    output_data = output_data_list.append({'Player': player, 'Stat': input_stat, 'Threshold': threshold, 'Percentage': per_over, 'Average': avg, 'Avg vs. Opp': avg_vs_opp})
 
-    print(f'({index}/{len(input_data)})')
+    print(f'{index + 1}/{len(input_data)}')
     time.sleep(time_limit_seconds / requests_per_minute_limit)
 
 output_data = pd.DataFrame(output_data_list)

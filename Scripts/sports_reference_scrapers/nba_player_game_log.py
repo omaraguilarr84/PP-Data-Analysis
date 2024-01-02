@@ -2,6 +2,7 @@ import pandas as pd  # type: ignore
 from bs4 import BeautifulSoup
 import requests
 from unidecode import unidecode
+import numpy as np
 
 # function that returns a player's game log in a given season
 # player: player's full name (e.g. Stephen Curry)
@@ -131,11 +132,11 @@ def p_game_log(soup: BeautifulSoup) -> pd.DataFrame:
             data['tov'].append(int(table_rows[i].find('td', {'data-stat': 'tov'}).text)) if table_rows[i].find('td', {'data-stat': 'tov'}).text != '' else data['tov'].append(0)
             data['pf'].append(int(table_rows[i].find('td', {'data-stat': 'pf'}).text)) if table_rows[i].find('td', {'data-stat': 'pf'}).text != '' else data['pf'].append(0)
             data['pts'].append(int(table_rows[i].find('td', {'data-stat': 'pts'}).text)) if table_rows[i].find('td', {'data-stat': 'pts'}).text != '' else data['pts'].append(0)
-
+    
     return pd.DataFrame(data=data)
 
 def main():
-    print(get_player_game_log('Ja Morant', 2024))
+    print(get_player_game_log('Tyrese Haliburton', 2024))
 
 
 if __name__ == '__main__':
