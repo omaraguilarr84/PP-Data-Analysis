@@ -1,0 +1,215 @@
+Name,Position,Opposing Team,Threshold,Type,Special
+Giannis Antetokounmpo,[],SAS,31.5,Points,
+Giannis Antetokounmpo,[],SAS,50.5,Pts+Rebs+Asts,
+Giannis Antetokounmpo,[],SAS,6.0,Assists,
+Giannis Antetokounmpo,[],SAS,12.5,Rebounds,
+Giannis Antetokounmpo,[],SAS,18.5,Rebounds+Assists,
+Giannis Antetokounmpo,[],SAS,44.5,Points+Rebounds,
+Giannis Antetokounmpo,[],SAS,37.5,Points+Assists,
+Giannis Antetokounmpo,[],SAS,1.5,Steals,Higher 1.25x
+Giannis Antetokounmpo,[],SAS,60.25,FantasyPoints,
+Giannis Antetokounmpo,[],SAS,2.5,Blocks+Steals,
+Giannis Antetokounmpo,[],SAS,3.0,Turnovers,
+Giannis Antetokounmpo,[],SAS,1.5,Blocks,Higher 1.5x
+Giannis Antetokounmpo,[],SAS,7.5,FTMade,
+Damian Lillard,[],SAS,0.5,DoubleDoubles,Higher 2.5x
+Damian Lillard,[],SAS,25.5,Points,
+Damian Lillard,[],SAS,36.5,Pts+Rebs+Asts,
+Damian Lillard,[],SAS,7.0,Assists,
+Damian Lillard,[],SAS,4.5,Rebounds,
+Damian Lillard,[],SAS,11.5,Rebounds+Assists,
+Damian Lillard,[],SAS,32.5,Points+Assists,
+Damian Lillard,[],SAS,29.5,Points+Rebounds,
+Damian Lillard,[],SAS,41.55,FantasyPoints,
+Damian Lillard,[],SAS,2.5,Turnovers,
+Damian Lillard,[],SAS,1.5,Blocks+Steals,Higher 1.25x
+Damian Lillard,[],SAS,0.5,Blocks,Higher 2.25x
+Damian Lillard,[],SAS,7.5,FTMade,
+Khris Middleton,[],SAS,16.5,Points,
+Khris Middleton,[],SAS,26.5,Pts+Rebs+Asts,
+Khris Middleton,[],SAS,5.5,Assists,
+Khris Middleton,[],SAS,5.0,Rebounds,
+Khris Middleton,[],SAS,10.5,Rebounds+Assists,
+Khris Middleton,[],SAS,21.5,Points+Assists,
+Khris Middleton,[],SAS,21.5,Points+Rebounds,
+Khris Middleton,[],SAS,0.5,Blocks,Higher 1.75x
+Khris Middleton,[],SAS,1.5,Blocks+Steals,Higher 1.25x
+Brook Lopez,[],SAS,13.5,Points,
+Brook Lopez,[],SAS,20.5,Pts+Rebs+Asts,
+Brook Lopez,[],SAS,5.5,Rebounds,
+Brook Lopez,[],SAS,6.5,Rebounds+Assists,
+Brook Lopez,[],SAS,1.5,3-PointersMade,
+Brook Lopez,[],SAS,19.5,Points+Rebounds,
+Brook Lopez,[],SAS,0.5,Steals,
+Brook Lopez,[],SAS,2.5,Blocks,
+Brook Lopez,[],SAS,1.5,FTMade,
+Malik Beasley,[],SAS,9.5,Points,
+Malik Beasley,[],SAS,15.5,Pts+Rebs+Asts,
+Malik Beasley,[],SAS,0.5,Blocks,Higher 2.5x
+Victor Wembanyama,[],MIL,19.5,Points,
+Victor Wembanyama,[],MIL,31.5,Pts+Rebs+Asts,
+Victor Wembanyama,[],MIL,9.0,Rebounds,
+Victor Wembanyama,[],MIL,11.5,Rebounds+Assists,
+Victor Wembanyama,[],MIL,1.5,3-PointersMade,
+Victor Wembanyama,[],MIL,22.5,Points+Assists,
+Victor Wembanyama,[],MIL,28.5,Points+Rebounds,
+Victor Wembanyama,[],MIL,42.25,FantasyPoints,
+Victor Wembanyama,[],MIL,2.0,Blocks,
+Keldon Johnson,[],MIL,19.5,Points,
+Keldon Johnson,[],MIL,29.5,Pts+Rebs+Asts,
+Keldon Johnson,[],MIL,6.0,Rebounds,
+Keldon Johnson,[],MIL,9.5,Rebounds+Assists,
+Keldon Johnson,[],MIL,2.5,3-PointersMade,Higher 1.25x
+Keldon Johnson,[],MIL,25.5,Points+Rebounds,
+Keldon Johnson,[],MIL,23.5,Points+Assists,
+Keldon Johnson,[],MIL,1.5,Turnovers,
+Keldon Johnson,[],MIL,0.5,Blocks,Higher 2.5x
+Keldon Johnson,[],MIL,2.5,FTMade,
+Devin Vassell,[],MIL,19.5,Points,
+Devin Vassell,[],MIL,27.5,Pts+Rebs+Asts,
+Devin Vassell,[],MIL,3.5,Assists,
+Devin Vassell,[],MIL,3.5,Rebounds,
+Devin Vassell,[],MIL,7.0,Rebounds+Assists,
+Devin Vassell,[],MIL,2.5,3-PointersMade,
+Devin Vassell,[],MIL,23.5,Points+Assists,
+Devin Vassell,[],MIL,23.5,Points+Rebounds,
+Devin Vassell,[],MIL,1.5,Steals,Higher 1.25x
+Devin Vassell,[],MIL,0.5,Blocks,Higher 1.5x
+Devin Vassell,[],MIL,1.5,Blocks+Steals,
+Devin Vassell,[],MIL,2.5,FTMade,
+Jeremy Sochan,[],MIL,12.0,Points,
+Jeremy Sochan,[],MIL,21.5,Pts+Rebs+Asts,
+Jeremy Sochan,[],MIL,3.5,Assists,
+Jeremy Sochan,[],MIL,6.0,Rebounds,
+Jeremy Sochan,[],MIL,9.5,Rebounds+Assists,
+Jeremy Sochan,[],MIL,15.5,Points+Assists,
+Jeremy Sochan,[],MIL,17.5,Points+Rebounds,
+Jeremy Sochan,[],MIL,0.5,Steals,
+Jeremy Sochan,[],MIL,0.5,Blocks,Higher 1.5x
+Tre Jones,[],MIL,11.5,Points,
+Tre Jones,[],MIL,22.5,Pts+Rebs+Asts,
+Tre Jones,[],MIL,7.0,Assists,
+Tre Jones,[],MIL,3.5,Rebounds,
+Tre Jones,[],MIL,10.5,Rebounds+Assists,
+Tre Jones,[],MIL,15.5,Points+Rebounds,
+Tre Jones,[],MIL,18.5,Points+Assists,
+Tre Jones,[],MIL,1.5,Blocks+Steals,Higher 1.25x
+Julian Champagnie,[],MIL,8.0,Points,
+Julian Champagnie,[],MIL,12.5,Pts+Rebs+Asts,
+Julian Champagnie,[],MIL,3.0,Rebounds,
+Julian Champagnie,[],MIL,1.5,3-PointersMade,
+Julian Champagnie,[],MIL,0.5,Blocks,Higher 1.25x
+Julian Champagnie,[],MIL,1.5,Blocks+Steals,Higher 1.25x
+Nikola Jokic,[],GSW,0.5,TripleDoubles,Higher 1.25x
+Nikola Jokic,[],GSW,26.5,Points,
+Nikola Jokic,[],GSW,48.5,Pts+Rebs+Asts,
+Nikola Jokic,[],GSW,9.0,Assists,
+Nikola Jokic,[],GSW,13.0,Rebounds,
+Nikola Jokic,[],GSW,21.5,Rebounds+Assists,
+Nikola Jokic,[],GSW,35.5,Points+Assists,
+Nikola Jokic,[],GSW,39.5,Points+Rebounds,
+Nikola Jokic,[],GSW,1.5,Steals,Higher 1.25x
+Nikola Jokic,[],GSW,58.15,FantasyPoints,
+Nikola Jokic,[],GSW,2.0,Blocks+Steals,
+Jamal Murray,[],GSW,23.0,Points,
+Jamal Murray,[],GSW,33.0,Pts+Rebs+Asts,
+Jamal Murray,[],GSW,6.5,Assists,
+Jamal Murray,[],GSW,4.0,Rebounds,
+Jamal Murray,[],GSW,10.5,Rebounds+Assists,
+Jamal Murray,[],GSW,26.5,Points+Rebounds,
+Jamal Murray,[],GSW,28.5,Points+Assists,
+Jamal Murray,[],GSW,1.5,Steals,Higher 1.25x
+Jamal Murray,[],GSW,1.5,Blocks+Steals,
+Jamal Murray,[],GSW,0.5,Blocks,Higher 1.25x
+Jamal Murray,[],GSW,2.0,Turnovers,
+Michael Porter Jr.,[],GSW,0.5,DoubleDoubles,Higher 2.5x
+Michael Porter Jr.,[],GSW,16.5,Points,
+Michael Porter Jr.,[],GSW,25.5,Pts+Rebs+Asts,
+Michael Porter Jr.,[],GSW,7.0,Rebounds,
+Michael Porter Jr.,[],GSW,3.0,3-PointersMade,
+Michael Porter Jr.,[],GSW,17.5,Points+Assists,
+Michael Porter Jr.,[],GSW,1.5,Blocks+Steals,Higher 1.25x
+Michael Porter Jr.,[],GSW,0.5,Blocks,
+Aaron Gordon,[],GSW,14.0,Points,
+Aaron Gordon,[],GSW,24.5,Pts+Rebs+Asts,
+Aaron Gordon,[],GSW,6.0,Rebounds,
+Aaron Gordon,[],GSW,9.5,Rebounds+Assists,
+Aaron Gordon,[],GSW,17.5,Points+Assists,
+Aaron Gordon,[],GSW,20.5,Points+Rebounds,
+Aaron Gordon,[],GSW,0.5,Blocks,Higher 1.25x
+Kentavious Caldwell-Pope,[],GSW,9.5,Points,
+Kentavious Caldwell-Pope,[],GSW,14.5,Pts+Rebs+Asts,
+Kentavious Caldwell-Pope,[],GSW,1.5,3-PointersMade,
+Kentavious Caldwell-Pope,[],GSW,0.5,Blocks,Higher 1.25x
+Reggie Jackson,[],GSW,7.5,Points,
+Reggie Jackson,[],GSW,12.5,Pts+Rebs+Asts,
+Reggie Jackson,[],GSW,0.5,Steals,Higher 1.25x
+Peyton Watson,[],GSW,5.5,Points,
+Peyton Watson,[],GSW,9.5,Pts+Rebs+Asts,
+Peyton Watson,[],GSW,0.5,3-PointersMade,
+Peyton Watson,[],GSW,0.5,Steals,
+Peyton Watson,[],GSW,0.5,Blocks,
+Peyton Watson,[],GSW,1.5,Blocks+Steals,Higher 1.25x
+Christian Braun,[],GSW,5.5,Points,
+Christian Braun,[],GSW,10.5,Pts+Rebs+Asts,
+Christian Braun,[],GSW,2.5,Rebounds,
+Christian Braun,[],GSW,0.5,Steals,Higher 1.25x
+Christian Braun,[],GSW,0.5,Blocks,Higher 1.75x
+Christian Braun,[],GSW,0.5,Blocks+Steals,
+Stephen Curry,[],DEN,27.5,Points,
+Stephen Curry,[],DEN,37.5,Pts+Rebs+Asts,
+Stephen Curry,[],DEN,5.0,Assists,
+Stephen Curry,[],DEN,4.0,Rebounds,
+Stephen Curry,[],DEN,9.0,Rebounds+Assists,
+Stephen Curry,[],DEN,4.5,3-PointersMade,
+Stephen Curry,[],DEN,33.5,Points+Assists,
+Stephen Curry,[],DEN,31.5,Points+Rebounds,
+Stephen Curry,[],DEN,40.75,FantasyPoints,
+Stephen Curry,[],DEN,0.5,Blocks,Higher 1.25x
+Stephen Curry,[],DEN,1.5,Blocks+Steals,Higher 1.25x
+Klay Thompson,[],DEN,15.5,Points,
+Klay Thompson,[],DEN,20.5,Pts+Rebs+Asts,
+Klay Thompson,[],DEN,3.0,Rebounds,
+Klay Thompson,[],DEN,3.0,3-PointersMade,
+Klay Thompson,[],DEN,17.5,Points+Assists,
+Klay Thompson,[],DEN,0.5,Steals,
+Klay Thompson,[],DEN,0.5,Blocks,Higher 1.25x
+Chris Paul,[],DEN,0.5,DoubleDoubles,Higher 3x
+Chris Paul,[],DEN,10.5,Points,
+Chris Paul,[],DEN,21.5,Pts+Rebs+Asts,
+Chris Paul,[],DEN,7.5,Assists,
+Chris Paul,[],DEN,11.0,Rebounds+Assists,
+Chris Paul,[],DEN,1.5,3-PointersMade,
+Chris Paul,[],DEN,18.5,Points+Assists,
+Chris Paul,[],DEN,1.5,Blocks+Steals,Higher 1.25x
+Chris Paul,[],DEN,0.5,Blocks,Higher 2x
+Andrew Wiggins,[],DEN,11.5,Points,
+Andrew Wiggins,[],DEN,16.5,Pts+Rebs+Asts,
+Andrew Wiggins,[],DEN,3.5,Rebounds,
+Andrew Wiggins,[],DEN,1.5,3-PointersMade,Higher 1.25x
+Andrew Wiggins,[],DEN,15.5,Points+Rebounds,
+Andrew Wiggins,[],DEN,0.5,Blocks,Higher 1.25x
+Jonathan Kuminga,[],DEN,14.0,Points,
+Jonathan Kuminga,[],DEN,21.5,Pts+Rebs+Asts,
+Jonathan Kuminga,[],DEN,5.0,Rebounds,
+Jonathan Kuminga,[],DEN,15.5,Points+Assists,
+Jonathan Kuminga,[],DEN,19.0,Points+Rebounds,
+Jonathan Kuminga,[],DEN,0.5,Steals,
+Jonathan Kuminga,[],DEN,0.5,Blocks,Higher 1.25x
+Jonathan Kuminga,[],DEN,1.5,Blocks+Steals,Higher 1.5x
+Brandin Podziemski,[],DEN,9.5,Points,
+Brandin Podziemski,[],DEN,19.0,Pts+Rebs+Asts,
+Brandin Podziemski,[],DEN,5.0,Rebounds,
+Brandin Podziemski,[],DEN,9.5,Rebounds+Assists,
+Brandin Podziemski,[],DEN,0.5,Blocks,Higher 1.75x
+Brandin Podziemski,[],DEN,1.5,Blocks+Steals,Higher 1.25x
+Dario Saric,[],DEN,7.5,Points,
+Dario Saric,[],DEN,13.5,Pts+Rebs+Asts,
+Dario Saric,[],DEN,4.0,Rebounds,
+Dario Saric,[],DEN,0.5,Steals,Higher 1.25x
+Dario Saric,[],DEN,0.5,Blocks,Higher 3x
+Trayce Jackson-Davis,[],DEN,10.0,Points,
+Trayce Jackson-Davis,[],DEN,17.5,Pts+Rebs+Asts,
+Trayce Jackson-Davis,[],DEN,6.0,Rebounds,
+Trayce Jackson-Davis,[],DEN,0.5,Steals,
+Trayce Jackson-Davis,[],DEN,1.5,Blocks,Higher 1.5x

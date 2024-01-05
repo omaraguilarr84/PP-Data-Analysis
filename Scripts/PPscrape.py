@@ -35,8 +35,7 @@ categories = driver.find_element(By.CSS_SELECTOR, ".stat-container").text.split(
 for category in categories:
     driver.find_element(By.XPATH, f"//div[text()='{category}']").click()
 
-    projectionsPP = WebDriverWait(driver, 5).until(
-        EC.presence_of_all_elements_located((By.CSS_SELECTOR, ".projection")))
+    projectionsPP = WebDriverWait(driver, 5).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, ".projection")))
 
     for projections in projectionsPP:
         names = projections.find_element(By.CLASS_NAME, "name").text
@@ -49,12 +48,14 @@ for category in categories:
         value = projections.find_element(By.CLASS_NAME, "presale-score").get_attribute('innerHTML')
         proptype = projections.find_element(By.CLASS_NAME, "text").get_attribute('innerHTML')
 
+        # Add demons and goblins for special
         players = {
             'Name': names,
             'Position': position,
             'Opposing Team': opp,
             'Threshold': value,
-            'Type': proptype.replace("<wbr>", "")
+            'Type': proptype.replace("<wbr>", ""),
+            'Special': []
         }
         ppPlayers.append(players)
 

@@ -37,15 +37,15 @@ while resp not in valid_resp:
 if resp == 'high':
     output = high(num)
     print(f"Top {num} Percentages:")
-    print(output[['Player', 'Stat', 'Threshold', 'Percentage']])
+    print(output[['Player', 'Stat', 'Threshold', 'Percentage', 'Average', 'Avg vs. Opp', 'Special']])
 elif resp == 'low':
     output = low(num)
     print(f"Bottom {num} Percentages:")
-    print(output[['Player', 'Stat', 'Threshold', 'Percentage']])
+    print(output[['Player', 'Stat', 'Threshold', 'Percentage', 'Average', 'Avg vs. Opp', 'Special']])
 elif resp == 'both':
     output = both(num)
     print(f"Top {num} Combined Percentages:")
-    print(output[['Player', 'Stat', 'Threshold', 'Percentage']])
+    print(output[['Player', 'Stat', 'Threshold', 'Percentage', 'Average', 'Avg vs. Opp', 'Special']])
 
 output_data = pd.DataFrame(output)
 

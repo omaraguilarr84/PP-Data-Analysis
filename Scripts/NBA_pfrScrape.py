@@ -3,6 +3,8 @@ import pandas as pd
 import time
 import numpy as np
 
+book = input("Which sportsbook would you like to analyze data from? (pp or uf) ")
+
 def get_pdata(player, year):
     try:
         game_log = p.get_player_game_log(player, season=year)
@@ -51,12 +53,13 @@ def dyn_stat3(new_stat, stat1, stat2, stat3, func):
     if func == 'add':
         game_log[new_stat] = game_log[stat1] + game_log[stat2] + game_log[stat3]
 
-requests_per_minute_limit = 15
+requests_per_minute_limit = 16
 time_limit_seconds = 60
 
-input_file_path = '/Users/omaraguilarjr/PP-Data-Analysis/Data/NBA_ppData.csv'
+input_file_path = f'/Users/omaraguilarjr/PP-Data-Analysis/Data/NBA_{book}Data.csv'
 input_data = pd.read_csv(input_file_path, skiprows=0)
 
+# Need to add on to this as errors are seen with integrating UF
 stat_mapping = {
     'Pts+Rebs+Asts': 'pts_reb_ast',
     'Points': 'pts',
@@ -66,14 +69,21 @@ stat_mapping = {
     'Offensive Rebounds': 'orb',
     '3-PT Attempted': 'fg3a',
     'Free Throws Made': 'ft',
+    'FTMade': 'ft',
     'FG Attempted': 'fga',
     'Pts+Rebs': 'pts_reb',
+    'Points+Rebounds': 'pts_reb',
     'Pts+Asts': 'pts_ast',
+    'Points+Assists': 'pts_ast',
     '3-PT Made': 'fg3',
+    '3-PointersMade': 'fg3',
     'Blocked Shots': 'blk',
+    'Blocks': 'blk',
     'Steals': 'stl',
     'Rebs+Asts': 'reb_ast',
+    'Rebounds+Assists': 'reb_ast',
     'Blks+Stls': 'blk_stl',
+    'Blocks+Steals': 'blk_stl',
     'Turnovers': 'tov'
 }
 
@@ -85,6 +95,7 @@ for index, row in input_data.iterrows():
     threshold = row.iloc[3]
     input_stat = str(row.iloc[4])
     stat = stat_mapping.get(input_stat)
+    special = str(row.iloc[5])
 
     print(f"Fetching data for {player}, Year 2024...")
     
@@ -114,7 +125,7 @@ for index, row in input_data.iterrows():
     per_over = over(game_log, threshold, stat)
     avg = np.mean(game_log[stat])
     avg_vs_opp = vs_opp(game_log, opp, stat)
-    output_data = output_data_list.append({'Player': player, 'Stat': input_stat, 'Threshold': threshold, 'Percentage': per_over, 'Average': avg, 'Avg vs. Opp': avg_vs_opp})
+    output_data = output_data_list.append({'Player': player, 'Stat': input_stat, 'Threshold': threshold, 'Percentage': per_over, 'Average': avg, 'Avg vs. Opp': avg_vs_opp, 'Special': special})
 
     print(f'{index + 1}/{len(input_data)}')
     time.sleep(time_limit_seconds / requests_per_minute_limit)

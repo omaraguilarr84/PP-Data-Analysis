@@ -1,430 +1,186 @@
 Name,Position,Opposing Team,Threshold,Type
-Jakob Poeltl,C,CLE,20.5,Pts+Rebs+Asts
-Donovan Mitchell,G,TOR,41.5,Pts+Rebs+Asts
-Pascal Siakam,F,CLE,35.5,Pts+Rebs+Asts
-Jarrett Allen,C,TOR,32.5,Pts+Rebs+Asts
-Scottie Barnes,G-F,CLE,36.5,Pts+Rebs+Asts
-Max Strus,G-F,TOR,25.0,Pts+Rebs+Asts
-RJ Barrett,F-G,CLE,23.5,Pts+Rebs+Asts
-Caris LeVert,G,TOR,21.0,Pts+Rebs+Asts
-Brook Lopez,C,IND,19.5,Pts+Rebs+Asts
-Myles Turner,C-F,MIL,28.0,Pts+Rebs+Asts
-Damian Lillard,G,IND,36.5,Pts+Rebs+Asts
-Tyrese Haliburton,G,MIL,44.0,Pts+Rebs+Asts
-Giannis Antetokounmpo,F,IND,55.0,Pts+Rebs+Asts
-Andrew Nembhard,G-F,MIL,19.5,Pts+Rebs+Asts
-Aaron Nesmith,G-F,MIL,18.5,Pts+Rebs+Asts
-Khris Middleton,F,IND,29.5,Pts+Rebs+Asts
-Jalen Smith,F-C,MIL,19.5,Pts+Rebs+Asts
-Malik Beasley,G,IND,16.5,Pts+Rebs+Asts
-Bobby Portis,F,IND,21.5,Pts+Rebs+Asts
-Cade Cunningham,G,HOU,37.0,Pts+Rebs+Asts
-Jalen Green,G,DET,29.5,Pts+Rebs+Asts
-Bojan Bogdanovic,G-F,HOU,25.5,Pts+Rebs+Asts
-Fred VanVleet,G,DET,32.0,Pts+Rebs+Asts
-Jalen Duren,C,HOU,28.0,Pts+Rebs+Asts
-Alperen Sengun,C,DET,40.5,Pts+Rebs+Asts
-Jaden Ivey,G,HOU,20.5,Pts+Rebs+Asts
-Jabari Smith Jr.,F,DET,24.5,Pts+Rebs+Asts
-Jamal Murray,G,CHA,33.5,Pts+Rebs+Asts
-Brandon Miller,F-G,DEN,24.5,Pts+Rebs+Asts
-Miles Bridges,F,DEN,33.0,Pts+Rebs+Asts
-Michael Porter Jr.,F,CHA,25.5,Pts+Rebs+Asts
-Terry Rozier,G,DEN,34.0,Pts+Rebs+Asts
-Nikola Jokic,C,CHA,48.5,Pts+Rebs+Asts
-Nick Richards,C,DEN,20.5,Pts+Rebs+Asts
-Malcolm Brogdon,G,PHX,32.5,Pts+Rebs+Asts
-Devin Booker,G,POR,44.5,Pts+Rebs+Asts
-Jerami Grant,F,PHX,32.5,Pts+Rebs+Asts
-Jusuf Nurkic,C,POR,31.5,Pts+Rebs+Asts
-Grayson Allen,G,POR,22.0,Pts+Rebs+Asts
-Lauri Markkanen,F-C,DAL,34.5,Pts+Rebs+Asts
-Luka Doncic,F-G,UTA,52.5,Pts+Rebs+Asts
-Collin Sexton,G,DAL,26.0,Pts+Rebs+Asts
-Dereck Lively II,C,UTA,18.5,Pts+Rebs+Asts
-John Collins,F-C,DAL,18.5,Pts+Rebs+Asts
-Jordan Clarkson,G,DAL,23.5,Pts+Rebs+Asts
-Paul George,F,MIA,32.5,Pts+Rebs+Asts
-Bam Adebayo,C-F,LAC,37.5,Pts+Rebs+Asts
-James Harden,G,MIA,32.5,Pts+Rebs+Asts
-Tyler Herro,G,LAC,34.5,Pts+Rebs+Asts
-Ivica Zubac,C,MIA,22.5,Pts+Rebs+Asts
-Jaime Jaquez Jr.,F-G,LAC,23.5,Pts+Rebs+Asts
-Jakob Poeltl,C,CLE,9.5,Points
-Donovan Mitchell,G,TOR,30.0,Points
-Pascal Siakam,F,CLE,23.0,Points
-Jarrett Allen,C,TOR,17.0,Points
-Scottie Barnes,G-F,CLE,21.5,Points
-Max Strus,G-F,TOR,16.0,Points
-RJ Barrett,F-G,CLE,16.5,Points
-Isaac Okoro,F-G,TOR,9.5,Points
-Caris LeVert,G,TOR,13.5,Points
-Georges Niang,F,TOR,7.5,Points
-Brook Lopez,C,IND,12.5,Points
-Myles Turner,C-F,MIL,19.5,Points
-Damian Lillard,G,IND,25.5,Points
-Tyrese Haliburton,G,MIL,25.5,Points
-Giannis Antetokounmpo,F,IND,36.5,Points
-Andrew Nembhard,G-F,MIL,11.5,Points
-Khris Middleton,F,IND,18.5,Points
-Jalen Smith,F-C,MIL,11.5,Points
-Malik Beasley,G,IND,11.5,Points
-Aaron Nesmith,G-F,MIL,12.5,Points
-Bobby Portis,F,IND,12.5,Points
-Cade Cunningham,G,HOU,24.5,Points
-Jalen Green,G,DET,21.5,Points
-Bojan Bogdanovic,G-F,HOU,19.5,Points
-Fred VanVleet,G,DET,19.5,Points
-Jalen Duren,C,HOU,13.5,Points
-Alperen Sengun,C,DET,24.5,Points
-Jaden Ivey,G,HOU,13.5,Points
-Jabari Smith Jr.,F,DET,14.5,Points
-Alec Burks,G,HOU,10.5,Points
-Jamal Murray,G,CHA,22.5,Points
-Brandon Miller,F-G,DEN,17.5,Points
-Kentavious Caldwell-Pope,G,CHA,9.5,Points
-Miles Bridges,F,DEN,22.5,Points
-Michael Porter Jr.,F,CHA,16.5,Points
-Terry Rozier,G,DEN,22.5,Points
-Nikola Jokic,C,CHA,25.5,Points
-Nick Richards,C,DEN,10.0,Points
-Malcolm Brogdon,G,PHX,21.5,Points
-Devin Booker,G,POR,31.5,Points
-Jerami Grant,F,PHX,24.5,Points
-Jusuf Nurkic,C,POR,16.5,Points
-Grayson Allen,G,POR,14.5,Points
-Lauri Markkanen,F-C,DAL,23.5,Points
-Luka Doncic,F-G,UTA,33.5,Points
-Collin Sexton,G,DAL,18.5,Points
-Dereck Lively II,C,UTA,9.5,Points
-John Collins,F-C,DAL,11.5,Points
-Jordan Clarkson,G,DAL,15.5,Points
-Paul George,F,MIA,23.5,Points
-Bam Adebayo,C-F,LAC,22.5,Points
-James Harden,G,MIA,18.5,Points
-Tyler Herro,G,LAC,24.5,Points
-Ivica Zubac,C,MIA,11.5,Points
-Jaime Jaquez Jr.,F-G,LAC,16.5,Points
-Jakob Poeltl,C,CLE,9.0,Rebounds
-Donovan Mitchell,G,TOR,5.0,Rebounds
-Pascal Siakam,F,CLE,7.0,Rebounds
-Jarrett Allen,C,TOR,11.5,Rebounds
-Scottie Barnes,G-F,CLE,9.0,Rebounds
-Max Strus,G-F,TOR,4.5,Rebounds
-RJ Barrett,F-G,CLE,4.0,Rebounds
-Dean Wade,F-C,TOR,4.5,Rebounds
-Georges Niang,F,TOR,2.5,Rebounds
-Brook Lopez,C,IND,5.5,Rebounds
-Myles Turner,C-F,MIL,7.5,Rebounds
-Damian Lillard,G,IND,4.0,Rebounds
-Tyrese Haliburton,G,MIL,4.0,Rebounds
-Giannis Antetokounmpo,F,IND,12.5,Rebounds
-Andrew Nembhard,G-F,MIL,2.5,Rebounds
-Khris Middleton,F,IND,5.0,Rebounds
-Jalen Smith,F-C,MIL,7.0,Rebounds
-Aaron Nesmith,G-F,MIL,4.0,Rebounds
-Bobby Portis,F,IND,7.5,Rebounds
-Cade Cunningham,G,HOU,4.5,Rebounds
-Bojan Bogdanovic,G-F,HOU,4.0,Rebounds
-Jalen Duren,C,HOU,12.5,Rebounds
-Alperen Sengun,C,DET,10.5,Rebounds
-Jabari Smith Jr.,F,DET,8.0,Rebounds
-Jamal Murray,G,CHA,4.5,Rebounds
-Brandon Miller,F-G,DEN,3.5,Rebounds
-Kentavious Caldwell-Pope,G,CHA,2.5,Rebounds
-Miles Bridges,F,DEN,7.0,Rebounds
-Michael Porter Jr.,F,CHA,7.5,Rebounds
-Terry Rozier,G,DEN,4.0,Rebounds
-Nikola Jokic,C,CHA,13.0,Rebounds
-Nick Richards,C,DEN,9.0,Rebounds
-Malcolm Brogdon,G,PHX,4.5,Rebounds
-Devin Booker,G,POR,5.0,Rebounds
-Jerami Grant,F,PHX,5.0,Rebounds
-Jusuf Nurkic,C,POR,11.5,Rebounds
-Grayson Allen,G,POR,4.0,Rebounds
-Lauri Markkanen,F-C,DAL,9.0,Rebounds
-Luka Doncic,F-G,UTA,9.0,Rebounds
-Dereck Lively II,C,UTA,8.5,Rebounds
-John Collins,F-C,DAL,6.5,Rebounds
-Paul George,F,MIA,5.0,Rebounds
-Bam Adebayo,C-F,LAC,10.5,Rebounds
-James Harden,G,MIA,5.0,Rebounds
-Tyler Herro,G,LAC,5.0,Rebounds
-Ivica Zubac,C,MIA,9.5,Rebounds
-Jaime Jaquez Jr.,F-G,LAC,4.5,Rebounds
-Donovan Mitchell,G,TOR,6.5,Assists
-Pascal Siakam,F,CLE,5.0,Assists
-Scottie Barnes,G-F,CLE,5.5,Assists
-Max Strus,G-F,TOR,4.0,Assists
-RJ Barrett,F-G,CLE,2.5,Assists
-Caris LeVert,G,TOR,3.5,Assists
-Damian Lillard,G,IND,7.0,Assists
-Tyrese Haliburton,G,MIL,13.5,Assists
-Giannis Antetokounmpo,F,IND,6.0,Assists
-Andrew Nembhard,G-F,MIL,5.0,Assists
-Khris Middleton,F,IND,6.0,Assists
-Cade Cunningham,G,HOU,7.5,Assists
-Bojan Bogdanovic,G-F,HOU,2.5,Assists
-Fred VanVleet,G,DET,8.0,Assists
-Alperen Sengun,C,DET,5.0,Assists
-Jamal Murray,G,CHA,6.5,Assists
-Terry Rozier,G,DEN,7.0,Assists
-Nikola Jokic,C,CHA,9.0,Assists
-Malcolm Brogdon,G,PHX,6.5,Assists
-Devin Booker,G,POR,8.0,Assists
-Jerami Grant,F,PHX,2.5,Assists
-Collin Sexton,G,DAL,4.0,Assists
-Luka Doncic,F-G,UTA,9.0,Assists
-Paul George,F,MIA,4.0,Assists
-Bam Adebayo,C-F,LAC,4.5,Assists
-James Harden,G,MIA,8.5,Assists
-Tyler Herro,G,LAC,4.5,Assists
-Jaime Jaquez Jr.,F-G,LAC,2.5,Assists
-Jakob Poeltl,C,CLE,29.0,Fantasy Score
-Donovan Mitchell,G,TOR,48.0,Fantasy Score
-Pascal Siakam,F,CLE,39.5,Fantasy Score
-Jarrett Allen,C,TOR,39.0,Fantasy Score
-Scottie Barnes,G-F,CLE,45.5,Fantasy Score
-Max Strus,G-F,TOR,29.5,Fantasy Score
-Brook Lopez,C,IND,30.5,Fantasy Score
-Damian Lillard,G,IND,42.5,Fantasy Score
-Tyrese Haliburton,G,MIL,52.5,Fantasy Score
-Giannis Antetokounmpo,F,IND,63.5,Fantasy Score
-Khris Middleton,F,IND,34.5,Fantasy Score
-Jalen Green,G,DET,32.5,Fantasy Score
-Fred VanVleet,G,DET,41.0,Fantasy Score
-Bojan Bogdanovic,G-F,HOU,28.5,Fantasy Score
-Alperen Sengun,C,DET,48.5,Fantasy Score
-Jalen Duren,C,HOU,36.0,Fantasy Score
-Jaden Ivey,G,HOU,25.5,Fantasy Score
-Donovan Mitchell,G,TOR,9.0,3-PT Attempted
-Max Strus,G-F,TOR,9.5,3-PT Attempted
-Donovan Mitchell + Scottie Barnes,SG/SF,CLE,51.5,Points (Combo)
-Tyrese Haliburton + Giannis Antetokounmpo,PG/PF,IND,62.5,Points (Combo)
-Tyrese Haliburton + Damian Lillard,PG,IND,51.5,Points (Combo)
-Cade Cunningham + Alperen Sengun,PG/C,DET,48.5,Points (Combo)
-Terry Rozier + Jamal Murray,SG/PG,CHA,45.5,Points (Combo)
-Miles Bridges + Nikola Jokic,SF/C,CHA,48.5,Points (Combo)
-Luka Doncic + Lauri Markkanen,PG/PF,DAL,57.5,Points (Combo)
-Paul George + Tyler Herro,F/PG,LAC,48.5,Points (Combo)
-Donovan Mitchell + Scottie Barnes,SG/SF,CLE,12.0,Assists (Combo)
-Tyrese Haliburton + Damian Lillard,PG,IND,21.0,Assists (Combo)
-Cade Cunningham + Fred VanVleet,PG,DET,15.5,Assists (Combo)
-Terry Rozier + Nikola Jokic,SG/C,CHA,16.5,Assists (Combo)
-Luka Doncic + Jordan Clarkson,PG,DAL,13.0,Assists (Combo)
-James Harden + Tyler Herro,SG/PG,LAC,13.5,Assists (Combo)
-Jarrett Allen + Pascal Siakam,C/PG,CLE,18.5,Rebounds (Combo)
-Myles Turner + Giannis Antetokounmpo,C/PF,IND,20.0,Rebounds (Combo)
-Jalen Duren + Alperen Sengun,C,DET,23.0,Rebounds (Combo)
-Ivica Zubac + Bam Adebayo,C,LAC,20.5,Rebounds (Combo)
-Tyrese Haliburton + Damian Lillard,PG,IND,7.5,3-PT Made (Combo)
-Bojan Bogdanovic + Fred VanVleet,SF/PG,DET,5.5,3-PT Made (Combo)
-Terry Rozier + Jamal Murray,SG/PG,CHA,5.5,3-PT Made (Combo)
-Luka Doncic + Lauri Markkanen,PG/PF,DAL,7.0,3-PT Made (Combo)
-Paul George + Tyler Herro,F/PG,LAC,6.5,3-PT Made (Combo)
-Jakob Poeltl,C,CLE,17.5,Pts+Rebs
-Donovan Mitchell,G,TOR,35.5,Pts+Rebs
-Pascal Siakam,F,CLE,30.5,Pts+Rebs
-Jarrett Allen,C,TOR,29.5,Pts+Rebs
-Scottie Barnes,G-F,CLE,31.0,Pts+Rebs
-Max Strus,G-F,TOR,21.0,Pts+Rebs
-RJ Barrett,F-G,CLE,20.5,Pts+Rebs
-Isaac Okoro,F-G,TOR,13.0,Pts+Rebs
-Dean Wade,F-C,TOR,10.0,Pts+Rebs
-Caris LeVert,G,TOR,16.5,Pts+Rebs
-Georges Niang,F,TOR,10.5,Pts+Rebs
-Brook Lopez,C,IND,18.0,Pts+Rebs
-Myles Turner,C-F,MIL,27.5,Pts+Rebs
-Damian Lillard,G,IND,29.5,Pts+Rebs
-Tyrese Haliburton,G,MIL,30.0,Pts+Rebs
-Giannis Antetokounmpo,F,IND,48.5,Pts+Rebs
-Andrew Nembhard,G-F,MIL,14.5,Pts+Rebs
-Khris Middleton,F,IND,23.5,Pts+Rebs
-Jalen Smith,F-C,MIL,18.5,Pts+Rebs
-Malik Beasley,G,IND,15.0,Pts+Rebs
-Aaron Nesmith,G-F,MIL,16.5,Pts+Rebs
-Bobby Portis,F,IND,20.5,Pts+Rebs
-Cade Cunningham,G,HOU,29.5,Pts+Rebs
-Jalen Green,G,DET,26.5,Pts+Rebs
-Bojan Bogdanovic,G-F,HOU,23.5,Pts+Rebs
-Fred VanVleet,G,DET,23.5,Pts+Rebs
-Jalen Duren,C,HOU,26.0,Pts+Rebs
-Alperen Sengun,C,DET,35.5,Pts+Rebs
-Jabari Smith Jr.,F,DET,22.5,Pts+Rebs
-Alec Burks,G,HOU,13.5,Pts+Rebs
-Jamal Murray,G,CHA,27.5,Pts+Rebs
-Brandon Miller,F-G,DEN,21.5,Pts+Rebs
-Kentavious Caldwell-Pope,G,CHA,12.5,Pts+Rebs
-Miles Bridges,F,DEN,29.5,Pts+Rebs
-Michael Porter Jr.,F,CHA,23.5,Pts+Rebs
-Terry Rozier,G,DEN,26.5,Pts+Rebs
-Nikola Jokic,C,CHA,39.5,Pts+Rebs
-Nick Richards,C,DEN,19.5,Pts+Rebs
-Malcolm Brogdon,G,PHX,26.0,Pts+Rebs
-Devin Booker,G,POR,36.5,Pts+Rebs
-Jerami Grant,F,PHX,29.5,Pts+Rebs
-Jusuf Nurkic,C,POR,28.5,Pts+Rebs
-Grayson Allen,G,POR,18.5,Pts+Rebs
-Lauri Markkanen,F-C,DAL,33.0,Pts+Rebs
-Luka Doncic,F-G,UTA,43.5,Pts+Rebs
-Collin Sexton,G,DAL,21.5,Pts+Rebs
-Dereck Lively II,C,UTA,17.5,Pts+Rebs
-John Collins,F-C,DAL,18.5,Pts+Rebs
-Jordan Clarkson,G,DAL,19.5,Pts+Rebs
-Paul George,F,MIA,28.5,Pts+Rebs
-Bam Adebayo,C-F,LAC,32.5,Pts+Rebs
-James Harden,G,MIA,24.5,Pts+Rebs
-Tyler Herro,G,LAC,29.5,Pts+Rebs
-Ivica Zubac,C,MIA,21.5,Pts+Rebs
-Jaime Jaquez Jr.,F-G,LAC,20.5,Pts+Rebs
-Jakob Poeltl,C,CLE,0.5,Dunks
-Jarrett Allen,C,TOR,1.5,Dunks
-Brook Lopez,C,IND,0.5,Dunks
-Jalen Duren,C,HOU,2.5,Dunks
-Brandon Miller,F-G,DEN,0.5,Dunks
-Michael Porter Jr.,F,CHA,0.5,Dunks
-John Collins,F-C,DAL,0.5,Dunks
-Bam Adebayo,C-F,LAC,1.5,Dunks
-Jakob Poeltl,C,CLE,11.5,Pts+Asts
-Donovan Mitchell,G,TOR,36.5,Pts+Asts
-Pascal Siakam,F,CLE,28.5,Pts+Asts
-Jarrett Allen,C,TOR,21.0,Pts+Asts
-Scottie Barnes,G-F,CLE,27.5,Pts+Asts
-Max Strus,G-F,TOR,20.0,Pts+Asts
-RJ Barrett,F-G,CLE,18.5,Pts+Asts
-Isaac Okoro,F-G,TOR,11.5,Pts+Asts
-Caris LeVert,G,TOR,17.5,Pts+Asts
-Brook Lopez,C,IND,14.5,Pts+Asts
-Myles Turner,C-F,MIL,20.5,Pts+Asts
-Damian Lillard,G,IND,32.5,Pts+Asts
-Tyrese Haliburton,G,MIL,40.0,Pts+Asts
-Giannis Antetokounmpo,F,IND,42.5,Pts+Asts
-Andrew Nembhard,G-F,MIL,17.5,Pts+Asts
-Khris Middleton,F,IND,25.5,Pts+Asts
-Jalen Smith,F-C,MIL,12.5,Pts+Asts
-Malik Beasley,G,IND,12.5,Pts+Asts
-Aaron Nesmith,G-F,MIL,13.5,Pts+Asts
-Bobby Portis,F,IND,13.5,Pts+Asts
-Jalen Green,G,DET,25.5,Pts+Asts
-Bojan Bogdanovic,G-F,HOU,21.5,Pts+Asts
-Fred VanVleet,G,DET,28.5,Pts+Asts
-Jalen Duren,C,HOU,15.5,Pts+Asts
-Alperen Sengun,C,DET,29.5,Pts+Asts
-Jaden Ivey,G,HOU,17.5,Pts+Asts
-Jabari Smith Jr.,F,DET,16.5,Pts+Asts
-Alec Burks,G,HOU,12.5,Pts+Asts
-Jamal Murray,G,CHA,29.0,Pts+Asts
-Brandon Miller,F-G,DEN,21.5,Pts+Asts
-Kentavious Caldwell-Pope,G,CHA,12.5,Pts+Asts
-Miles Bridges,F,DEN,26.5,Pts+Asts
-Michael Porter Jr.,F,CHA,17.5,Pts+Asts
-Terry Rozier,G,DEN,30.5,Pts+Asts
-Nikola Jokic,C,CHA,35.5,Pts+Asts
-Nick Richards,C,DEN,11.5,Pts+Asts
-Malcolm Brogdon,G,PHX,27.5,Pts+Asts
-Devin Booker,G,POR,38.5,Pts+Asts
-Jerami Grant,F,PHX,26.5,Pts+Asts
-Jusuf Nurkic,C,POR,19.5,Pts+Asts
-Grayson Allen,G,POR,17.5,Pts+Asts
-Lauri Markkanen,F-C,DAL,25.5,Pts+Asts
-Luka Doncic,F-G,UTA,43.5,Pts+Asts
-Collin Sexton,G,DAL,23.5,Pts+Asts
-Dereck Lively II,C,UTA,10.5,Pts+Asts
-John Collins,F-C,DAL,12.5,Pts+Asts
-Paul George,F,MIA,27.5,Pts+Asts
-Bam Adebayo,C-F,LAC,26.5,Pts+Asts
-James Harden,G,MIA,27.5,Pts+Asts
-Tyler Herro,G,LAC,29.5,Pts+Asts
-Ivica Zubac,C,MIA,12.5,Pts+Asts
-Jaime Jaquez Jr.,F-G,LAC,18.5,Pts+Asts
-RJ Barrett,F-G,CLE,1.5,3-PT Made
-Georges Niang,F,TOR,1.5,3-PT Made
-Brook Lopez,C,IND,1.5,3-PT Made
-Jalen Green,G,DET,2.5,3-PT Made
-Alperen Sengun,C,DET,0.5,3-PT Made
-Jabari Smith Jr.,F,DET,1.5,3-PT Made
-Jamal Murray,G,CHA,2.5,3-PT Made
-Kentavious Caldwell-Pope,G,CHA,1.5,3-PT Made
-Collin Sexton,G,DAL,1.5,3-PT Made
-Brook Lopez,C,IND,2.5,Blocked Shots
-Jalen Smith,F-C,MIL,0.5,Blocked Shots
-Jalen Duren,C,HOU,1.5,Blocked Shots
-Kentavious Caldwell-Pope,G,CHA,0.5,Blocked Shots
-Jerami Grant,F,PHX,0.5,Blocked Shots
-Grayson Allen,G,POR,0.5,Blocked Shots
-Luka Doncic,F-G,UTA,0.5,Blocked Shots
-Dereck Lively II,C,UTA,1.5,Blocked Shots
-John Collins,F-C,DAL,0.5,Blocked Shots
-James Harden,G,MIA,0.5,Blocked Shots
-Jakob Poeltl,C,CLE,0.5,Steals
-RJ Barrett,F-G,CLE,0.5,Steals
-Isaac Okoro,F-G,TOR,0.5,Steals
-Brook Lopez,C,IND,0.5,Steals
-Myles Turner,C-F,MIL,0.5,Steals
-Bojan Bogdanovic,G-F,HOU,0.5,Steals
-Dereck Lively II,C,UTA,0.5,Steals
-Jakob Poeltl,C,CLE,11.5,Rebs+Asts
-Donovan Mitchell,G,TOR,12.0,Rebs+Asts
-Pascal Siakam,F,CLE,12.0,Rebs+Asts
-Jarrett Allen,C,TOR,15.0,Rebs+Asts
-Scottie Barnes,G-F,CLE,14.5,Rebs+Asts
-Max Strus,G-F,TOR,8.5,Rebs+Asts
-Caris LeVert,G,TOR,7.5,Rebs+Asts
-Myles Turner,C-F,MIL,8.5,Rebs+Asts
-Damian Lillard,G,IND,11.5,Rebs+Asts
-Tyrese Haliburton,G,MIL,17.5,Rebs+Asts
-Giannis Antetokounmpo,F,IND,18.5,Rebs+Asts
-Andrew Nembhard,G-F,MIL,8.0,Rebs+Asts
-Khris Middleton,F,IND,11.5,Rebs+Asts
-Jalen Smith,F-C,MIL,8.0,Rebs+Asts
-Bobby Portis,F,IND,8.5,Rebs+Asts
-Cade Cunningham,G,HOU,12.5,Rebs+Asts
-Fred VanVleet,G,DET,12.5,Rebs+Asts
-Jalen Duren,C,HOU,14.0,Rebs+Asts
-Alperen Sengun,C,DET,15.5,Rebs+Asts
-Jabari Smith Jr.,F,DET,9.5,Rebs+Asts
-Jamal Murray,G,CHA,11.0,Rebs+Asts
-Miles Bridges,F,DEN,10.5,Rebs+Asts
-Michael Porter Jr.,F,CHA,8.5,Rebs+Asts
-Terry Rozier,G,DEN,11.5,Rebs+Asts
-Nikola Jokic,C,CHA,22.5,Rebs+Asts
-Nick Richards,C,DEN,10.5,Rebs+Asts
-Malcolm Brogdon,G,PHX,11.5,Rebs+Asts
-Devin Booker,G,POR,12.5,Rebs+Asts
-Jerami Grant,F,PHX,7.5,Rebs+Asts
-Jusuf Nurkic,C,POR,15.5,Rebs+Asts
-Lauri Markkanen,F-C,DAL,10.5,Rebs+Asts
-Luka Doncic,F-G,UTA,18.5,Rebs+Asts
-Collin Sexton,G,DAL,7.0,Rebs+Asts
-Dereck Lively II,C,UTA,9.5,Rebs+Asts
-John Collins,F-C,DAL,7.5,Rebs+Asts
-Paul George,F,MIA,9.0,Rebs+Asts
-Bam Adebayo,C-F,LAC,15.5,Rebs+Asts
-James Harden,G,MIA,13.5,Rebs+Asts
-Tyler Herro,G,LAC,10.0,Rebs+Asts
-Ivica Zubac,C,MIA,10.5,Rebs+Asts
-Jaime Jaquez Jr.,F-G,LAC,7.5,Rebs+Asts
-Scottie Barnes,G-F,CLE,2.5,Blks+Stls
-Myles Turner,C-F,MIL,2.5,Blks+Stls
-Tyrese Haliburton,G,MIL,1.5,Blks+Stls
-Aaron Nesmith,G-F,MIL,1.5,Blks+Stls
-Cade Cunningham,G,HOU,1.5,Blks+Stls
-Miles Bridges,F,DEN,1.5,Blks+Stls
-Devin Booker,G,POR,1.5,Blks+Stls
-Jusuf Nurkic,C,POR,2.5,Blks+Stls
-Paul George,F,MIA,1.5,Blks+Stls
-Ivica Zubac,C,MIA,1.5,Blks+Stls
-Jaime Jaquez Jr.,F-G,LAC,1.5,Blks+Stls
-Jarrett Allen,C,TOR,1.5,Turnovers
-Scottie Barnes,G-F,CLE,2.5,Turnovers
-Max Strus,G-F,TOR,1.5,Turnovers
-Caris LeVert,G,TOR,1.5,Turnovers
-Tyrese Haliburton,G,MIL,2.5,Turnovers
-Andrew Nembhard,G-F,MIL,1.5,Turnovers
-Malik Beasley,G,IND,0.5,Turnovers
-Cade Cunningham,G,HOU,3.5,Turnovers
-Bojan Bogdanovic,G-F,HOU,2.5,Turnovers
-Kentavious Caldwell-Pope,G,CHA,0.5,Turnovers
-Terry Rozier,G,DEN,2.5,Turnovers
-Luka Doncic,F-G,UTA,3.5,Turnovers
-Tyler Herro,G,LAC,2.5,Turnovers
+Devin Vassell,G,MIL,19.5,Points
+Giannis Antetokounmpo,F,SAS,31.5,Points
+Jeremy Sochan,F,MIL,12.0,Points
+Brook Lopez,C,SAS,13.5,Points
+Victor Wembanyama,F-C,MIL,19.5,Points
+Damian Lillard,G,SAS,25.5,Points
+Keldon Johnson,G-F,MIL,19.5,Points
+Malik Beasley,G,SAS,9.5,Points
+Tre Jones,G,MIL,11.5,Points
+Chris Paul,G,DEN,10.5,Points
+Aaron Gordon,F,GSW,14.0,Points
+Jonathan Kuminga,F,DEN,13.5,Points
+Jamal Murray,G,GSW,23.0,Points
+Klay Thompson,G,DEN,15.5,Points
+Kentavious Caldwell-Pope,G,GSW,9.5,Points
+Stephen Curry,G,DEN,27.5,Points
+Michael Porter Jr.,F,GSW,16.5,Points
+Trayce Jackson-Davis,F,DEN,10.0,Points
+Nikola Jokic,C,GSW,26.0,Points
+Andrew Wiggins,F,DEN,11.5,Points
+Reggie Jackson,G,GSW,7.5,Points
+Brandin Podziemski,G,DEN,9.5,Points
+Dario Saric,F-C,DEN,7.5,Points
+Devin Vassell,G,MIL,3.5,Rebounds
+Giannis Antetokounmpo,F,SAS,12.5,Rebounds
+Jeremy Sochan,F,MIL,5.5,Rebounds
+Brook Lopez,C,SAS,5.5,Rebounds
+Victor Wembanyama,F-C,MIL,9.0,Rebounds
+Keldon Johnson,G-F,MIL,6.0,Rebounds
+Tre Jones,G,MIL,3.5,Rebounds
+Chris Paul,G,DEN,3.5,Rebounds
+Aaron Gordon,F,GSW,6.0,Rebounds
+Jonathan Kuminga,F,DEN,5.0,Rebounds
+Jamal Murray,G,GSW,4.0,Rebounds
+Stephen Curry,G,DEN,4.0,Rebounds
+Michael Porter Jr.,F,GSW,7.0,Rebounds
+Trayce Jackson-Davis,F,DEN,6.0,Rebounds
+Nikola Jokic,C,GSW,13.0,Rebounds
+Andrew Wiggins,F,DEN,3.5,Rebounds
+Brandin Podziemski,G,DEN,5.0,Rebounds
+Dario Saric,F-C,DEN,4.0,Rebounds
+Christian Braun,G,GSW,2.5,Rebounds
+Devin Vassell,G,MIL,27.5,Pts+Rebs+Asts
+Giannis Antetokounmpo,F,SAS,50.5,Pts+Rebs+Asts
+Jeremy Sochan,F,MIL,21.5,Pts+Rebs+Asts
+Brook Lopez,C,SAS,20.5,Pts+Rebs+Asts
+Victor Wembanyama,F-C,MIL,31.5,Pts+Rebs+Asts
+Damian Lillard,G,SAS,36.5,Pts+Rebs+Asts
+Keldon Johnson,G-F,MIL,29.5,Pts+Rebs+Asts
+Malik Beasley,G,SAS,15.5,Pts+Rebs+Asts
+Tre Jones,G,MIL,22.5,Pts+Rebs+Asts
+Chris Paul,G,DEN,21.5,Pts+Rebs+Asts
+Aaron Gordon,F,GSW,23.5,Pts+Rebs+Asts
+Jonathan Kuminga,F,DEN,21.5,Pts+Rebs+Asts
+Jamal Murray,G,GSW,32.5,Pts+Rebs+Asts
+Klay Thompson,G,DEN,20.5,Pts+Rebs+Asts
+Stephen Curry,G,DEN,37.5,Pts+Rebs+Asts
+Michael Porter Jr.,F,GSW,25.5,Pts+Rebs+Asts
+Trayce Jackson-Davis,F,DEN,17.5,Pts+Rebs+Asts
+Nikola Jokic,C,GSW,48.5,Pts+Rebs+Asts
+Andrew Wiggins,F,DEN,16.5,Pts+Rebs+Asts
+Brandin Podziemski,G,DEN,18.5,Pts+Rebs+Asts
+Devin Vassell,G,MIL,3.5,Assists
+Damian Lillard,G,SAS,7.0,Assists
+Tre Jones,G,MIL,7.0,Assists
+Chris Paul,G,DEN,7.5,Assists
+Jamal Murray,G,GSW,6.5,Assists
+Stephen Curry,G,DEN,5.0,Assists
+Nikola Jokic,C,GSW,9.0,Assists
+Brandin Podziemski,G,DEN,4.0,Assists
+Devin Vassell,G,MIL,32.5,Fantasy Score
+Giannis Antetokounmpo,F,SAS,60.5,Fantasy Score
+Brook Lopez,C,SAS,30.5,Fantasy Score
+Damian Lillard,G,SAS,42.0,Fantasy Score
+Keldon Johnson,G-F,MIL,33.5,Fantasy Score
+Tre Jones,G,MIL,28.5,Fantasy Score
+Chris Paul,G,DEN,28.5,Fantasy Score
+Aaron Gordon,F,GSW,28.5,Fantasy Score
+Jonathan Kuminga,F,DEN,24.0,Fantasy Score
+Jamal Murray,G,GSW,38.5,Fantasy Score
+Klay Thompson,G,DEN,23.5,Fantasy Score
+Kentavious Caldwell-Pope,G,GSW,19.5,Fantasy Score
+Stephen Curry,G,DEN,41.0,Fantasy Score
+Michael Porter Jr.,F,GSW,28.5,Fantasy Score
+Trayce Jackson-Davis,F,DEN,22.5,Fantasy Score
+Nikola Jokic,C,GSW,58.0,Fantasy Score
+Giannis Antetokounmpo,F,SAS,2.5,Offensive Rebounds
+Devin Vassell,G,MIL,7.0,3-PT Attempted
+Giannis Antetokounmpo + Victor Wembanyama,PF/C,MIL,51.5,Points (Combo)
+Damian Lillard + Devin Vassell,PG/SG,MIL,45.5,Points (Combo)
+Nikola Jokic + Stephen Curry,C/PG,DEN,54.5,Points (Combo)
+Jamal Murray + Klay Thompson,PG/SG,DEN,38.5,Points (Combo)
+Giannis Antetokounmpo + Nikola Jokic,PF/C,GSW,58.5,Points (Combo)
+Damian Lillard + Stephen Curry,PG,DEN,53.5,Points (Combo)
+Damian Lillard + Tre Jones,PG,MIL,14.5,Assists (Combo)
+Nikola Jokic + Chris Paul,C/PG,DEN,16.5,Assists (Combo)
+Jamal Murray + Stephen Curry,PG,DEN,11.5,Assists (Combo)
+Damian Lillard + Chris Paul,PG,DEN,14.5,Assists (Combo)
+Giannis Antetokounmpo + Victor Wembanyama,PF/C,MIL,21.5,Rebounds (Combo)
+Giannis Antetokounmpo + Nikola Jokic,PF/C,GSW,25.5,Rebounds (Combo)
+Damian Lillard + Devin Vassell,PG/SG,MIL,6.0,3-PT Made (Combo)
+Michael Porter Jr. + Klay Thompson,SF/SG,DEN,6.0,3-PT Made (Combo)
+Jamal Murray + Stephen Curry,PG,DEN,7.0,3-PT Made (Combo)
+Damian Lillard + Klay Thompson,PG/SG,DEN,6.5,3-PT Made (Combo)
+Khris Middleton + Stephen Curry,SF/PG,DEN,6.5,3-PT Made (Combo)
+Devin Vassell,G,MIL,2.5,Free Throws Made
+Giannis Antetokounmpo,F,SAS,7.5,Free Throws Made
+Brook Lopez,C,SAS,1.5,Free Throws Made
+Damian Lillard,G,SAS,7.5,Free Throws Made
+Keldon Johnson,G-F,MIL,2.5,Free Throws Made
+Devin Vassell,G,MIL,16.0,FG Attempted
+Giannis Antetokounmpo,F,SAS,20.5,FG Attempted
+Devin Vassell,G,MIL,23.5,Pts+Rebs
+Giannis Antetokounmpo,F,SAS,44.5,Pts+Rebs
+Jeremy Sochan,F,MIL,17.5,Pts+Rebs
+Brook Lopez,C,SAS,19.5,Pts+Rebs
+Victor Wembanyama,F-C,MIL,28.5,Pts+Rebs
+Damian Lillard,G,SAS,29.5,Pts+Rebs
+Keldon Johnson,G-F,MIL,25.5,Pts+Rebs
+Tre Jones,G,MIL,15.5,Pts+Rebs
+Chris Paul,G,DEN,13.5,Pts+Rebs
+Aaron Gordon,F,GSW,20.5,Pts+Rebs
+Jonathan Kuminga,F,DEN,18.5,Pts+Rebs
+Jamal Murray,G,GSW,26.5,Pts+Rebs
+Klay Thompson,G,DEN,18.5,Pts+Rebs
+Kentavious Caldwell-Pope,G,GSW,11.5,Pts+Rebs
+Stephen Curry,G,DEN,31.5,Pts+Rebs
+Michael Porter Jr.,F,GSW,23.5,Pts+Rebs
+Trayce Jackson-Davis,F,DEN,16.5,Pts+Rebs
+Nikola Jokic,C,GSW,39.5,Pts+Rebs
+Andrew Wiggins,F,DEN,15.5,Pts+Rebs
+Brandin Podziemski,G,DEN,14.5,Pts+Rebs
+Dario Saric,F-C,DEN,12.5,Pts+Rebs
+Victor Wembanyama,F-C,MIL,1.5,Dunks
+Devin Vassell,G,MIL,23.5,Pts+Asts
+Giannis Antetokounmpo,F,SAS,37.5,Pts+Asts
+Jeremy Sochan,F,MIL,15.5,Pts+Asts
+Victor Wembanyama,F-C,MIL,22.5,Pts+Asts
+Damian Lillard,G,SAS,32.5,Pts+Asts
+Keldon Johnson,G-F,MIL,23.5,Pts+Asts
+Malik Beasley,G,SAS,11.5,Pts+Asts
+Tre Jones,G,MIL,18.5,Pts+Asts
+Chris Paul,G,DEN,17.5,Pts+Asts
+Aaron Gordon,F,GSW,17.5,Pts+Asts
+Jonathan Kuminga,F,DEN,15.5,Pts+Asts
+Jamal Murray,G,GSW,29.5,Pts+Asts
+Klay Thompson,G,DEN,17.5,Pts+Asts
+Kentavious Caldwell-Pope,G,GSW,11.5,Pts+Asts
+Stephen Curry,G,DEN,33.5,Pts+Asts
+Trayce Jackson-Davis,F,DEN,11.5,Pts+Asts
+Nikola Jokic,C,GSW,35.5,Pts+Asts
+Andrew Wiggins,F,DEN,12.5,Pts+Asts
+Reggie Jackson,G,GSW,10.5,Pts+Asts
+Brandin Podziemski,G,DEN,13.5,Pts+Asts
+Devin Vassell,G,MIL,2.5,3-PT Made
+Damian Lillard,G,SAS,3.5,3-PT Made
+Chris Paul,G,DEN,1.5,3-PT Made
+Kentavious Caldwell-Pope,G,GSW,1.5,3-PT Made
+Stephen Curry,G,DEN,4.5,3-PT Made
+Peyton Watson,G,GSW,0.5,3-PT Made
+Brook Lopez,C,SAS,2.5,Blocked Shots
+Michael Porter Jr.,F,GSW,0.5,Blocked Shots
+Peyton Watson,G,GSW,0.5,Blocked Shots
+Jeremy Sochan,F,MIL,0.5,Steals
+Jonathan Kuminga,F,DEN,0.5,Steals
+Klay Thompson,G,DEN,0.5,Steals
+Trayce Jackson-Davis,F,DEN,0.5,Steals
+Devin Vassell,G,MIL,7.5,Rebs+Asts
+Giannis Antetokounmpo,F,SAS,19.0,Rebs+Asts
+Jeremy Sochan,F,MIL,9.5,Rebs+Asts
+Victor Wembanyama,F-C,MIL,11.5,Rebs+Asts
+Damian Lillard,G,SAS,11.5,Rebs+Asts
+Keldon Johnson,G-F,MIL,9.5,Rebs+Asts
+Tre Jones,G,MIL,10.5,Rebs+Asts
+Chris Paul,G,DEN,11.0,Rebs+Asts
+Aaron Gordon,F,GSW,9.5,Rebs+Asts
+Jamal Murray,G,GSW,10.0,Rebs+Asts
+Stephen Curry,G,DEN,9.0,Rebs+Asts
+Michael Porter Jr.,F,GSW,8.0,Rebs+Asts
+Nikola Jokic,C,GSW,21.5,Rebs+Asts
+Brandin Podziemski,G,DEN,9.5,Rebs+Asts
+Devin Vassell,G,MIL,1.5,Blks+Stls
+Christian Braun,G,GSW,0.5,Blks+Stls
+Keldon Johnson,G-F,MIL,1.5,Turnovers
+Kentavious Caldwell-Pope,G,GSW,0.5,Turnovers
